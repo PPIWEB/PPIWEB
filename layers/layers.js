@@ -609,84 +609,103 @@ var lyr_MANZANAS_38 = new ol.layer.Vector({
                 interactive: true,
                 title: '<img src="styles/legend/MANZANAS_38.png" /> MANZANAS'
             });
-var lyr_15BRISASDELSURModel_georeferenced_39 = new ol.layer.Image({
+var format_FRACCION_39 = new ol.format.GeoJSON();
+var features_FRACCION_39 = format_FRACCION_39.readFeatures(json_FRACCION_39, 
+            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
+var jsonSource_FRACCION_39 = new ol.source.Vector({
+    attributions: ' ',
+});
+jsonSource_FRACCION_39.addFeatures(features_FRACCION_39);
+cluster_FRACCION_39 = new ol.source.Cluster({
+  distance: 30,
+  source: jsonSource_FRACCION_39
+});
+var lyr_FRACCION_39 = new ol.layer.Vector({
+                declutter: false,
+                source:cluster_FRACCION_39, 
+                style: style_FRACCION_39,
+                popuplayertitle: 'FRACCION',
+                interactive: true,
+                title: '<img src="styles/legend/FRACCION_39.png" /> FRACCION'
+            });
+var lyr_15BRISASDELSURModel_georeferenced_40 = new ol.layer.Image({
         opacity: 1,
         
     title: '15-BRISAS DEL SUR-Model_georeferenced<br />' ,
         
         
         source: new ol.source.ImageStatic({
-            url: "./layers/15BRISASDELSURModel_georeferenced_39.png",
+            url: "./layers/15BRISASDELSURModel_georeferenced_40.png",
             attributions: ' ',
             projection: 'EPSG:3857',
             alwaysInRange: true,
             imageExtent: [-6260396.008318, -3142409.132893, -6260156.680500, -3141988.469845]
         })
     });
-var lyr_37COLINASDEITACURUBI33333_40 = new ol.layer.Image({
+var lyr_37COLINASDEITACURUBI33333_41 = new ol.layer.Image({
         opacity: 1,
         
     title: '37-COLINAS DE ITACURUBI-33333<br />' ,
         
         
         source: new ol.source.ImageStatic({
-            url: "./layers/37COLINASDEITACURUBI33333_40.png",
+            url: "./layers/37COLINASDEITACURUBI33333_41.png",
             attributions: ' ',
             projection: 'EPSG:3857',
             alwaysInRange: true,
             imageExtent: [-6328568.916366, -2930918.862621, -6328137.989197, -2930690.567909]
         })
     });
-var lyr_19SALADOIIModelGEO_41 = new ol.layer.Image({
+var lyr_19SALADOIIModelGEO_42 = new ol.layer.Image({
         opacity: 1,
         
     title: '19-SALADO II-Model GEO<br />' ,
         
         
         source: new ol.source.ImageStatic({
-            url: "./layers/19SALADOIIModelGEO_41.png",
+            url: "./layers/19SALADOIIModelGEO_42.png",
             attributions: ' ',
             projection: 'EPSG:3857',
             alwaysInRange: true,
             imageExtent: [-6394826.241285, -2898548.680818, -6394608.928009, -2898426.922167]
         })
     });
-var lyr_16COSTAARENAModel_georeferenced_42 = new ol.layer.Image({
+var lyr_16COSTAARENAModel_georeferenced_43 = new ol.layer.Image({
         opacity: 1,
         
     title: '16-COSTA ARENA-Model_georeferenced<br />' ,
         
         
         source: new ol.source.ImageStatic({
-            url: "./layers/16COSTAARENAModel_georeferenced_42.png",
+            url: "./layers/16COSTAARENAModel_georeferenced_43.png",
             attributions: ' ',
             projection: 'EPSG:3857',
             alwaysInRange: true,
             imageExtent: [-6331494.592181, -2953145.209998, -6331026.302355, -2952228.493796]
         })
     });
-var lyr_18SALADOIModel_georeferenced_43 = new ol.layer.Image({
+var lyr_18SALADOIModel_georeferenced_44 = new ol.layer.Image({
         opacity: 1,
         
     title: '18-SALADO I-Model_georeferenced<br />' ,
         
         
         source: new ol.source.ImageStatic({
-            url: "./layers/18SALADOIModel_georeferenced_43.png",
+            url: "./layers/18SALADOIModel_georeferenced_44.png",
             attributions: ' ',
             projection: 'EPSG:3857',
             alwaysInRange: true,
             imageExtent: [-6394921.875866, -2897103.640079, -6394821.473492, -2897046.571458]
         })
     });
-var lyr_17CUATROBOCASModel_georeferenced_44 = new ol.layer.Image({
+var lyr_17CUATROBOCASModel_georeferenced_45 = new ol.layer.Image({
         opacity: 1,
         
     title: '17-CUATRO BOCAS-Model_georeferenced<br />' ,
         
         
         source: new ol.source.ImageStatic({
-            url: "./layers/17CUATROBOCASModel_georeferenced_44.png",
+            url: "./layers/17CUATROBOCASModel_georeferenced_45.png",
             attributions: ' ',
             projection: 'EPSG:3857',
             alwaysInRange: true,
@@ -694,8 +713,8 @@ var lyr_17CUATROBOCASModel_georeferenced_44 = new ol.layer.Image({
         })
     });
 
-lyr_F_0.setVisible(true);lyr_MAPA_1.setVisible(true);lyr_42_2.setVisible(true);lyr_41SanAgustin_3.setVisible(true);lyr_40_4.setVisible(true);lyr_39_5.setVisible(true);lyr_38_6.setVisible(true);lyr_37_7.setVisible(true);lyr_36_8.setVisible(true);lyr_35BOSQUESDEYACAREY_9.setVisible(true);lyr_34_10.setVisible(true);lyr_33BOSQUESDEITACURUBIII_11.setVisible(true);lyr_32BISQUESDEITACURUBII_12.setVisible(true);lyr_31AIRESDEVILLAREAL_13.setVisible(true);lyr_30LAARBOLEDA_14.setVisible(true);lyr_29ESPERANZAII_15.setVisible(true);lyr_28ESPERANZAI_16.setVisible(true);lyr_27NUEVOAMANECERII_17.setVisible(true);lyr_26VILLAVERDE_18.setVisible(true);lyr_25ISLAVERDE_19.setVisible(true);lyr_24ELPROGRESO_20.setVisible(true);lyr_23ECOBARRIOCERROVISTA_21.setVisible(true);lyr_22PANAMBI_22.setVisible(true);lyr_20NACIENTESDEYTU_23.setVisible(true);lyr_19SALADOII_24.setVisible(true);lyr_18SALADOI_25.setVisible(true);lyr_17CUATROBOCAS_26.setVisible(true);lyr_16COSTAARENA_27.setVisible(true);lyr_15BRISASDELSUR_28.setVisible(true);lyr_14SIERRAVERDE_29.setVisible(true);lyr_11ALTOSDELMONTEII_30.setVisible(true);lyr_10ALTOSDELMONTEI_31.setVisible(true);lyr_9_32.setVisible(true);lyr_8_33.setVisible(true);lyr_07LOSMANGALESII_34.setVisible(true);lyr_06LOSMANGALESI_35.setVisible(true);lyr_3PARQUEDELNORTE_36.setVisible(true);lyr_2RESIDENCIALGUILLERMINA_37.setVisible(true);lyr_MANZANAS_38.setVisible(true);lyr_15BRISASDELSURModel_georeferenced_39.setVisible(true);lyr_37COLINASDEITACURUBI33333_40.setVisible(true);lyr_19SALADOIIModelGEO_41.setVisible(true);lyr_16COSTAARENAModel_georeferenced_42.setVisible(true);lyr_18SALADOIModel_georeferenced_43.setVisible(true);lyr_17CUATROBOCASModel_georeferenced_44.setVisible(true);
-var layersList = [lyr_F_0,lyr_MAPA_1,lyr_42_2,lyr_41SanAgustin_3,lyr_40_4,lyr_39_5,lyr_38_6,lyr_37_7,lyr_36_8,lyr_35BOSQUESDEYACAREY_9,lyr_34_10,lyr_33BOSQUESDEITACURUBIII_11,lyr_32BISQUESDEITACURUBII_12,lyr_31AIRESDEVILLAREAL_13,lyr_30LAARBOLEDA_14,lyr_29ESPERANZAII_15,lyr_28ESPERANZAI_16,lyr_27NUEVOAMANECERII_17,lyr_26VILLAVERDE_18,lyr_25ISLAVERDE_19,lyr_24ELPROGRESO_20,lyr_23ECOBARRIOCERROVISTA_21,lyr_22PANAMBI_22,lyr_20NACIENTESDEYTU_23,lyr_19SALADOII_24,lyr_18SALADOI_25,lyr_17CUATROBOCAS_26,lyr_16COSTAARENA_27,lyr_15BRISASDELSUR_28,lyr_14SIERRAVERDE_29,lyr_11ALTOSDELMONTEII_30,lyr_10ALTOSDELMONTEI_31,lyr_9_32,lyr_8_33,lyr_07LOSMANGALESII_34,lyr_06LOSMANGALESI_35,lyr_3PARQUEDELNORTE_36,lyr_2RESIDENCIALGUILLERMINA_37,lyr_MANZANAS_38,lyr_15BRISASDELSURModel_georeferenced_39,lyr_37COLINASDEITACURUBI33333_40,lyr_19SALADOIIModelGEO_41,lyr_16COSTAARENAModel_georeferenced_42,lyr_18SALADOIModel_georeferenced_43,lyr_17CUATROBOCASModel_georeferenced_44];
+lyr_F_0.setVisible(true);lyr_MAPA_1.setVisible(true);lyr_42_2.setVisible(true);lyr_41SanAgustin_3.setVisible(true);lyr_40_4.setVisible(true);lyr_39_5.setVisible(true);lyr_38_6.setVisible(true);lyr_37_7.setVisible(true);lyr_36_8.setVisible(true);lyr_35BOSQUESDEYACAREY_9.setVisible(true);lyr_34_10.setVisible(true);lyr_33BOSQUESDEITACURUBIII_11.setVisible(true);lyr_32BISQUESDEITACURUBII_12.setVisible(true);lyr_31AIRESDEVILLAREAL_13.setVisible(true);lyr_30LAARBOLEDA_14.setVisible(true);lyr_29ESPERANZAII_15.setVisible(true);lyr_28ESPERANZAI_16.setVisible(true);lyr_27NUEVOAMANECERII_17.setVisible(true);lyr_26VILLAVERDE_18.setVisible(true);lyr_25ISLAVERDE_19.setVisible(true);lyr_24ELPROGRESO_20.setVisible(true);lyr_23ECOBARRIOCERROVISTA_21.setVisible(true);lyr_22PANAMBI_22.setVisible(true);lyr_20NACIENTESDEYTU_23.setVisible(true);lyr_19SALADOII_24.setVisible(true);lyr_18SALADOI_25.setVisible(true);lyr_17CUATROBOCAS_26.setVisible(true);lyr_16COSTAARENA_27.setVisible(true);lyr_15BRISASDELSUR_28.setVisible(true);lyr_14SIERRAVERDE_29.setVisible(true);lyr_11ALTOSDELMONTEII_30.setVisible(true);lyr_10ALTOSDELMONTEI_31.setVisible(true);lyr_9_32.setVisible(true);lyr_8_33.setVisible(true);lyr_07LOSMANGALESII_34.setVisible(true);lyr_06LOSMANGALESI_35.setVisible(true);lyr_3PARQUEDELNORTE_36.setVisible(true);lyr_2RESIDENCIALGUILLERMINA_37.setVisible(true);lyr_MANZANAS_38.setVisible(true);lyr_FRACCION_39.setVisible(true);lyr_15BRISASDELSURModel_georeferenced_40.setVisible(true);lyr_37COLINASDEITACURUBI33333_41.setVisible(true);lyr_19SALADOIIModelGEO_42.setVisible(true);lyr_16COSTAARENAModel_georeferenced_43.setVisible(true);lyr_18SALADOIModel_georeferenced_44.setVisible(true);lyr_17CUATROBOCASModel_georeferenced_45.setVisible(true);
+var layersList = [lyr_F_0,lyr_MAPA_1,lyr_42_2,lyr_41SanAgustin_3,lyr_40_4,lyr_39_5,lyr_38_6,lyr_37_7,lyr_36_8,lyr_35BOSQUESDEYACAREY_9,lyr_34_10,lyr_33BOSQUESDEITACURUBIII_11,lyr_32BISQUESDEITACURUBII_12,lyr_31AIRESDEVILLAREAL_13,lyr_30LAARBOLEDA_14,lyr_29ESPERANZAII_15,lyr_28ESPERANZAI_16,lyr_27NUEVOAMANECERII_17,lyr_26VILLAVERDE_18,lyr_25ISLAVERDE_19,lyr_24ELPROGRESO_20,lyr_23ECOBARRIOCERROVISTA_21,lyr_22PANAMBI_22,lyr_20NACIENTESDEYTU_23,lyr_19SALADOII_24,lyr_18SALADOI_25,lyr_17CUATROBOCAS_26,lyr_16COSTAARENA_27,lyr_15BRISASDELSUR_28,lyr_14SIERRAVERDE_29,lyr_11ALTOSDELMONTEII_30,lyr_10ALTOSDELMONTEI_31,lyr_9_32,lyr_8_33,lyr_07LOSMANGALESII_34,lyr_06LOSMANGALESI_35,lyr_3PARQUEDELNORTE_36,lyr_2RESIDENCIALGUILLERMINA_37,lyr_MANZANAS_38,lyr_FRACCION_39,lyr_15BRISASDELSURModel_georeferenced_40,lyr_37COLINASDEITACURUBI33333_41,lyr_19SALADOIIModelGEO_42,lyr_16COSTAARENAModel_georeferenced_43,lyr_18SALADOIModel_georeferenced_44,lyr_17CUATROBOCASModel_georeferenced_45];
 lyr_F_0.set('fieldAliases', {'F': 'F', });
 lyr_42_2.set('fieldAliases', {'ID': 'ID', });
 lyr_41SanAgustin_3.set('fieldAliases', {'ID': 'ID', 'Manzana': 'Manzana', 'Lote': 'Lote', 'Sup. m2': 'Sup. m2', 'Cuota': 'Cuota', 'Plazo': 'Plazo', 'Financiado': 'Financiado', 'Contado 40': 'Contado 40', 'Estado': 'Estado', });
@@ -734,6 +753,7 @@ lyr_06LOSMANGALESI_35.set('fieldAliases', {'ID': 'ID', });
 lyr_3PARQUEDELNORTE_36.set('fieldAliases', {'ID': 'ID', 'Manzana': 'Manzana', 'Lote': 'Lote', 'Superficie': 'Superficie', 'Entrega Inicial': 'Entrega Inicial', 'Cuota': 'Cuota', 'Total': 'Total', 'Estado': 'Estado', });
 lyr_2RESIDENCIALGUILLERMINA_37.set('fieldAliases', {'ID': 'ID', 'Manzana': 'Manzana', 'Lote': 'Lote', 'Superficie': 'Superficie', 'Entrega Inicial': 'Entrega Inicial', 'Cuota': 'Cuota', 'Total': 'Total', 'Estado': 'Estado', });
 lyr_MANZANAS_38.set('fieldAliases', {'id': 'id', });
+lyr_FRACCION_39.set('fieldAliases', {'FRACCION': 'FRACCION', });
 lyr_F_0.set('fieldImages', {'F': '', });
 lyr_42_2.set('fieldImages', {'ID': '', });
 lyr_41SanAgustin_3.set('fieldImages', {'ID': '', 'Manzana': '', 'Lote': '', 'Sup. m2': '', 'Cuota': '', 'Plazo': '', 'Financiado': '', 'Contado 40': '', 'Estado': '', });
@@ -772,6 +792,7 @@ lyr_06LOSMANGALESI_35.set('fieldImages', {'ID': '', });
 lyr_3PARQUEDELNORTE_36.set('fieldImages', {'ID': 'TextEdit', 'Manzana': 'TextEdit', 'Lote': 'TextEdit', 'Superficie': 'TextEdit', 'Entrega Inicial': 'TextEdit', 'Cuota': 'TextEdit', 'Total': 'TextEdit', 'Estado': 'TextEdit', });
 lyr_2RESIDENCIALGUILLERMINA_37.set('fieldImages', {'ID': 'TextEdit', 'Manzana': 'TextEdit', 'Lote': 'TextEdit', 'Superficie': 'TextEdit', 'Entrega Inicial': 'TextEdit', 'Cuota': 'TextEdit', 'Total': 'TextEdit', 'Estado': 'TextEdit', });
 lyr_MANZANAS_38.set('fieldImages', {'id': 'TextEdit', });
+lyr_FRACCION_39.set('fieldImages', {'FRACCION': 'TextEdit', });
 lyr_F_0.set('fieldLabels', {'F': 'no label', });
 lyr_42_2.set('fieldLabels', {'ID': 'header label - always visible', });
 lyr_41SanAgustin_3.set('fieldLabels', {'ID': 'header label - always visible', 'Manzana': 'header label - always visible', 'Lote': 'header label - always visible', 'Sup. m2': 'header label - always visible', 'Cuota': 'header label - always visible', 'Plazo': 'header label - always visible', 'Financiado': 'header label - always visible', 'Contado 40': 'header label - always visible', 'Estado': 'header label - always visible', });
@@ -810,6 +831,7 @@ lyr_06LOSMANGALESI_35.set('fieldLabels', {'ID': 'header label - always visible',
 lyr_3PARQUEDELNORTE_36.set('fieldLabels', {'ID': 'header label - always visible', 'Manzana': 'header label - always visible', 'Lote': 'header label - always visible', 'Superficie': 'header label - always visible', 'Entrega Inicial': 'header label - always visible', 'Cuota': 'header label - always visible', 'Total': 'header label - always visible', 'Estado': 'header label - always visible', });
 lyr_2RESIDENCIALGUILLERMINA_37.set('fieldLabels', {'ID': 'header label - always visible', 'Manzana': 'header label - always visible', 'Lote': 'header label - always visible', 'Superficie': 'header label - always visible', 'Entrega Inicial': 'header label - always visible', 'Cuota': 'header label - always visible', 'Total': 'header label - always visible', 'Estado': 'header label - always visible', });
 lyr_MANZANAS_38.set('fieldLabels', {'id': 'header label - always visible', });
-lyr_MANZANAS_38.on('precompose', function(evt) {
+lyr_FRACCION_39.set('fieldLabels', {'FRACCION': 'header label - always visible', });
+lyr_FRACCION_39.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });
