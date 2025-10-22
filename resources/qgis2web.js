@@ -548,7 +548,7 @@ var bottomRightContainerDiv = document.getElementById('bottom-right-container')
 //layer search
 
 var searchLayer = new SearchLayer({
-    layer: lyr_F_3,
+    layer: lyr_F_2,
     colName: 'F',
     zoom: 10,
     collapsed: true,

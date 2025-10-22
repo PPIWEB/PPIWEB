@@ -1,6 +1,6 @@
 var size = 0;
 var placement = 'point';
-function categories_PARAGUAYPROPIEDADES_4(feature, value, size, resolution, labelText,
+function categories_PARAGUAYPROPIEDADES_3(feature, value, size, resolution, labelText,
                        labelFont, labelFill, bufferColor, bufferWidth,
                        placement) {
                 var valueStr = (value !== null && value !== undefined) ? value.toString() : 'default';
@@ -85,7 +85,7 @@ case 'Edificio Publico':
     })];
                     break;}};
 
-var style_PARAGUAYPROPIEDADES_4 = function(feature, resolution){
+var style_PARAGUAYPROPIEDADES_3 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
@@ -105,7 +105,7 @@ var style_PARAGUAYPROPIEDADES_4 = function(feature, resolution){
         labelText = String(feature.get("Lote"));
     }
     
-    var style = categories_PARAGUAYPROPIEDADES_4(feature, value, size, resolution, labelText,
+    var style = categories_PARAGUAYPROPIEDADES_3(feature, value, size, resolution, labelText,
                             labelFont, labelFill, bufferColor,
                             bufferWidth, placement);
 
