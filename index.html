@@ -1,6 +1,23 @@
 <!doctype html>
 <html lang="en">
-    <head>
+   <script>
+  (function() {
+    
+    // Safety check to prevent infinite reload loop
+    if (sessionStorage.getItem('reloaded_once') === 'true') {
+      sessionStorage.removeItem('reloaded_once');
+      return;
+    }
+    
+    // Set flag and reload with a unique URL
+    sessionStorage.setItem('reloaded_once', 'true');
+    let currentUrl = new URL(window.location.href);
+    let timestamp = new Date().getTime();
+    currentUrl.searchParams.set('v', timestamp);
+    window.location.replace(currentUrl.toString());
+
+  })();
+</script> <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
