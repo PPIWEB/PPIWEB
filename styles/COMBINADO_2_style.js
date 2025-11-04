@@ -93,7 +93,7 @@ var style_COMBINADO_2 = function(feature, resolution){
     
     var labelText = ""; 
     var value = feature.get("Estado");
-    var labelFont = "13.0px \'Rockwell Extra Bold\', sans-serif";
+    var labelFont = "13.0px \'MS Shell Dlg 2\', sans-serif";
     var labelFill = "#ffffff";
     var bufferColor = "#000000";
     var bufferWidth = 3.0;

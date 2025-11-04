@@ -9,7 +9,7 @@ var style_MANZANAS_3 = function(feature, resolution){
     
     var labelText = ""; 
     var value = feature.get("");
-    var labelFont = "13.0px \'Rockwell Extra Bold\', sans-serif";
+    var labelFont = "13.0px \'MS Shell Dlg 2\', sans-serif";
     var labelFill = "#fb0000";
     var bufferColor = "#fafafa";
     var bufferWidth = 3.0;
