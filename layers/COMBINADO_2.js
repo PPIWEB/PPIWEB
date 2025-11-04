@@ -90754,7 +90754,7 @@ var json_COMBINADO_2 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "750,00Gs.",
         "Total": "97.500.000",
         "Descuento": "40%",
