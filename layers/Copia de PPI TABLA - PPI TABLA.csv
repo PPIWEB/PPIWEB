@@ -1,4 +1,5 @@
 ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
+ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 "001-RESIDENCIAL ALTO PARAISO
 ",,,,,,,,,,
 1-1-1,1,1,734.25,Vendido,,,50%,0Gs.,,1
@@ -32,8 +33,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 2-20-9,20,9,629.88,Cancelado,,,50%,0Gs.,,2
 2-2-10,2,10,,Cancelado,,,50%,0Gs.,,2
 2-16-6,16,6,407.85,Cancelado,,,50%,0Gs.,,2
-2-17-1,17,1,4825.95,Cancelado,,,50%,0Gs.,,2
-2-17-2,17,2,2175.07,Cancelado,,,50%,0Gs.,,2
+2-17-1,17,1,4825.95,Plaza,,,50%,0Gs.,,2
+2-17-2,17,2,2175.07,Edificio Publico,,,50%,0Gs.,,2
 2-5-5,5,5,362.34,Cancelado,,,50%,0Gs.,,2
 2-6-6,6,6,362.34,Cancelado,,,50%,0Gs.,,2
 2-20-4,20,4,855.14,Cancelado,,,50%,0Gs.,,2
@@ -185,7 +186,6 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 3-B-6,B,6,,Cancelado,,,50%,0Gs.,,3
 3-C-8,C,8,,Cancelado,,,50%,0Gs.,,3
 3-B-1,B,1,,Cancelado,,,50%,0Gs.,,3
-3-D-1,D,1,,Cancelado,,,50%,0Gs.,,3
 3-A-12,A,12,,Cancelado,,,50%,0Gs.,,3
 3-B-2,B,2,,Cancelado,,,50%,0Gs.,,3
 3-B-3,B,3,,Cancelado,,,50%,0Gs.,,3
@@ -218,6 +218,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 3-A-9,A,9,360,Libre,"600,00Gs.",78.000.000,50%,39.000.000Gs.,,3
 3-A-10,A,10,360,Libre,"600,00Gs.",78.000.000,50%,39.000.000Gs.,,3
 3-A-11,A,11,360,Libre,"600,00Gs.",78.000.000,50%,39.000.000Gs.,,3
+3-D-1,D,1,,Plaza,,,,,,
 3-A-13,A,13,360,Libre,"550,00Gs.",71.500.000,50%,35.750.000Gs.,,3
 3-A-14,A,14,360,Libre,"550,00Gs.",71.500.000,50%,35.750.000Gs.,,3
 3-A-15,A,15,360,Libre,"550,00Gs.",71.500.000,50%,35.750.000Gs.,,3
@@ -491,6 +492,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 8-3-18,3,18,,Vendido,,,30%,0Gs.,,8
 8-4-5,4,5,,Vendido,,,30%,0Gs.,,8
 8-4-6,4,6,,Vendido,,,30%,0Gs.,,8
+8-3-3,3,3,,Plaza,,,,,,
+8-3-4,3,4,,Edificio Publico,,,,,,
 8-4-6,4,6,,Vendido,,,30%,0Gs.,,8
 8-4-14,4,14,,Vendido,,,30%,0Gs.,,8
 8-4-21,4,21,,Vendido,,,30%,0Gs.,,8
@@ -938,6 +941,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 15-5-4,5,4,,Vendido,,,50%,0Gs.,,15
 15-5-5,5,5,,Vendido,,,50%,0Gs.,,15
 ,,,,,,,,,,
+"016-RESIDENCIAL COSTA ARENA
+",,,,,,,,,,
 16-7-2,7,2,,Cancelado,,,50%,0Gs.,,16
 16-10-2,10,2,,Cancelado,,,50%,0Gs.,,16
 16-10-5,10,5,,Cancelado,,,50%,0Gs.,,16
@@ -1044,6 +1049,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 16-11-7,11,7,,Vendido,,,50%,0Gs.,,16
 16-11-8,11,8,,Vendido,,,50%,0Gs.,,16
 ,,,,,,,,,,
+"017-RESIDENCIAL CUATRO BOCAS
+",,,,,,,,,,
 17-3-4,3,4,,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,17
 17-3-5,3,5,,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,17
 17-3-6,3,6,,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,17
@@ -1155,10 +1162,14 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 17-10-12,10,12,,Vendido,,,50%,0Gs.,,17
 17-10-13,10,13,,Vendido,,,50%,0Gs.,,17
 ,,,,,,,,,,
+"018-RESIDENCIAL SALADO I
+",,,,,,,,,,
 18-1-1,1,1,360.58,Vendido,,,50%,0Gs.,,18
 18-1-2,1,2,368.61,Vendido,,,50%,0Gs.,,18
 18-1-3,1,3,377.22,Vendido,,,50%,0Gs.,,18
 ,,,,,,,,,,
+"019-RESIDENCIAL SALADO II
+",,,,,,,,,,
 19-1-1,1,1,374.86,Vendido,,,50%,0Gs.,,19
 19-1-2,1,2,373.46,Vendido,,,50%,0Gs.,,19
 19-1-3,1,3,366.43,Vendido,,,50%,0Gs.,,19
@@ -1170,6 +1181,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 19-1-9,1,9,369.64,Vendido,,,50%,0Gs.,,19
 19-1-10,1,10,372.43,Vendido,,,50%,0Gs.,,19
 ,,,,,,,,,,
+"020-ECO BARRIO NACIENTES DE YTU
+",,,,,,,,,,
 20-1-9,1,9,360.78,Libre,"480,00Gs.",62.400.000,50%,31.200.000Gs.,,20
 20-1-17,1,17,,Retirado,,,50%,0Gs.,,20
 20-1-18,1,18,,Retirado,,,50%,0Gs.,,20
@@ -1207,6 +1220,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 20-1-35,1,35,,Vendido,,,50%,0Gs.,,20
 20-1-36,1,36,,Vendido,,,50%,0Gs.,,20
 ,,,,,,,,,,
+"022-RESIDENCIAL PANAMBI
+",,,,,,,,,,
 22-1-15,1,15,,Libre,"630,00Gs.",81.900.000,50%,40.950.000Gs.,,22
 22-1-1,1,1,,Cancelado,,,50%,0Gs.,,22
 22-1-12,1,12,,Anulado,,,50%,0Gs.,,22
@@ -1225,6 +1240,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 22-1-16,1,16,,Vendido,,,50%,0Gs.,,22
 22-1-17,1,17,,Vendido,,,50%,0Gs.,,22
 ,,,,,,,,,,
+"023-ECO BARRIO CERRO VISTA
+",,,,,,,,,,
 23-1-2,1,2,362.87,Libre,"330,00Gs.",42.900.000,30%,,,23
 23-1-5,1,5,361.52,Libre,"300,00Gs.",39.000.000,30%,,,23
 23-1-6,1,6,362.7,Libre,"280,00Gs.",36.400.000,30%,,,23
@@ -1330,6 +1347,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 23-5-1,5,1,360.13,Vendido,,,30%,,,23
 23-5-2,5,2,369.96,Vendido,,,30%,,,23
 ,,,,,,,,,,
+"024-RESIDENCIAL EL PROGRESO
+",,,,,,,,,,
 24-1-1,1,1,402.24,Libre,"350,00Gs.",45.500.000,40%,,,24
 24-1-2,1,2,369.22,Libre,"380,00Gs.",49.400.000,40%,,,24
 24-1-3,1,3,363.52,Libre,"430,00Gs.",55.900.000,40%,,,24
@@ -1394,6 +1413,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 24-3-18,3,18,360.72,Vendido,,,40%,,,24
 24-3-19,3,19,360.29,Vendido,,,40%,,,24
 ,,,,,,,,,,
+"025-ECO BARRIO ISLA VERDE
+",,,,,,,,,,
 25-1-15,1,15,,Libre,"300,00Gs.",39.000.000Gs.,50%,19.500.000Gs.,,25
 25-1-18,1,18,,Libre,"330,00Gs.",42.900.000Gs.,50%,21.450.000Gs.,,25
 25-2-4,2,4,,Anulado,,,50%,0Gs.,,25
@@ -1432,6 +1453,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 25-2-12,2,12,,Vendido,,,50%,0Gs.,,25
 25-2-13,2,13,,Vendido,,,50%,0Gs.,,25
 ,,,,,,,,,,
+"026-RESIDENCIAL VILLA VERDE
+",,,,,,,,,,
 26-1-15,1,15,360,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,26
 26-1-16,1,16,360,Libre,"680,00Gs.",88.400.000,50%,44.200.000Gs.,,26
 26-1-21,1,21,360,Libre,"450,00Gs.",58.500.000,50%,29.250.000Gs.,,26
@@ -1480,6 +1503,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 26-2-21,2,21,362,Vendido,,,50%,0Gs.,,26
 26-2-22,2,22,362,Vendido,,,50%,0Gs.,,26
 ,,,,,,,,,,
+"027-RESIDENCIAL NUEVO AMANECER II
+",,,,,,,,,,
 27-1-1,1,1,369.25,Libre,"950,00Gs.",123.500.000,50%,61.750.000Gs.,,27
 27-1-3,1,3,367.74,Libre,"1,000,000",130.000.000,50%,65.000.000Gs.,,27
 27-1-2,1,2,369.07,Vendido,,,50%,0Gs.,,27
@@ -1489,6 +1514,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 27-2-4,2,4,371.69,Vendido,,,50%,0Gs.,,27
 27-2-5,2,5,364.07,Vendido,,,50%,0Gs.,,27
 ,,,,,,,,,,
+"028-ESPERANZA I
+",,,,,,,,,,
 28-11-4,11,4,360,Libre,"230,00Gs.",29.900.000,40%,11.960.000Gs.,,28
 28-11-5,11,5,360,Libre,"300,00Gs.",39.000.000,40%,15.600.000Gs.,,28
 28-11-6,11,6,360,Libre,"350,00Gs.",45.500.000,40%,18.200.000Gs.,,28
@@ -1514,6 +1541,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 28-12-11,12,11,362.18,Vendido,,,40%,0Gs.,,28
 28-12-12,12,12,363.59,Vendido,,,40%,0Gs.,,28
 ,,,,,,,,,,
+"029-ESPERANZA II
+",,,,,,,,,,
 29-13-1,13,1,,Libre,"600,00Gs.",78.000.000,40%,31.200.000Gs.,,29
 29-13-2,13,2,,Libre,"550,00Gs.",71.500.000,40%,28.600.000Gs.,,29
 29-13-3,13,3,,Libre,"550,00Gs.",71.500.000,40%,28.600.000Gs.,,29
@@ -1572,6 +1601,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 29-17-9,17,9,360,Vendido,,,40%,0Gs.,,29
 29-17-10,17,10,361.58,Vendido,,,40%,0Gs.,,29
 ,,,,,,,,,,
+"030 - RESIDENCIAL LA ARBOLEDA
+",,,,,,,,,,
 30-2-64,2,64,419.97,Libre,"1,550,000",201.500.000,50%,100.750.000Gs.,,30
 30-2-65,2,65,419.97,Libre,"1,550,000",201.500.000,50%,100.750.000Gs.,,30
 30-2-66,2,66,419.97,Libre,"1,550,000",201.500.000,50%,100.750.000Gs.,,30
@@ -1585,6 +1616,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 30-2-74,2,74,,Vendido,,,50%,0Gs.,,30
 30-2-75,2,75,,Vendido,,,50%,0Gs.,,30
 ,,,,,,,,,,
+"031 - RESIDENCIAL AIRES DE VILLA REAL
+",,,,,,,,,,
 31-1-1,1,1,1151.11,Libre,"2,000,000",260.000.000,50%,130.000.000Gs.,,31
 31-1-3,1,3,1151.11,Libre,"2,000,000",260.000.000,50%,130.000.000Gs.,,31
 31-1-4,1,4,1151.11,Libre,"2,000,000",260.000.000,50%,130.000.000Gs.,,31
@@ -1600,6 +1633,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 31-1-6,1,6,,Vendido,,,50%,0Gs.,,31
 31-1-7,1,7,,Vendido,,,50%,0Gs.,,31
 ,,,,,,,,,,
+"032 - ECO BARRIO BOSQUES DE ITACURUBI I
+",,,,,,,,,,
 32-1-1,1,1,,Libre,"500,00Gs.",65.000.000,50%,32.500.000Gs.,,32
 32-1-2,1,2,,Libre,"450,00Gs.",58.500.000,50%,29.250.000Gs.,,32
 32-1-3,1,3,,Libre,"450,00Gs.",58.500.000,50%,29.250.000Gs.,,32
@@ -1714,6 +1749,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 32-6-18,6,18,,Vendido,,,50%,0Gs.,,32
 32-6-19,6,19,,Vendido,,,50%,0Gs.,,32
 ,,,,,,,,,,
+"033 - ECO BARRIO BOSQUES DE ITACURUBI II
+",,,,,,,,,,
 33-8-1,8,1,,Libre,"550,00Gs.",71.500.000,50%,35.750.000Gs.,,33
 33-8-2,8,2,,Libre,"450,00Gs.",58.500.000,50%,29.250.000Gs.,,33
 33-8-3,8,3,,Libre,"450,00Gs.",58.500.000,50%,29.250.000Gs.,,33
@@ -1832,6 +1869,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 33-14-14,14,14,,Vendido,,,50%,0Gs.,,33
 33-14-17,14,17,,Vendido,,,50%,0Gs.,,33
 ,,,,,,,,,,
+"034 - ECO BARRIO VISTA VERDE I
+",,,,,,,,,,
 34-1-1,1,1,,Vendido,,,50%,0Gs.,,34
 34-1-2,1,2,,Vendido,,,50%,0Gs.,,34
 34-1-3,1,3,,Vendido,,,50%,0Gs.,,34
@@ -1853,6 +1892,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 34-1-19,1,19,,Vendido,,,50%,0Gs.,,34
 34-1-8,1,8,,Cancelado,,,50%,0Gs.,,34
 ,,,,,,,,,,
+"035 - ECO BARRIO BOSQUES DE YACAREY
+",,,,,,,,,,
 35-3-1,3,1,363.56,Libre,"450,00Gs.",58.500.000,40%,23.400.000Gs.,,35
 35-3-2,3,2,363.56,Libre,"500,00Gs.",65.000.000,40%,26.000.000Gs.,,35
 35-3-3,3,3,363.56,Libre,"450,00Gs.",58.500.000,40%,23.400.000Gs.,,35
@@ -1965,6 +2006,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 35-7-9,7,9,,Vendido,,,40%,0Gs.,,35
 35-7-10,7,10,,Vendido,,,40%,0Gs.,,35
 ,,,,,,,,,,
+"036 - RESIDENCIAL LAS MERCEDES
+",,,,,,,,,,
 36-1-1,1,1,,Libre,"550,00Gs.",71.500.000,50%,35.750.000Gs.,,36
 36-1-2,1,2,,Libre,"600,00Gs.",78.000.000,50%,39.000.000Gs.,,36
 36-1-3,1,3,,Libre,"700,00Gs.",91.000.000,50%,45.500.000Gs.,,36
@@ -1993,6 +2036,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 36-2-14,2,14,,Vendido,,,50%,0Gs.,,36
 36-2-15,2,15,,Vendido,,,50%,0Gs.,,36
 ,,,,,,,,,,
+"037 - ECO BARRIO COLINAS DE ITACURUBI
+",,,,,,,,,,
 37-1-13,1,13,360.24,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,37
 37-1-14,1,14,360.24,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,37
 37-1-15,1,15,360.24,Libre,"650,00Gs.",84.500.000,50%,42.250.000Gs.,,37
@@ -2103,6 +2148,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 37-8-8,8,8,,Vendido,,,50%,0Gs.,,37
 37-8-10,8,10,,Vendido,,,50%,0Gs.,,37
 ,,,,,,,,,,
+"038-ECO MIRADOR DEL YHAGUY
+",,,,,,,,,,
 38-1-11,1,11,562.71,Libre,"1,450,000",188.500.000,50%,94.250.000Gs.,,38
 38-1-12,1,12,573.56,Libre,"1,450,000",188.500.000,50%,94.250.000Gs.,,38
 38-1-13,1,13,537.97,Libre,"1,400,000",182.000.000,50%,91.000.000Gs.,,38
@@ -2290,6 +2337,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 38-10-9,10,9,432.23,Reserva de propietario,,,50%,0Gs.,,38
 38-12-7,12,7,500.29,Reserva de propietario,,,50%,0Gs.,,38
 ,,,,,,,,,,
+"039-TIERRA DE REYES - BARRERO
+",,,,,,,,,,
 39-1-4,1,4,462.33,Libre,"300,00Gs.",39.000.000,40%,15.600.000Gs.,,39
 39-1-5,1,5,461.35,Libre,"300,00Gs.",39.000.000,40%,15.600.000Gs.,,39
 39-1-6,1,6,460.38,Libre,"300,00Gs.",39.000.000,40%,15.600.000Gs.,,39
@@ -2398,7 +2447,9 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 39-8-9,8,9,,Vendido,,,40%,0Gs.,,39
 39-8-10,8,10,,Vendido,,,40%,0Gs.,,39
 ,,,,,,,,,,
-40-1-1,1,1,,Vendido,"750,00Gs.",97.500.000,40%,39.000.000Gs.,,40
+"040-RESIDENCIAL DERLIS JULIAN
+",,,,,,,,,,
+40-1-1,1,1,,Libre,"750,00Gs.",97.500.000,40%,39.000.000Gs.,,40
 40-1-2,1,2,,Libre,"700,00Gs.",91.000.000,40%,36.400.000Gs.,,40
 40-1-3,1,3,,Libre,"700,00Gs.",91.000.000,40%,36.400.000Gs.,,40
 40-1-10,1,10,,Libre,"750,00Gs.",97.500.000,40%,39.000.000Gs.,,40
@@ -2441,6 +2492,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,
 40-2-23,2,23,,Vendido,,,40%,0Gs.,,40
 40-2-24,2,24,,Vendido,,,40%,0Gs.,,40
 ,,,,,,,,,,
+"041-RESIDENCIAL SAN AGUSTIN
+",,,,,,,,,,
 41-1-1,1,1,402.81,Libre,"650,00Gs.",84.500.000,40%,33.800.000Gs.,,41
 41-1-3,1,3,443.17,Libre,"600,00Gs.",78.000.000,40%,31.200.000Gs.,,41
 41-1-4,1,4,452.91,Libre,"600,00Gs.",78.000.000,40%,31.200.000Gs.,,41
