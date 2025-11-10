@@ -9,7 +9,7 @@ var map = new ol.Map({
 });
 
 //initial view - epsg:3857 coordinates if not "Match project CRS"
-map.getView().fit([-6608744.556028, -3224996.276665, -5496699.831443, -2656854.856781], map.getSize());
+map.getView().fit([-6608046.175047, -3177942.544359, -5587600.086216, -2656598.683806], map.getSize());
 
 //full zooms only
 map.getView().setProperties({constrainResolution: true});
@@ -923,6 +923,12 @@ document.getElementsByClassName('search-layer-input-search')[0].placeholder = 'S
 
 //layerswitcher
 
+var layerSwitcher = new ol.control.LayerSwitcher({
+    tipLabel: "Layers",
+    target: 'top-right-container'
+});
+map.addControl(layerSwitcher);
+    
 
 
 

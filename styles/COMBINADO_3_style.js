@@ -22,7 +22,7 @@ case 'Libre':
                     break;
 case 'Reserva de propietario':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(251,0,0,0.575)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(242,251,0,0.575)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
@@ -36,23 +36,7 @@ case 'Recuperado':
                               bufferWidth)
     })];
                     break;
-case 'Reserva ':
-                    return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,241,0,0.575)'}),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement, bufferColor,
-                              bufferWidth)
-    })];
-                    break;
 case 'Cancelado':
-                    return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(251,0,0,0.575)'}),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement, bufferColor,
-                              bufferWidth)
-    })];
-                    break;
-case 'Retirado':
                     return [ new ol.style.Style({
         stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(251,0,0,0.575)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
@@ -62,7 +46,7 @@ case 'Retirado':
                     break;
 case 'Anulado':
                     return [ new ol.style.Style({
-        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(251,0,0,0.575)'}),
+        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(255,127,0,0.575)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)
