@@ -424,4 +424,19 @@ td video {
 .fa-exclamation-triangle {
     color: orangered;
 	font-size: 15px;
+}/* --- START OF CUSTOM CODE FOR LINE LABELS --- */
+.line-label-overlay {
+  background: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  padding: 1px 3px;
+  border: 1px solid black;
+  border-radius: 3px;
+  /* This ensures clicks go "through" the label */
+  pointer-events: none;
+  /* Helps avoid blurry text on some transforms */
+  -webkit-font-smoothing: antialiased;
 }
+/* --- END OF CUSTOM CODE --- */

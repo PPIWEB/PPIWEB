@@ -1,4 +1,15 @@
+// --- START OF CUSTOM CODE FOR LINE LABELS ---
+// This array will hold our labels so we can remove them later
+var lineOverlays = [];
 
+// Function to remove all old line labels
+function removeAllLineLabels() {
+  lineOverlays.forEach(function(overlay) {
+    map.removeOverlay(overlay);
+  });
+  lineOverlays = [];
+}
+// --- END OF CUSTOM HELPER CODE ---
 var map = new ol.Map({
     target: 'map',
     renderer: 'canvas',
@@ -333,6 +344,7 @@ function onSingleClickFeatures(evt) {
     if (doHover || sketch) {
         return;
     }
+    removeAllLineLabels();
     if (!featuresPopupActive) {
         featuresPopupActive = true;
     }
@@ -344,6 +356,63 @@ function onSingleClickFeatures(evt) {
     var popupText = '<ul>';
     
     map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+        // --- START OF NEW CUSTOM CODE (WITH ALL FIXES) ---
+
+    // FIX 1: Check if this is the correct layer.
+    // We use 'popuplayertitle' which we know is 'COMBINADO'
+    if (layer.get('popuplayertitle') === 'COMBINADO') {
+
+        if (feature && (feature.getGeometry().getType() === 'MultiPolygon' || feature.getGeometry().getType() === 'Polygon')) {
+
+            var geometry = feature.getGeometry();
+            // These are the projected coordinates (EPSG:3857)
+            var coords_proj = (geometry.getType() === 'Polygon') ?
+                         geometry.getCoordinates()[0] :
+                         geometry.getCoordinates()[0][0];
+
+            // Loop through each line segment
+            for (var i = 0; i < coords_proj.length - 1; i++) {
+                var p1_proj = coords_proj[i];
+                var p2_proj = coords_proj[i + 1];
+
+                // FIX 2: Convert coordinates back to Lat/Lon for correct distance
+                var p1_latlon = ol.proj.transform(p1_proj, 'EPSG:3857', 'EPSG:4326');
+                var p2_latlon = ol.proj.transform(p2_proj, 'EPSG:3857', 'EPSG:4326');
+
+                // 1. Calculate Length using the correct Lat/Lon coordinates
+                var length = ol.sphere.getDistance(p1_latlon, p2_latlon);
+
+                if (length < 1) { continue; } // Skip tiny lines
+                var lengthLabel = Math.round(length) + ' m.';
+
+                // 2. Calculate Midpoint using the *projected* coordinates
+                var midpoint_proj = [(p1_proj[0] + p2_proj[0]) / 2, (p1_proj[1] + p2_proj[1]) / 2];
+
+                // 3. Calculate Angle using the *projected* coordinates
+                var dx = p2_proj[0] - p1_proj[0];
+                var dy = p2_proj[1] - p1_proj[1];
+                var rotation = -Math.atan2(dy, dx);
+
+                // 4. Create the HTML element
+                var el = document.createElement('div');
+                el.innerHTML = lengthLabel;
+                el.className = 'line-label-overlay'; // This uses the CSS class
+                el.style.transform = 'rotate(' + rotation + 'rad)';
+
+                // 5. Create the OpenLayers Overlay
+                var lineLabelOverlay = new ol.Overlay({
+                    position: midpoint_proj, // Use projected midpoint
+                    element: el,
+                    positioning: 'center-center'
+                });
+
+                // 6. Add overlay to map
+                map.addOverlay(lineLabelOverlay);
+                lineOverlays.push(lineLabelOverlay);
+            }
+        }
+    }
+    // --- END OF NEW CUSTOM CODE (WITH ALL FIXES) ---
         if (layer && feature instanceof ol.Feature && (layer.get("interactive") || layer.get("interactive") === undefined)) {
             var doPopup = false;
             for (var k in layer.get('fieldImages')) {
