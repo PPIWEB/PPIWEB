@@ -21,7 +21,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66,7 +67,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111,7 +113,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -156,7 +159,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -201,7 +205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -246,7 +251,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -291,7 +297,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -336,7 +343,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -381,7 +389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -426,7 +435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -471,7 +481,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -516,7 +527,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -561,7 +573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -606,7 +619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -651,7 +665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -696,7 +711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -741,7 +757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -786,7 +803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -831,7 +849,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -880,7 +899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -925,7 +945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -970,7 +991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1015,7 +1037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1060,7 +1083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1105,7 +1129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1150,7 +1175,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1199,7 +1225,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1244,7 +1271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1289,7 +1317,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "6"
+        "field_11": "6",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1334,7 +1363,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1379,7 +1409,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1428,7 +1459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1473,7 +1505,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1522,7 +1555,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1567,7 +1601,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1612,7 +1647,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1657,7 +1693,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1702,7 +1739,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1747,7 +1785,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1792,7 +1831,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1837,7 +1877,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1882,7 +1923,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1931,7 +1973,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "7"
+        "field_11": "7",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1976,7 +2019,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2021,7 +2065,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2070,7 +2115,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2115,7 +2161,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2160,7 +2207,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2205,7 +2253,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2250,7 +2299,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2295,7 +2345,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2340,7 +2391,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2389,7 +2441,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2434,7 +2487,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2479,7 +2533,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2524,7 +2579,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2573,7 +2629,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2622,7 +2679,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2667,7 +2725,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2712,7 +2771,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "10"
+        "field_11": "10",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2757,7 +2817,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2802,7 +2863,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2847,7 +2909,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2892,7 +2955,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2937,7 +3001,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2982,7 +3047,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3027,7 +3093,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3072,7 +3139,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3117,7 +3185,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3162,7 +3231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3207,7 +3277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3256,7 +3327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3301,7 +3373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3346,7 +3419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3391,7 +3465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3436,7 +3511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3481,7 +3557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3526,7 +3603,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "11"
+        "field_11": "11",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3571,7 +3649,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3616,7 +3695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3661,7 +3741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3706,7 +3787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3755,7 +3837,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3800,7 +3883,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3849,7 +3933,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3898,7 +3983,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3947,7 +4033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3996,7 +4083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4045,7 +4133,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4094,7 +4183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4143,7 +4233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4192,7 +4283,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4241,7 +4333,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4290,7 +4383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4335,7 +4429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4380,7 +4475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4425,7 +4521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4470,7 +4567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4515,7 +4613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4560,7 +4659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4605,7 +4705,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4650,7 +4751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4695,7 +4797,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4740,7 +4843,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4785,7 +4889,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4830,7 +4935,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4875,7 +4981,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4920,7 +5027,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4965,7 +5073,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5010,7 +5119,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5055,7 +5165,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5100,7 +5211,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5149,7 +5261,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5198,7 +5311,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5247,7 +5361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5296,7 +5411,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5345,7 +5461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5394,7 +5511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5443,7 +5561,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5492,7 +5611,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5541,7 +5661,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5590,7 +5711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5639,7 +5761,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5684,7 +5807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5729,7 +5853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5774,7 +5899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5819,7 +5945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5864,7 +5991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5909,7 +6037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5954,7 +6083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5999,7 +6129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6044,7 +6175,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6089,7 +6221,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6134,7 +6267,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6179,7 +6313,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6224,7 +6359,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6269,7 +6405,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6314,7 +6451,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6359,7 +6497,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6404,7 +6543,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6449,7 +6589,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6494,7 +6635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6539,7 +6681,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6584,7 +6727,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6629,7 +6773,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6674,7 +6819,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6727,7 +6873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6772,7 +6919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6817,7 +6965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6866,7 +7015,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6915,7 +7065,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6960,7 +7111,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7005,7 +7157,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7050,7 +7203,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7095,7 +7249,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7140,7 +7295,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7189,7 +7345,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7234,7 +7391,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7279,7 +7437,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7324,7 +7483,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7369,7 +7529,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7414,7 +7575,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7459,7 +7621,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7504,7 +7667,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7549,7 +7713,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7594,7 +7759,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7639,7 +7805,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7684,7 +7851,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7729,7 +7897,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7774,7 +7943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7819,7 +7989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7864,7 +8035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7913,7 +8085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7958,7 +8131,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8003,7 +8177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8048,7 +8223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8093,7 +8269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8138,7 +8315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8183,7 +8361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8228,7 +8407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8273,7 +8453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8318,7 +8499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8363,7 +8545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8408,7 +8591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8453,7 +8637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8498,7 +8683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8543,7 +8729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8588,7 +8775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8633,7 +8821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8678,7 +8867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8723,7 +8913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8768,7 +8959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8813,7 +9005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8858,7 +9051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8903,7 +9097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8948,7 +9143,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8993,7 +9189,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9038,7 +9235,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9083,7 +9281,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9128,7 +9327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9173,7 +9373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9218,7 +9419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9263,7 +9465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9308,7 +9511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9357,7 +9561,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9406,7 +9611,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9451,7 +9657,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9496,7 +9703,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9541,7 +9749,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9586,7 +9795,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9631,7 +9841,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9676,7 +9887,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9721,7 +9933,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9766,7 +9979,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9811,7 +10025,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9856,7 +10071,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9901,7 +10117,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9946,7 +10163,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9991,7 +10209,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10036,7 +10255,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10081,7 +10301,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10126,7 +10347,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10171,7 +10393,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10216,7 +10439,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10261,7 +10485,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10306,7 +10531,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10351,7 +10577,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10396,7 +10623,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10441,7 +10669,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10486,7 +10715,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10531,7 +10761,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10576,7 +10807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10621,7 +10853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10666,7 +10899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10715,7 +10949,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10760,7 +10995,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10805,7 +11041,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10854,7 +11091,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10899,7 +11137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10944,7 +11183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10989,7 +11229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11034,7 +11275,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11079,7 +11321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11124,7 +11367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11169,7 +11413,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11214,7 +11459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11259,7 +11505,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11304,7 +11551,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11349,7 +11597,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11394,7 +11643,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11439,7 +11689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11484,7 +11735,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11529,7 +11781,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11574,7 +11827,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11619,7 +11873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11664,7 +11919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11709,7 +11965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11754,7 +12011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11799,7 +12057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11844,7 +12103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11889,7 +12149,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11934,7 +12195,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11979,7 +12241,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12024,7 +12287,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12073,7 +12337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12118,7 +12383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12163,7 +12429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12212,7 +12479,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12257,7 +12525,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12302,7 +12571,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12347,7 +12617,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12392,7 +12663,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12437,7 +12709,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12482,7 +12755,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12527,7 +12801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12572,7 +12847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12617,7 +12893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12662,7 +12939,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12707,7 +12985,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12752,7 +13031,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12797,7 +13077,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "14"
+        "field_11": "14",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12842,7 +13123,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12887,7 +13169,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12932,7 +13215,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12977,7 +13261,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13022,7 +13307,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13067,7 +13353,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13116,7 +13403,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13165,7 +13453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13210,7 +13499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "37.700.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13255,7 +13545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13300,7 +13591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13345,7 +13637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13390,7 +13683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13439,7 +13733,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13488,7 +13783,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13537,7 +13833,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13582,7 +13879,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13627,7 +13925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13672,7 +13971,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13717,7 +14017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13762,7 +14063,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13811,7 +14113,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13856,7 +14159,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13901,7 +14205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13946,7 +14251,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13991,7 +14297,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "37.700.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14040,7 +14347,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "37.700.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14089,7 +14397,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "37.700.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14134,7 +14443,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "37.700.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14179,7 +14489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14224,7 +14535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14269,7 +14581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14314,7 +14627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14359,7 +14673,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14404,7 +14719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14449,7 +14765,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14494,7 +14811,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14539,7 +14857,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14584,7 +14903,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14629,7 +14949,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14678,7 +14999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14727,7 +15049,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14772,7 +15095,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14817,7 +15141,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14862,7 +15187,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14907,7 +15233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14952,7 +15279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14997,7 +15325,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15042,7 +15371,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15087,7 +15417,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15132,7 +15463,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15177,7 +15509,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "44.200.000Gs.",
         "Entrega": "",
-        "field_11": "15"
+        "field_11": "15",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15222,7 +15555,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15267,7 +15601,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15316,7 +15651,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15361,7 +15697,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15410,7 +15747,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15459,7 +15797,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15508,7 +15847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15553,7 +15893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15602,7 +15943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15647,7 +15989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15692,7 +16035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15737,7 +16081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15782,7 +16127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15827,7 +16173,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15876,7 +16223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15921,7 +16269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15970,7 +16319,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16019,7 +16369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16068,7 +16419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16113,7 +16465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16162,7 +16515,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16207,7 +16561,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16252,7 +16607,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16297,7 +16653,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16342,7 +16699,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16387,7 +16745,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16436,7 +16795,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16481,7 +16841,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16530,7 +16891,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16579,7 +16941,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16628,7 +16991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16673,7 +17037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16722,7 +17087,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16767,7 +17133,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16812,7 +17179,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16857,7 +17225,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16902,7 +17271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16947,7 +17317,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16996,7 +17367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17041,7 +17413,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17090,7 +17463,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17139,7 +17513,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17188,7 +17563,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17233,7 +17609,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17282,7 +17659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17327,7 +17705,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17372,7 +17751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17417,7 +17797,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17462,7 +17843,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17507,7 +17889,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17556,7 +17939,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17601,7 +17985,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17650,7 +18035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17699,7 +18085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17748,7 +18135,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17793,7 +18181,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17842,7 +18231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17887,7 +18277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17932,7 +18323,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17977,7 +18369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18022,7 +18415,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18067,7 +18461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18116,7 +18511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18161,7 +18557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18210,7 +18607,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18259,7 +18657,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18308,7 +18707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18353,7 +18753,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18402,7 +18803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18447,7 +18849,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18492,7 +18895,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18537,7 +18941,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18582,7 +18987,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18627,7 +19033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18676,7 +19083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18721,7 +19129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18770,7 +19179,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18819,7 +19229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18868,7 +19279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18913,7 +19325,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18962,7 +19375,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19007,7 +19421,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19052,7 +19467,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19097,7 +19513,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19142,7 +19559,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19187,7 +19605,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19236,7 +19655,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19281,7 +19701,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19330,7 +19751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19379,7 +19801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19428,7 +19851,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19473,7 +19897,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19522,7 +19947,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19567,7 +19993,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19612,7 +20039,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19657,7 +20085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19702,7 +20131,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19747,7 +20177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19792,7 +20223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19837,7 +20269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19882,7 +20315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19927,7 +20361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19972,7 +20407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20017,7 +20453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20062,7 +20499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20107,7 +20545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "16"
+        "field_11": "16",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20152,7 +20591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20197,7 +20637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20242,7 +20683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20287,7 +20729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20332,7 +20775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20377,7 +20821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20422,7 +20867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20467,7 +20913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20512,7 +20959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20557,7 +21005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20602,7 +21051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20647,7 +21097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20692,7 +21143,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20737,7 +21189,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20782,7 +21235,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20827,7 +21281,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20872,7 +21327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20917,7 +21373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20962,7 +21419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21007,7 +21465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21052,7 +21511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21097,7 +21557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21142,7 +21603,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21187,7 +21649,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21232,7 +21695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21277,7 +21741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21322,7 +21787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21367,7 +21833,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21412,7 +21879,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21457,7 +21925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21502,7 +21971,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21547,7 +22017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21592,7 +22063,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21637,7 +22109,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21682,7 +22155,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21727,7 +22201,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21772,7 +22247,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21817,7 +22293,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21862,7 +22339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21907,7 +22385,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21952,7 +22431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21997,7 +22477,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22042,7 +22523,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22091,7 +22573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22136,7 +22619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22181,7 +22665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22226,7 +22711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22271,7 +22757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22316,7 +22803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22361,7 +22849,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22406,7 +22895,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22451,7 +22941,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22496,7 +22987,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22541,7 +23033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22586,7 +23079,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22631,7 +23125,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22676,7 +23171,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22721,7 +23217,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22766,7 +23263,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22811,7 +23309,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22856,7 +23355,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22901,7 +23401,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22946,7 +23447,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22991,7 +23493,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23036,7 +23539,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23081,7 +23585,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23126,7 +23631,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23171,7 +23677,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23216,7 +23723,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23261,7 +23769,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23306,7 +23815,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23351,7 +23861,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23396,7 +23907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23441,7 +23953,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23486,7 +23999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23531,7 +24045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23576,7 +24091,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23621,7 +24137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23666,7 +24183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23711,7 +24229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23756,7 +24275,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23801,7 +24321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23846,7 +24367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23891,7 +24413,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23936,7 +24459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23981,7 +24505,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24026,7 +24551,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "52.000.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24071,7 +24597,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24116,7 +24643,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24161,7 +24689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24206,7 +24735,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24251,7 +24781,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24296,7 +24827,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24341,7 +24873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24386,7 +24919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24431,7 +24965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24476,7 +25011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24521,7 +25057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24566,7 +25103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24611,7 +25149,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24656,7 +25195,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24701,7 +25241,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24746,7 +25287,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24791,7 +25333,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24836,7 +25379,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24881,7 +25425,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24926,7 +25471,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24971,7 +25517,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25016,7 +25563,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "17"
+        "field_11": "17",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25061,7 +25609,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25106,7 +25655,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25151,7 +25701,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "18"
+        "field_11": "18",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25196,7 +25747,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "18"
+        "field_11": "18",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25241,7 +25793,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "18"
+        "field_11": "18",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25286,7 +25839,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25331,7 +25885,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25376,7 +25931,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25421,7 +25977,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25466,7 +26023,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25511,7 +26069,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25556,7 +26115,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25601,7 +26161,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25646,7 +26207,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25691,7 +26253,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "19"
+        "field_11": "19",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25736,7 +26299,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "33.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": "#ERROR!"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25781,7 +26345,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "33.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25830,7 +26395,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25879,7 +26445,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25924,7 +26491,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "33.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25969,7 +26537,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26014,7 +26583,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26059,7 +26629,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26104,7 +26675,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26149,7 +26721,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26194,7 +26767,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26239,7 +26813,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "33.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26284,7 +26859,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26329,7 +26905,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "30.550.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26374,7 +26951,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "30.550.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26419,7 +26997,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "30.550.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26464,7 +27043,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26509,7 +27089,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26554,7 +27135,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26599,7 +27181,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26644,7 +27227,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "30.550.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26689,7 +27273,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.900.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26734,7 +27319,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.900.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26779,7 +27365,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.900.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26824,7 +27411,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26869,7 +27457,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26914,7 +27503,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "30.550.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26959,7 +27549,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "30.550.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27004,7 +27595,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.900.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27049,7 +27641,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27094,7 +27687,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27139,7 +27733,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27184,7 +27779,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27229,7 +27825,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27274,7 +27871,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.900.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27319,7 +27917,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.900.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27364,7 +27963,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.950.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27409,7 +28009,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27454,7 +28055,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27499,7 +28101,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27544,7 +28147,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27589,7 +28193,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27634,7 +28239,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.950.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27679,7 +28285,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.950.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27724,7 +28331,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27769,7 +28377,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27814,7 +28423,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27859,7 +28469,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27904,7 +28515,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27949,7 +28561,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27994,7 +28607,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28039,7 +28653,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28084,7 +28699,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28129,7 +28745,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "24.050.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28174,7 +28791,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "24.050.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28219,7 +28837,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "24.050.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28264,7 +28883,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "24.050.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28309,7 +28929,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28354,7 +28975,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28399,7 +29021,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28444,7 +29067,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28489,7 +29113,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "25.350.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28534,7 +29159,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "21.450.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28579,7 +29205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "21.450.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28624,7 +29251,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28669,7 +29297,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28714,7 +29343,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28759,7 +29389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28804,7 +29435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.100.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28849,7 +29481,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28894,7 +29527,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "20.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28939,7 +29573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "20.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28984,7 +29619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29029,7 +29665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29074,7 +29711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29119,7 +29757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "21.450.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29164,7 +29803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29209,7 +29849,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29254,7 +29895,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29299,7 +29941,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29344,7 +29987,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29389,7 +30033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29434,7 +30079,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29479,7 +30125,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29524,7 +30171,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29569,7 +30217,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29614,7 +30263,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29659,7 +30309,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29704,7 +30355,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29749,7 +30401,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29794,7 +30447,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29839,7 +30493,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29884,7 +30539,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "18.850.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29929,7 +30585,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29978,7 +30635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30027,7 +30685,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30072,7 +30731,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30117,7 +30777,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30162,7 +30823,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30207,7 +30869,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30252,7 +30915,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30297,7 +30961,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30342,7 +31007,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30387,7 +31053,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30432,7 +31099,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30477,7 +31145,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30522,7 +31191,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30567,7 +31237,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30612,7 +31283,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30657,7 +31329,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30702,7 +31375,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30747,7 +31421,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30792,7 +31467,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30837,7 +31513,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30882,7 +31559,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30927,7 +31605,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30972,7 +31651,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31017,7 +31697,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31062,7 +31743,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31107,7 +31789,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31152,7 +31835,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31197,7 +31881,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31242,7 +31927,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31287,7 +31973,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31332,7 +32019,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31377,7 +32065,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31422,7 +32111,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31467,7 +32157,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31512,7 +32203,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31557,7 +32249,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31602,7 +32295,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31647,7 +32341,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31692,7 +32387,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31737,7 +32433,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31782,7 +32479,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "33.800.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31827,7 +32525,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31872,7 +32571,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31917,7 +32617,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31962,7 +32663,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32007,7 +32709,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32052,7 +32755,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32097,7 +32801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32142,7 +32847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32187,7 +32893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32232,7 +32939,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32281,7 +32989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32326,7 +33035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32371,7 +33081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32416,7 +33127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32465,7 +33177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32510,7 +33223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32555,7 +33269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32600,7 +33315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "2"
+        "field_11": "2",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32645,7 +33361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32690,7 +33407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32735,7 +33453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32780,7 +33499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32825,7 +33545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32870,7 +33591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32915,7 +33637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32960,7 +33683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33005,7 +33729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33050,7 +33775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33095,7 +33821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33140,7 +33867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33185,7 +33913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33230,7 +33959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33275,7 +34005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33320,7 +34051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33365,7 +34097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33414,7 +34147,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33463,7 +34197,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33512,7 +34247,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33561,7 +34297,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33606,7 +34343,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33651,7 +34389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33696,7 +34435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33741,7 +34481,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33786,7 +34527,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33831,7 +34573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33876,7 +34619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33921,7 +34665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33966,7 +34711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34011,7 +34757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34056,7 +34803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34101,7 +34849,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34146,7 +34895,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34191,7 +34941,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34236,7 +34987,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "20"
+        "field_11": "20",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34281,7 +35033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34326,7 +35079,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34375,7 +35129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34416,7 +35171,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34461,7 +35217,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34506,7 +35263,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34551,7 +35309,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34596,7 +35355,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34645,7 +35405,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34690,7 +35451,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34735,7 +35497,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34780,7 +35543,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34825,7 +35589,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34870,7 +35635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34915,7 +35681,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34960,7 +35727,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35005,7 +35773,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "22"
+        "field_11": "22",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35050,7 +35819,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35095,7 +35865,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35140,7 +35911,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35185,7 +35957,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35230,7 +36003,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35275,7 +36049,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "25.480.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35320,7 +36095,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35365,7 +36141,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35410,7 +36187,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "34.580.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35455,7 +36233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35500,7 +36279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35545,7 +36325,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35590,7 +36371,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35635,7 +36417,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35680,7 +36463,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35725,7 +36509,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35770,7 +36555,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35815,7 +36601,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35860,7 +36647,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35905,7 +36693,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35950,7 +36739,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35995,7 +36785,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36040,7 +36831,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36085,7 +36877,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36130,7 +36923,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36175,7 +36969,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36220,7 +37015,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36265,7 +37061,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36310,7 +37107,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36355,7 +37153,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36400,7 +37199,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36445,7 +37245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36490,7 +37291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36535,7 +37337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36580,7 +37383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36625,7 +37429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36670,7 +37475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36715,7 +37521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36760,7 +37567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36805,7 +37613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36850,7 +37659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36895,7 +37705,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36940,7 +37751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36985,7 +37797,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37030,7 +37843,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37075,7 +37889,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37120,7 +37935,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37165,7 +37981,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37210,7 +38027,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37255,7 +38073,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37300,7 +38119,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37345,7 +38165,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "29.120.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37390,7 +38211,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "37.310.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37435,7 +38257,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37480,7 +38303,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37525,7 +38349,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37570,7 +38395,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37615,7 +38441,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37660,7 +38487,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37705,7 +38533,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "40.950.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37750,7 +38579,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37795,7 +38625,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37840,7 +38671,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37885,7 +38717,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37930,7 +38763,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37975,7 +38809,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38020,7 +38855,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38065,7 +38901,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38110,7 +38947,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38155,7 +38993,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38200,7 +39039,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38245,7 +39085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38290,7 +39131,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38335,7 +39177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38380,7 +39223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38425,7 +39269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38470,7 +39315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38515,7 +39361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38560,7 +39407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38605,7 +39453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38650,7 +39499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "33.670.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38695,7 +39545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "34.580.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38740,7 +39591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38785,7 +39637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38830,7 +39683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38875,7 +39729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38920,7 +39775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38965,7 +39821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39010,7 +39867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39055,7 +39913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39100,7 +39959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39145,7 +40005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39190,7 +40051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39235,7 +40097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39280,7 +40143,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39325,7 +40189,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39370,7 +40235,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39415,7 +40281,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39460,7 +40327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39505,7 +40373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39550,7 +40419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39595,7 +40465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39640,7 +40511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39685,7 +40557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.030.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39730,7 +40603,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39775,7 +40649,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "30.940.000Gs.",
         "Entrega": "",
-        "field_11": "23"
+        "field_11": "23",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39820,7 +40695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39865,7 +40741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39910,7 +40787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39955,7 +40833,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "33.540.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40000,7 +40879,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40045,7 +40925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40090,7 +40971,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40135,7 +41017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40180,7 +41063,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40225,7 +41109,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40270,7 +41155,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40315,7 +41201,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40360,7 +41247,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40405,7 +41293,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40450,7 +41339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40495,7 +41385,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40540,7 +41431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40585,7 +41477,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40630,7 +41523,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40675,7 +41569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40720,7 +41615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40765,7 +41661,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40810,7 +41707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "33.540.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40855,7 +41753,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40900,7 +41799,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40945,7 +41845,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40990,7 +41891,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41035,7 +41937,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41080,7 +41983,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41125,7 +42029,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41170,7 +42075,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41215,7 +42121,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41260,7 +42167,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41305,7 +42213,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41350,7 +42259,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41395,7 +42305,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41440,7 +42351,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41485,7 +42397,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41530,7 +42443,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41575,7 +42489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41620,7 +42535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "60.000.000Gs.",
         "Entrega": "29.980.000",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41665,7 +42581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "72.000.000Gs.",
         "Entrega": "35.940.000",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41710,7 +42627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "132.000.000Gs.",
         "Entrega": "65.920.000",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41759,7 +42677,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "48.000.000Gs.",
         "Entrega": "23.840.000",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41804,7 +42723,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "48.000.000Gs.",
         "Entrega": "23.840.000",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41849,7 +42769,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "48.000.000Gs.",
         "Entrega": "23.840.000",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41894,7 +42815,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41939,7 +42861,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "40.560.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41984,7 +42907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42029,7 +42953,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42074,7 +42999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42119,7 +43045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42164,7 +43091,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42209,7 +43137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42254,7 +43183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42299,7 +43229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42344,7 +43275,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42389,7 +43321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42434,7 +43367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42479,7 +43413,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42528,7 +43463,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42573,7 +43509,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42618,7 +43555,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42663,7 +43601,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42708,7 +43647,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "24"
+        "field_11": "24",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42753,7 +43693,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42798,7 +43739,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42843,7 +43785,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42888,7 +43831,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42933,7 +43877,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42978,7 +43923,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43023,7 +43969,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43068,7 +44015,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43113,7 +44061,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43158,7 +44107,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43203,7 +44153,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43248,7 +44199,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43293,7 +44245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43338,7 +44291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43383,7 +44337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43428,7 +44383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43473,7 +44429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43518,7 +44475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "21.450.000Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43563,7 +44521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43608,7 +44567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43653,7 +44613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43698,7 +44659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43743,7 +44705,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43788,7 +44751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43833,7 +44797,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43878,7 +44843,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43923,7 +44889,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43968,7 +44935,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44021,7 +44989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44070,7 +45039,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44115,7 +45085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44160,7 +45131,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44205,7 +45177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44250,7 +45223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44295,7 +45269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44340,7 +45315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44385,7 +45361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "25"
+        "field_11": "25",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44430,7 +45407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44475,7 +45453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44520,7 +45499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44565,7 +45545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44610,7 +45591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44655,7 +45637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44700,7 +45683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44745,7 +45729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44790,7 +45775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44835,7 +45821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44880,7 +45867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44925,7 +45913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44970,7 +45959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45015,7 +46005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45060,7 +46051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45105,7 +46097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "44.200.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45150,7 +46143,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45195,7 +46189,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45240,7 +46235,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45285,7 +46281,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45330,7 +46327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45375,7 +46373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45420,7 +46419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45465,7 +46465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45510,7 +46511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45555,7 +46557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45600,7 +46603,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45645,7 +46649,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45690,7 +46695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "34.450.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45735,7 +46741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45780,7 +46787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45825,7 +46833,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45870,7 +46879,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45915,7 +46925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45960,7 +46971,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46005,7 +47017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46050,7 +47063,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46095,7 +47109,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46140,7 +47155,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46185,7 +47201,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46230,7 +47247,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46275,7 +47293,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46320,7 +47339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46365,7 +47385,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46410,7 +47431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46455,7 +47477,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46500,7 +47523,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "26"
+        "field_11": "26",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46545,7 +47569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46590,7 +47615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "61.750.000Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46639,7 +47665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46684,7 +47711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "65.000.000Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46729,7 +47757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46778,7 +47807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46823,7 +47853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46868,7 +47899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46913,7 +47945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "27"
+        "field_11": "27",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46958,7 +47991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47003,7 +48037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47052,7 +48087,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47101,7 +48137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47146,7 +48183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "17.940.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47195,7 +48233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47244,7 +48283,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47289,7 +48329,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47334,7 +48375,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47379,7 +48421,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47424,7 +48467,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47473,7 +48517,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47522,7 +48567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47567,7 +48613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47616,7 +48663,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47661,7 +48709,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47706,7 +48755,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47751,7 +48801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47796,7 +48847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47841,7 +48893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47886,7 +48939,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47931,7 +48985,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47980,7 +49035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48025,7 +49081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48070,7 +49127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48115,7 +49173,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "28"
+        "field_11": "28",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48160,7 +49219,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48205,7 +49265,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48250,7 +49311,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48295,7 +49357,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48340,7 +49403,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48385,7 +49449,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48434,7 +49499,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48479,7 +49545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48524,7 +49591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48569,7 +49637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48614,7 +49683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48659,7 +49729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48704,7 +49775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48749,7 +49821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48798,7 +49871,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48847,7 +49921,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48892,7 +49967,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48937,7 +50013,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48982,7 +50059,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49027,7 +50105,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49072,7 +50151,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49117,7 +50197,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49166,7 +50247,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49211,7 +50293,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49256,7 +50339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49305,7 +50389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49350,7 +50435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "36.660.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49399,7 +50485,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49444,7 +50531,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "28.860.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49489,7 +50577,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49534,7 +50623,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49579,7 +50669,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49624,7 +50715,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49669,7 +50761,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49714,7 +50807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49759,7 +50853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49804,7 +50899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49849,7 +50945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49898,7 +50995,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49943,7 +51041,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49988,7 +51087,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50033,7 +51133,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50078,7 +51179,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50123,7 +51225,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50168,7 +51271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50213,7 +51317,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50258,7 +51363,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50303,7 +51409,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50352,7 +51459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50397,7 +51505,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50442,7 +51551,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "25.740.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50487,7 +51597,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50532,7 +51643,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "28.080.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50577,7 +51689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "28.080.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50622,7 +51735,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50667,7 +51781,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50712,7 +51827,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50757,7 +51873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50802,7 +51919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "29"
+        "field_11": "29",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50847,7 +51965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50892,7 +52011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50937,7 +52057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50986,7 +52107,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51035,7 +52157,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51084,7 +52207,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51133,7 +52257,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51182,7 +52307,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51231,7 +52357,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51280,7 +52407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51329,7 +52457,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51378,7 +52507,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51427,7 +52557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51476,7 +52607,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51525,7 +52657,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51574,7 +52707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51623,7 +52757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51672,7 +52807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51717,7 +52853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51762,7 +52899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51807,7 +52945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51852,7 +52991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51897,7 +53037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51942,7 +53083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51987,7 +53129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52032,7 +53175,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "44.200.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52077,7 +53221,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52122,7 +53267,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52167,7 +53313,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52212,7 +53359,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52257,7 +53405,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52302,7 +53451,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52347,7 +53497,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52392,7 +53543,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52437,7 +53589,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52482,7 +53635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52527,7 +53681,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52572,7 +53727,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52621,7 +53777,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52670,7 +53827,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52719,7 +53877,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52768,7 +53927,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52817,7 +53977,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52862,7 +54023,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52907,7 +54069,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52952,7 +54115,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52997,7 +54161,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53042,7 +54207,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53087,7 +54253,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53132,7 +54299,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53181,7 +54349,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53230,7 +54399,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53279,7 +54449,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53324,7 +54495,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53373,7 +54545,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53422,7 +54595,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53471,7 +54645,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "3"
+        "field_11": "3",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53520,7 +54695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "100.750.000Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53565,7 +54741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "100.750.000Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53610,7 +54787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "100.750.000Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53655,7 +54833,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "100.750.000Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53700,7 +54879,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "100.750.000Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53745,7 +54925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53790,7 +54971,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53835,7 +55017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53880,7 +55063,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53925,7 +55109,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53970,7 +55155,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54015,7 +55201,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "30"
+        "field_11": "30",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54060,7 +55247,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "130.000.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54105,7 +55293,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54150,7 +55339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "130.000.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54195,7 +55385,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "130.000.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54240,7 +55431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "130.000.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54285,7 +55477,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54330,7 +55523,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54375,7 +55569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "110.500.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54420,7 +55615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "110.500.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54465,7 +55661,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "110.500.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54510,7 +55707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54555,7 +55753,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "110.500.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54600,7 +55799,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "130.000.000Gs.",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54645,7 +55845,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": "31"
+        "field_11": "31",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54690,7 +55891,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54735,7 +55937,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54784,7 +55987,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54833,7 +56037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54882,7 +56087,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54931,7 +56137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54980,7 +56187,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55025,7 +56233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55070,7 +56279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55115,7 +56325,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55160,7 +56371,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55209,7 +56421,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55258,7 +56471,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55307,7 +56521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55356,7 +56571,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55405,7 +56621,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55450,7 +56667,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55495,7 +56713,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55540,7 +56759,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55585,7 +56805,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55634,7 +56855,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55683,7 +56905,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55732,7 +56955,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55781,7 +57005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55830,7 +57055,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55875,7 +57101,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55920,7 +57147,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55965,7 +57193,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56010,7 +57239,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56059,7 +57289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56108,7 +57339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56157,7 +57389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56206,7 +57439,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56255,7 +57489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56300,7 +57535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56345,7 +57581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56390,7 +57627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56435,7 +57673,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56484,7 +57723,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56533,7 +57773,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56582,7 +57823,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56631,7 +57873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56680,7 +57923,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56725,7 +57969,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56770,7 +58015,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "27.950.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56815,7 +58061,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56860,7 +58107,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56909,7 +58157,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56958,7 +58207,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57007,7 +58257,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57056,7 +58307,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57105,7 +58357,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57150,7 +58403,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57195,7 +58449,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57240,7 +58495,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57285,7 +58541,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57334,7 +58591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57383,7 +58641,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57432,7 +58691,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57481,7 +58741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57530,7 +58791,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57575,7 +58837,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57620,7 +58883,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57665,7 +58929,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57710,7 +58975,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57759,7 +59025,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57808,7 +59075,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57857,7 +59125,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57906,7 +59175,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57955,7 +59225,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58000,7 +59271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58045,7 +59317,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58090,7 +59363,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58135,7 +59409,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58184,7 +59459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58233,7 +59509,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58282,7 +59559,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58331,7 +59609,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58380,7 +59659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58425,7 +59705,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58470,7 +59751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58515,7 +59797,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58560,7 +59843,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58609,7 +59893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58658,7 +59943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58707,7 +59993,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58756,7 +60043,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58805,7 +60093,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58850,7 +60139,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58895,7 +60185,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58940,7 +60231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58985,7 +60277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59030,7 +60323,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59075,7 +60369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59124,7 +60419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59173,7 +60469,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59222,7 +60519,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59271,7 +60569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59320,7 +60619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59369,7 +60669,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59418,7 +60719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59467,7 +60769,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59516,7 +60819,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59565,7 +60869,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59614,7 +60919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59663,7 +60969,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59712,7 +61019,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59761,7 +61069,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59810,7 +61119,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "32"
+        "field_11": "32",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59859,7 +61169,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59904,7 +61215,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59949,7 +61261,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59998,7 +61311,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60047,7 +61361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60096,7 +61411,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60145,7 +61461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60194,7 +61511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60243,7 +61561,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60288,7 +61607,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60337,7 +61657,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60386,7 +61707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60435,7 +61757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60484,7 +61807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60533,7 +61857,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60582,7 +61907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60631,7 +61957,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60676,7 +62003,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60721,7 +62049,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60766,7 +62095,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60811,7 +62141,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60860,7 +62191,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60909,7 +62241,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60958,7 +62291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "26.000.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61007,7 +62341,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61056,7 +62391,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61105,7 +62441,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61150,7 +62487,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61199,7 +62537,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61248,7 +62587,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61297,7 +62637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61346,7 +62687,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61395,7 +62737,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61444,7 +62787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61493,7 +62837,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61538,7 +62883,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61583,7 +62929,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61628,7 +62975,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61673,7 +63021,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61722,7 +63071,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61771,7 +63121,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61820,7 +63171,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61869,7 +63221,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61918,7 +63271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61967,7 +63321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62012,7 +63367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62061,7 +63417,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62110,7 +63467,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62159,7 +63517,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62208,7 +63567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62257,7 +63617,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62306,7 +63667,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62355,7 +63717,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62400,7 +63763,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62445,7 +63809,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62490,7 +63855,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62535,7 +63901,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62584,7 +63951,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62633,7 +64001,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62682,7 +64051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62731,7 +64101,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62780,7 +64151,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62829,7 +64201,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62878,7 +64251,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62927,7 +64301,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62976,7 +64351,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63025,7 +64401,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63074,7 +64451,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63123,7 +64501,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63172,7 +64551,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63217,7 +64597,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63262,7 +64643,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63307,7 +64689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63352,7 +64735,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63401,7 +64785,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63450,7 +64835,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63499,7 +64885,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63548,7 +64935,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63597,7 +64985,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63646,7 +65035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63695,7 +65085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63744,7 +65135,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63793,7 +65185,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63842,7 +65235,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63891,7 +65285,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63940,7 +65335,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "22.750.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63989,7 +65385,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64034,7 +65431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64079,7 +65477,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64124,7 +65523,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64169,7 +65569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64214,7 +65615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64259,7 +65661,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64304,7 +65707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64349,7 +65753,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64394,7 +65799,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64439,7 +65845,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "18.200.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64484,7 +65891,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "18.200.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64529,7 +65937,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64574,7 +65983,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64619,7 +66029,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64664,7 +66075,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64709,7 +66121,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64754,7 +66167,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64799,7 +66213,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "18.200.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64844,7 +66259,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "18.200.000Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64889,7 +66305,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "33"
+        "field_11": "33",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64934,7 +66351,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64979,7 +66397,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65024,7 +66443,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65069,7 +66489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65114,7 +66535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65159,7 +66581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65204,7 +66627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65249,7 +66673,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65294,7 +66719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65339,7 +66765,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65384,7 +66811,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65429,7 +66857,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65474,7 +66903,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65519,7 +66949,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65564,7 +66995,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65609,7 +67041,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65654,7 +67087,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65699,7 +67133,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65744,7 +67179,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "34"
+        "field_11": "34",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65789,7 +67225,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65834,7 +67271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65883,7 +67321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65932,7 +67371,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65981,7 +67421,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66030,7 +67471,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66079,7 +67521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66128,7 +67571,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66177,7 +67621,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66226,7 +67671,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66275,7 +67721,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66320,7 +67767,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66369,7 +67817,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66418,7 +67867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66467,7 +67917,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66516,7 +67967,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66565,7 +68017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66614,7 +68067,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66663,7 +68117,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66712,7 +68167,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66761,7 +68217,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66806,7 +68263,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66851,7 +68309,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66900,7 +68359,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66949,7 +68409,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66998,7 +68459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67047,7 +68509,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67096,7 +68559,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67145,7 +68609,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67194,7 +68659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67243,7 +68709,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67292,7 +68759,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67341,7 +68809,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67386,7 +68855,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67431,7 +68901,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67476,7 +68947,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67521,7 +68993,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67566,7 +69039,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67611,7 +69085,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "33.540.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67656,7 +69131,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67701,7 +69177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67746,7 +69223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67791,7 +69269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67840,7 +69319,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67889,7 +69369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67938,7 +69419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67987,7 +69469,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68036,7 +69519,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68085,7 +69569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68134,7 +69619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68183,7 +69669,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "36.660.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68232,7 +69719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "33.540.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68281,7 +69769,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68326,7 +69815,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68371,7 +69861,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68416,7 +69907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68461,7 +69953,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68506,7 +69999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68551,7 +70045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68596,7 +70091,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68641,7 +70137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68686,7 +70183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68731,7 +70229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68780,7 +70279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68829,7 +70329,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68878,7 +70379,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68927,7 +70429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68976,7 +70479,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69025,7 +70529,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69074,7 +70579,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69123,7 +70629,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69172,7 +70679,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69221,7 +70729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69266,7 +70775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69311,7 +70821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69356,7 +70867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69401,7 +70913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69446,7 +70959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69491,7 +71005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69536,7 +71051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69581,7 +71097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69626,7 +71143,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "28.860.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69671,7 +71189,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69720,7 +71239,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69769,7 +71289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69818,7 +71339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69867,7 +71389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69916,7 +71439,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69965,7 +71489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70014,7 +71539,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70063,7 +71589,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70112,7 +71639,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70161,7 +71689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70206,7 +71735,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70251,7 +71781,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70296,7 +71827,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70341,7 +71873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70386,7 +71919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70431,7 +71965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70476,7 +72011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70521,7 +72057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70566,7 +72103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70615,7 +72153,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70664,7 +72203,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70713,7 +72253,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70762,7 +72303,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70811,7 +72353,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70860,7 +72403,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70909,7 +72453,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70958,7 +72503,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "35"
+        "field_11": "35",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71007,7 +72553,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71052,7 +72599,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71097,7 +72645,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71142,7 +72691,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71187,7 +72737,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71232,7 +72783,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71281,7 +72833,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71330,7 +72883,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71379,7 +72933,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71428,7 +72983,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71477,7 +73033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71526,7 +73083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71575,7 +73133,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71624,7 +73183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71673,7 +73233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71718,7 +73279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71763,7 +73325,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71812,7 +73375,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71861,7 +73425,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71910,7 +73475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71959,7 +73525,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72008,7 +73575,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72057,7 +73625,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72106,7 +73675,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72155,7 +73725,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72204,7 +73775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72253,7 +73825,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72302,7 +73875,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72351,7 +73925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "36"
+        "field_11": "36",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72400,7 +73975,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72445,7 +74021,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72490,7 +74067,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72535,7 +74113,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72580,7 +74159,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72625,7 +74205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72670,7 +74251,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72715,7 +74297,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72760,7 +74343,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72805,7 +74389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72850,7 +74435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72895,7 +74481,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72940,7 +74527,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72985,7 +74573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73034,7 +74623,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73079,7 +74669,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73124,7 +74715,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73169,7 +74761,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73214,7 +74807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73259,7 +74853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73304,7 +74899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73353,7 +74949,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73402,7 +74999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73447,7 +75045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73492,7 +75091,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73537,7 +75137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73582,7 +75183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73627,7 +75229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73672,7 +75275,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73717,7 +75321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73762,7 +75367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73807,7 +75413,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73852,7 +75459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73897,7 +75505,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73946,7 +75555,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73991,7 +75601,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74040,7 +75651,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74085,7 +75697,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74130,7 +75743,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74175,7 +75789,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74220,7 +75835,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74265,7 +75881,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74310,7 +75927,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74355,7 +75973,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74400,7 +76019,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74449,7 +76069,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74498,7 +76119,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74543,7 +76165,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74588,7 +76211,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74633,7 +76257,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74678,7 +76303,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74723,7 +76349,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74768,7 +76395,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74817,7 +76445,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74866,7 +76495,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74911,7 +76541,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74960,7 +76591,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75005,7 +76637,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75050,7 +76683,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75095,7 +76729,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75144,7 +76779,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75193,7 +76829,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75238,7 +76875,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75283,7 +76921,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75328,7 +76967,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75373,7 +77013,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75418,7 +77059,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75463,7 +77105,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75508,7 +77151,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75553,7 +77197,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75598,7 +77243,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75643,7 +77289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75688,7 +77335,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75733,7 +77381,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75782,7 +77431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75831,7 +77481,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75876,7 +77527,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75921,7 +77573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75966,7 +77619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76011,7 +77665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76056,7 +77711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76101,7 +77757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76150,7 +77807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76199,7 +77857,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76248,7 +77907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76297,7 +77957,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76346,7 +78007,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76395,7 +78057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76440,7 +78103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76489,7 +78153,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76534,7 +78199,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76579,7 +78245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "29.250.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76624,7 +78291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76669,7 +78337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76714,7 +78383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76759,7 +78429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76804,7 +78475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76849,7 +78521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76894,7 +78567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76939,7 +78613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76984,7 +78659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77029,7 +78705,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77074,7 +78751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77123,7 +78801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77172,7 +78851,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "37"
+        "field_11": "37",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77221,7 +78901,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77266,7 +78947,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77315,7 +78997,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77360,7 +79043,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77405,7 +79089,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77450,7 +79135,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77495,7 +79181,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77544,7 +79231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77589,7 +79277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77634,7 +79323,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77679,7 +79369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "94.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77724,7 +79415,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "94.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77769,7 +79461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "91.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77814,7 +79507,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "91.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77859,7 +79553,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "91.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77904,7 +79599,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "91.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77949,7 +79645,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "87.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77994,7 +79691,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "91.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78039,7 +79737,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78084,7 +79783,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78129,7 +79829,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78178,7 +79879,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78223,7 +79925,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78268,7 +79971,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78313,7 +80017,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78358,7 +80063,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78403,7 +80109,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78452,7 +80159,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78497,7 +80205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78546,7 +80255,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78595,7 +80305,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78640,7 +80351,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78685,7 +80397,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78730,7 +80443,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78775,7 +80489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78820,7 +80535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78865,7 +80581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78910,7 +80627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78955,7 +80673,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79000,7 +80719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79045,7 +80765,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79094,7 +80815,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79139,7 +80861,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79184,7 +80907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79229,7 +80953,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79274,7 +80999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79319,7 +81045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79372,7 +81099,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79417,7 +81145,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79462,7 +81191,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79507,7 +81237,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79552,7 +81283,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79597,7 +81329,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79642,7 +81375,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "34.450.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79687,7 +81421,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79732,7 +81467,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79777,7 +81513,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79822,7 +81559,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79867,7 +81605,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79912,7 +81651,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79957,7 +81697,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80002,7 +81743,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80047,7 +81789,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80092,7 +81835,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80137,7 +81881,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80190,7 +81935,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80235,7 +81981,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80280,7 +82027,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80325,7 +82073,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80370,7 +82119,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80415,7 +82165,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80460,7 +82211,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80505,7 +82257,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80550,7 +82303,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80595,7 +82349,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "35.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80640,7 +82395,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80765,7 +82521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80846,7 +82603,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80891,7 +82649,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80936,7 +82695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80981,7 +82741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81026,7 +82787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81075,7 +82837,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "47.450.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81124,7 +82887,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81173,7 +82937,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81226,7 +82991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81271,7 +83037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81316,7 +83083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81361,7 +83129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81406,7 +83175,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81451,7 +83221,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81496,7 +83267,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81541,7 +83313,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81586,7 +83359,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81631,7 +83405,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81676,7 +83451,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81721,7 +83497,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81770,7 +83547,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81815,7 +83593,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81860,7 +83639,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "97.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81913,7 +83693,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81966,7 +83747,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82019,7 +83801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "44.200.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82068,7 +83851,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "44.200.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82113,7 +83897,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82158,7 +83943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82203,7 +83989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82248,7 +84035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82293,7 +84081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82338,7 +84127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82383,7 +84173,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82432,7 +84223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82477,7 +84269,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82522,7 +84315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82567,7 +84361,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82612,7 +84407,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "97.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82665,7 +84461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "94.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82710,7 +84507,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "21.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82759,7 +84557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "71.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82808,7 +84607,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82857,7 +84657,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82902,7 +84703,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82947,7 +84749,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82992,7 +84795,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83037,7 +84841,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83082,7 +84887,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83127,7 +84933,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83172,7 +84979,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83217,7 +85025,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "32.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83262,7 +85071,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83311,7 +85121,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83356,7 +85167,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83409,7 +85221,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83458,7 +85271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83507,7 +85321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83556,7 +85371,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "81.250.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83609,7 +85425,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83654,7 +85471,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83699,7 +85517,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83744,7 +85563,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83789,7 +85609,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83834,7 +85655,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83879,7 +85701,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83928,7 +85751,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83977,7 +85801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84022,7 +85847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84071,7 +85897,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84120,7 +85947,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84165,7 +85993,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84210,7 +86039,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84259,7 +86089,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84308,7 +86139,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "84.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84361,7 +86193,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84406,7 +86239,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84455,7 +86289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84504,7 +86339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "52.000.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84553,7 +86389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84602,7 +86439,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84647,7 +86485,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84696,7 +86535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84745,7 +86585,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84794,7 +86635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84839,7 +86681,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84884,7 +86727,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84929,7 +86773,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84978,7 +86823,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "48.750.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85023,7 +86869,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85068,7 +86915,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85113,7 +86961,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85162,7 +87011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85207,7 +87057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85252,7 +87103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85297,7 +87149,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85342,7 +87195,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85391,7 +87245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85436,7 +87291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85481,7 +87337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85526,7 +87383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85571,7 +87429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "38"
+        "field_11": "38",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85616,7 +87475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85661,7 +87521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85706,7 +87567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85751,7 +87613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85800,7 +87663,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85849,7 +87713,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85898,7 +87763,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85947,7 +87813,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85996,7 +87863,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86045,7 +87913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86094,7 +87963,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86143,7 +88013,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "25.740.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86188,7 +88059,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86233,7 +88105,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86278,7 +88151,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86323,7 +88197,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86368,7 +88243,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86413,7 +88289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86462,7 +88339,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86511,7 +88389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86560,7 +88439,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86609,7 +88489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86658,7 +88539,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86707,7 +88589,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86756,7 +88639,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86805,7 +88689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "20.280.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86854,7 +88739,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86899,7 +88785,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "25.740.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86944,7 +88831,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86989,7 +88877,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87034,7 +88923,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.060.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87079,7 +88969,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87124,7 +89015,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87173,7 +89065,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87222,7 +89115,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87271,7 +89165,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87320,7 +89215,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87369,7 +89265,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87418,7 +89315,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87467,7 +89365,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.060.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87516,7 +89415,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87561,7 +89461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87606,7 +89507,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.060.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87651,7 +89553,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87696,7 +89599,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87741,7 +89645,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87790,7 +89695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87839,7 +89745,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87888,7 +89795,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87937,7 +89845,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87986,7 +89895,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88035,7 +89945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88084,7 +89995,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88133,7 +90045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88182,7 +90095,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88227,7 +90141,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.060.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88272,7 +90187,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88317,7 +90233,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88362,7 +90279,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88407,7 +90325,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88456,7 +90375,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88505,7 +90425,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88554,7 +90475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88603,7 +90525,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88652,7 +90575,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88701,7 +90625,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88750,7 +90675,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "17.160.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88799,7 +90725,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88848,7 +90775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88893,7 +90821,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88938,7 +90867,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88983,7 +90913,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89028,7 +90959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89073,7 +91005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89122,7 +91055,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "17.160.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89171,7 +91105,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "17.160.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89220,7 +91155,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "17.160.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89269,7 +91205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89318,7 +91255,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89367,7 +91305,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89416,7 +91355,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89465,7 +91405,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89514,7 +91455,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89559,7 +91501,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89604,7 +91547,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89649,7 +91593,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89698,7 +91643,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89747,7 +91693,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89796,7 +91743,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89845,7 +91793,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89894,7 +91843,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89943,7 +91893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89992,7 +91943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90037,7 +91989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90082,7 +92035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90127,7 +92081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90176,7 +92131,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90225,7 +92181,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90274,7 +92231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90323,7 +92281,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90372,7 +92331,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "19.500.000Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90421,7 +92381,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90470,7 +92431,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90515,7 +92477,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "39"
+        "field_11": "39",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90560,7 +92523,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90605,7 +92569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90650,7 +92615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90695,7 +92661,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90740,7 +92707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90785,7 +92753,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90830,7 +92799,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90875,7 +92845,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90920,7 +92891,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90965,7 +92937,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91010,7 +92983,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91055,7 +93029,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91100,7 +93075,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91145,7 +93121,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91190,7 +93167,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91235,7 +93213,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91280,7 +93259,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91325,7 +93305,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91370,7 +93351,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91415,7 +93397,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91460,7 +93443,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91505,7 +93489,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91550,7 +93535,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91595,7 +93581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91640,7 +93627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91685,7 +93673,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91730,7 +93719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91775,7 +93765,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91820,7 +93811,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91865,7 +93857,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91910,7 +93903,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91955,7 +93949,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92000,7 +93995,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92045,7 +94041,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92090,7 +94087,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "51.480.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92135,7 +94133,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92180,7 +94179,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92225,7 +94225,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92270,7 +94271,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "51.480.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92315,7 +94317,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92360,7 +94363,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92405,7 +94409,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "51.480.000Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92450,7 +94455,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92495,7 +94501,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92540,7 +94547,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "40"
+        "field_11": "40",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92585,7 +94593,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "50.700.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92626,7 +94635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92679,7 +94689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92728,7 +94739,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92777,7 +94789,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92826,7 +94839,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92875,7 +94889,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92924,7 +94939,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92973,7 +94989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93022,7 +95039,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "50.700.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93063,7 +95081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93108,7 +95127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93157,7 +95177,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93206,7 +95227,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93255,7 +95277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93304,7 +95327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93349,7 +95373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93394,7 +95419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93443,7 +95469,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93492,7 +95519,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "37.440.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93541,7 +95569,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "37.440.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93586,7 +95615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "37.440.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93631,7 +95661,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "37.440.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93676,7 +95707,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93721,7 +95753,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93770,7 +95803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93819,7 +95853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93868,7 +95903,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93917,7 +95953,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93966,7 +96003,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94015,7 +96053,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94064,7 +96103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94113,7 +96153,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94158,7 +96199,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94203,7 +96245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94248,7 +96291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94293,7 +96337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94338,7 +96383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "37.440.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94383,7 +96429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94432,7 +96479,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94477,7 +96525,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94526,7 +96575,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94575,7 +96625,8 @@ var json_COMBINADO_3 = {
         "Descuento": null,
         "Contado": null,
         "Entrega": null,
-        "field_11": null
+        "field_11": null,
+        "field_12": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94624,7 +96675,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94673,7 +96725,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94722,7 +96775,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94771,7 +96825,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94816,7 +96871,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94861,7 +96917,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94906,7 +96963,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94951,7 +97009,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94996,7 +97055,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95041,7 +97101,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95086,7 +97147,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95135,7 +97197,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95180,7 +97243,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95225,7 +97289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95270,7 +97335,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95319,7 +97385,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95368,7 +97435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95417,7 +97485,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95466,7 +97535,8 @@ var json_COMBINADO_3 = {
         "Descuento": null,
         "Contado": null,
         "Entrega": null,
-        "field_11": null
+        "field_11": null,
+        "field_12": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95511,7 +97581,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95556,7 +97627,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95601,7 +97673,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95646,7 +97719,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95691,7 +97765,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95736,7 +97811,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95785,7 +97861,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95834,7 +97911,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "25.740.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95883,7 +97961,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95932,7 +98011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95977,7 +98057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "24.960.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96022,7 +98103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96067,7 +98149,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96116,7 +98199,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96161,7 +98245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96206,7 +98291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96251,7 +98337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96300,7 +98387,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96345,7 +98433,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96390,7 +98479,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "29.640.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96439,7 +98529,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96484,7 +98575,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96529,7 +98621,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96574,7 +98667,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96619,7 +98713,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96664,7 +98759,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "41"
+        "field_11": "41",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96709,7 +98805,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96750,7 +98847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96799,7 +98897,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "70.200.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96844,7 +98943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96889,7 +98989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "76.440.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96934,7 +99035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96979,7 +99081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "27.300.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97024,7 +99127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "23.400.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97069,7 +99173,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97114,7 +99219,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97159,7 +99265,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97204,7 +99311,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97249,7 +99357,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97294,7 +99403,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97339,7 +99449,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97384,7 +99495,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97429,7 +99541,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97474,7 +99587,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97519,7 +99633,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97564,7 +99679,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97609,7 +99725,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97654,7 +99771,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "21.840.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97699,7 +99817,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "37.440.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97744,7 +99863,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97789,7 +99909,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97834,7 +99955,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97879,7 +100001,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97924,7 +100047,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97969,7 +100093,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98014,7 +100139,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "35.100.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98059,7 +100185,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98104,7 +100231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98149,7 +100277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98194,7 +100323,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98239,7 +100369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98284,7 +100415,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98329,7 +100461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98374,7 +100507,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98419,7 +100553,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98464,7 +100599,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98509,7 +100645,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98554,7 +100691,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98599,7 +100737,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98644,7 +100783,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98689,7 +100829,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98734,7 +100875,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98779,7 +100921,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98824,7 +100967,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98869,7 +101013,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98914,7 +101059,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98959,7 +101105,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99004,7 +101151,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99049,7 +101197,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99094,7 +101243,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99139,7 +101289,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99184,7 +101335,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99229,7 +101381,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99274,7 +101427,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99319,7 +101473,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99364,7 +101519,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99409,7 +101565,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99454,7 +101611,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99499,7 +101657,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99544,7 +101703,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99589,7 +101749,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99634,7 +101795,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99679,7 +101841,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "46.800.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99724,7 +101887,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99769,7 +101933,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "42.900.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99814,7 +101979,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99859,7 +102025,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99904,7 +102071,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99949,7 +102117,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99994,7 +102163,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100039,7 +102209,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100084,7 +102255,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100129,7 +102301,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100174,7 +102347,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100219,7 +102393,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100264,7 +102439,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "39.000.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100309,7 +102485,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "31.200.000Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100354,7 +102531,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100399,7 +102577,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100444,7 +102623,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100489,7 +102669,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100534,7 +102715,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100579,7 +102761,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100624,7 +102807,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100669,7 +102853,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100714,7 +102899,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100759,7 +102945,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100804,7 +102991,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100849,7 +103037,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100894,7 +103083,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100939,7 +103129,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100984,7 +103175,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101029,7 +103221,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101074,7 +103267,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101119,7 +103313,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101164,7 +103359,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101209,7 +103405,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101254,7 +103451,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101299,7 +103497,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101344,7 +103543,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101389,7 +103589,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101434,7 +103635,8 @@ var json_COMBINADO_3 = {
         "Descuento": "40%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "42"
+        "field_11": "42",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101479,7 +103681,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101524,7 +103727,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101569,7 +103773,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101618,7 +103823,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101667,7 +103873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101716,7 +103923,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101765,7 +103973,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101814,7 +104023,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101863,7 +104073,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101912,7 +104123,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101961,7 +104173,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102010,7 +104223,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102059,7 +104273,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102108,7 +104323,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102153,7 +104369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102198,7 +104415,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102247,7 +104465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102296,7 +104515,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102345,7 +104565,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102394,7 +104615,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102443,7 +104665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102492,7 +104715,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102541,7 +104765,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102590,7 +104815,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102639,7 +104865,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "32.760.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102688,7 +104915,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102737,7 +104965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "69.160.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102786,7 +105015,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102831,7 +105061,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102876,7 +105107,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102921,7 +105153,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102966,7 +105199,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103011,7 +105245,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "39.585.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103056,7 +105291,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103101,7 +105337,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "39.585.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103146,7 +105383,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "39.585.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103191,7 +105429,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103236,7 +105475,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "39.585.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103281,7 +105521,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103326,7 +105567,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103371,7 +105613,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103416,7 +105659,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103465,7 +105709,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103510,7 +105755,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103555,7 +105801,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103600,7 +105847,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103645,7 +105893,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103690,7 +105939,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103735,7 +105985,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103780,7 +106031,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103825,7 +106077,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "31.850.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103870,7 +106123,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "36.400.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103915,7 +106169,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103960,7 +106215,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104005,7 +106261,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104050,7 +106307,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104095,7 +106353,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104140,7 +106399,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104185,7 +106445,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104230,7 +106491,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104275,7 +106537,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104320,7 +106583,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104365,7 +106629,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104410,7 +106675,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104455,7 +106721,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104500,7 +106767,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104545,7 +106813,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104590,7 +106859,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104639,7 +106909,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104688,7 +106959,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104733,7 +107005,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104778,7 +107051,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104823,7 +107097,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104868,7 +107143,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104913,7 +107189,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104958,7 +107235,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105003,7 +107281,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105048,7 +107327,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105093,7 +107373,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105138,7 +107419,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105183,7 +107465,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105228,7 +107511,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105273,7 +107557,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105318,7 +107603,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105363,7 +107649,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105408,7 +107695,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105453,7 +107741,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105498,7 +107787,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105547,7 +107837,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105592,7 +107883,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105637,7 +107929,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105682,7 +107975,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105727,7 +108021,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105772,7 +108067,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105817,7 +108113,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105862,7 +108159,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105907,7 +108205,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105952,7 +108251,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105997,7 +108297,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106042,7 +108343,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106087,7 +108389,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106132,7 +108435,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106177,7 +108481,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106222,7 +108527,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106267,7 +108573,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "43.680.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106312,7 +108619,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "42.770.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106357,7 +108665,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106402,7 +108711,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106447,7 +108757,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106492,7 +108803,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "41.860.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106537,7 +108849,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106582,7 +108895,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "63.700.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106627,7 +108941,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106672,7 +108987,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106717,7 +109033,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "63.700.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106762,7 +109079,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106807,7 +109125,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "58.240.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106852,7 +109171,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106897,7 +109217,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106942,7 +109263,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106987,7 +109309,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107032,7 +109355,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107077,7 +109401,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "52.780.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107122,7 +109447,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107167,7 +109493,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107212,7 +109539,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107257,7 +109585,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "47.320.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107302,7 +109631,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107347,7 +109677,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107392,7 +109723,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107437,7 +109769,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107482,7 +109815,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107527,7 +109861,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107572,7 +109907,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107617,7 +109953,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107662,7 +109999,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107707,7 +110045,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107752,7 +110091,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107797,7 +110137,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107842,7 +110183,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107887,7 +110229,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107932,7 +110275,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107977,7 +110321,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "55.965.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108022,7 +110367,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108067,7 +110413,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "55.510.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108112,7 +110459,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "55.965.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108157,7 +110505,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "56.420.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108202,7 +110551,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "56.420.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108247,7 +110597,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "55.965.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108292,7 +110643,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108337,7 +110689,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108382,7 +110735,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108427,7 +110781,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.500.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108472,7 +110827,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108517,7 +110873,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108562,7 +110919,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108607,7 +110965,8 @@ var json_COMBINADO_3 = {
         "Descuento": "30%",
         "Contado": "45.045.000Gs.",
         "Entrega": "",
-        "field_11": "8"
+        "field_11": "8",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108652,7 +111011,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108697,7 +111057,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "55.250.000Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108742,7 +111103,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "55.250.000Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108787,7 +111149,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "55.250.000Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108832,7 +111195,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108877,7 +111241,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108922,7 +111287,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108967,7 +111333,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109012,7 +111379,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109057,7 +111425,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109102,7 +111471,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109147,7 +111517,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "58.500.000Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109192,7 +111563,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109249,7 +111621,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109294,7 +111667,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "52.000.000Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109339,7 +111713,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109384,7 +111759,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "52.000.000Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109429,7 +111805,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109474,7 +111851,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0Gs.",
         "Entrega": "",
-        "field_11": "9"
+        "field_11": "9",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109519,7 +111897,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109564,7 +111943,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109609,7 +111989,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109654,7 +112035,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109699,7 +112081,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109744,7 +112127,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109789,7 +112173,8 @@ var json_COMBINADO_3 = {
         "Descuento": "",
         "Contado": "",
         "Entrega": "",
-        "field_11": ""
+        "field_11": "",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109834,7 +112219,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109879,7 +112265,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109924,7 +112311,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109969,7 +112357,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110014,7 +112403,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110059,7 +112449,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110104,7 +112495,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110149,7 +112541,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110194,7 +112587,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110239,7 +112633,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110284,7 +112679,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110329,7 +112725,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110374,7 +112771,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110419,7 +112817,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "0",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110464,7 +112863,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110509,7 +112909,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110554,7 +112955,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110599,7 +113001,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110644,7 +113047,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110689,7 +113093,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110734,7 +113139,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110779,7 +113185,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110824,7 +113231,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "74.750.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110869,7 +113277,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110914,7 +113323,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110959,7 +113369,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111004,7 +113415,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "45.500.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111049,7 +113461,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111094,7 +113507,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111139,7 +113553,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111184,7 +113599,8 @@ var json_COMBINADO_3 = {
         "Descuento": "50%",
         "Contado": "42.250.000",
         "Entrega": "",
-        "field_11": "43"
+        "field_11": "43",
+        "field_12": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111210,6 +113626,5646 @@ var json_COMBINADO_3 = {
               [
                 -56.877555037617704,
                 -25.583694229214377
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-1-1",
+        "Manzana": "1",
+        "Lote": "1",
+        "Superficie": "734.25",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47983769975511,
+                -25.205244082875375
+              ],
+              [
+                -57.47943552478407,
+                -25.205334834302306
+              ],
+              [
+                -57.47943552478407,
+                -25.205334834302306
+              ],
+              [
+                -57.47946998623082,
+                -25.205488137263675
+              ],
+              [
+                -57.47986485697505,
+                -25.20538680142949
+              ],
+              [
+                -57.47983769975511,
+                -25.205244082875375
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-1-2",
+        "Manzana": "1",
+        "Lote": "2",
+        "Superficie": "525.66",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47986485697505,
+                -25.20538680142949
+              ],
+              [
+                -57.47946998623082,
+                -25.205488137263675
+              ],
+              [
+                -57.479490088741436,
+                -25.20559466971634
+              ],
+              [
+                -57.479884959485666,
+                -25.205489436440487
+              ],
+              [
+                -57.47986485697505,
+                -25.20538680142949
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-1-3",
+        "Manzana": "1",
+        "Lote": "3",
+        "Superficie": "525.66",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.479884959485666,
+                -25.205489436440487
+              ],
+              [
+                -57.479490088741436,
+                -25.20559466971634
+              ],
+              [
+                -57.47951593482654,
+                -25.20570509959936
+              ],
+              [
+                -57.47990891698869,
+                -25.205595312498602
+              ],
+              [
+                -57.479884959485666,
+                -25.205489436440487
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-2-1",
+        "Manzana": "2",
+        "Lote": "1",
+        "Superficie": "423.88",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47915983320993,
+                -25.20539849403005
+              ],
+              [
+                -57.478872654486864,
+                -25.20546215372449
+              ],
+              [
+                -57.47889850057192,
+                -25.205585575486218
+              ],
+              [
+                -57.47918998697585,
+                -25.205528411738456
+              ],
+              [
+                -57.47915983320993,
+                -25.20539849403005
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-2-2",
+        "Manzana": "2",
+        "Lote": "2",
+        "Superficie": "426.39",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47918998697585,
+                -25.205528411738456
+              ],
+              [
+                -57.47889850057192,
+                -25.205585575486214
+              ],
+              [
+                -57.47892578255062,
+                -25.205716792169348
+              ],
+              [
+                -57.4792143971673,
+                -25.20565962848319
+              ],
+              [
+                -57.47920291001837,
+                -25.205586874661975
+              ],
+              [
+                -57.47918998697585,
+                -25.205528411738456
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-2-3",
+        "Manzana": "2",
+        "Lote": "3",
+        "Superficie": "413.34",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.4792143971673,
+                -25.20565962848319
+              ],
+              [
+                -57.47892578255062,
+                -25.205716792169348
+              ],
+              [
+                -57.47895737221016,
+                -25.205851906229903
+              ],
+              [
+                -57.47924024325238,
+                -25.205776554176165
+              ],
+              [
+                -57.4792143971673,
+                -25.20565962848319
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-3-1",
+        "Manzana": "3",
+        "Lote": "1",
+        "Superficie": "433.79",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47829829704073,
+                -25.205590772189232
+              ],
+              [
+                -57.47832701491302,
+                -25.205723288041067
+              ],
+              [
+                -57.478604142380775,
+                -25.20565962848319
+              ],
+              [
+                -57.478579732189324,
+                -25.205529710914842
+              ],
+              [
+                -57.47829829704073,
+                -25.205590772189232
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-3-2",
+        "Manzana": "3",
+        "Lote": "2",
+        "Superficie": "434.07",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.478604142380775,
+                -25.20565962848319
+              ],
+              [
+                -57.47832701491302,
+                -25.205723288041064
+              ],
+              [
+                -57.47834998921086,
+                -25.205858402094414
+              ],
+              [
+                -57.478634296146716,
+                -25.205798640127778
+              ],
+              [
+                -57.478622808997756,
+                -25.205728484738188
+              ],
+              [
+                -57.478604142380775,
+                -25.20565962848319
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-3-3",
+        "Manzana": "3",
+        "Lote": "3",
+        "Superficie": "433.27",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.478634296146716,
+                -25.205798640127778
+              ],
+              [
+                -57.47834998921086,
+                -25.205858402094414
+              ],
+              [
+                -57.47838157887041,
+                -25.206003909368757
+              ],
+              [
+                -57.478661578125404,
+                -25.205924659892695
+              ],
+              [
+                -57.478634296146716,
+                -25.205798640127778
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-4-1",
+        "Manzana": "4",
+        "Lote": "1",
+        "Superficie": "360.3",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47795511846666,
+                -25.205666124357975
+              ],
+              [
+                -57.4777339908499,
+                -25.205723288041074
+              ],
+              [
+                -57.47776414461581,
+                -25.205854504575747
+              ],
+              [
+                -57.477983836338964,
+                -25.20580513599515
+              ],
+              [
+                -57.47795511846666,
+                -25.205666124357975
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-4-2",
+        "Manzana": "4",
+        "Lote": "2",
+        "Superficie": "360.2",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.477983836338964,
+                -25.20580513599515
+              ],
+              [
+                -57.47776414461581,
+                -25.205854504575747
+              ],
+              [
+                -57.477794298381745,
+                -25.20599611434062
+              ],
+              [
+                -57.4780139901049,
+                -25.205944147473566
+              ],
+              [
+                -57.477983836338964,
+                -25.20580513599515
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-4-3",
+        "Manzana": "4",
+        "Lote": "3",
+        "Superficie": "360.38",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.4780139901049,
+                -25.205944147473566
+              ],
+              [
+                -57.477794298381745,
+                -25.20599611434062
+              ],
+              [
+                -57.477825888041274,
+                -25.206139023110627
+              ],
+              [
+                -57.47803840029634,
+                -25.206089654645407
+              ],
+              [
+                -57.4780139901049,
+                -25.205944147473566
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-4-4",
+        "Manzana": "4",
+        "Lote": "4",
+        "Superficie": "361.98",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47803840029634,
+                -25.206089654645407
+              ],
+              [
+                -57.47827388684925,
+                -25.20602989279231
+              ],
+              [
+                -57.478240861296115,
+                -25.205896078101787
+              ],
+              [
+                -57.4780139901049,
+                -25.205944147473566
+              ],
+              [
+                -57.47803840029634,
+                -25.206089654645407
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-4-5",
+        "Manzana": "4",
+        "Lote": "5",
+        "Superficie": "364.07",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.478240861296115,
+                -25.205896078101787
+              ],
+              [
+                -57.47821070753018,
+                -25.205754468220544
+              ],
+              [
+                -57.477983836338964,
+                -25.20580513599515
+              ],
+              [
+                -57.4780139901049,
+                -25.205944147473566
+              ],
+              [
+                -57.478240861296115,
+                -25.205896078101787
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-4-6",
+        "Manzana": "4",
+        "Lote": "6",
+        "Superficie": "361.17",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47821070753018,
+                -25.205754468220544
+              ],
+              [
+                -57.47818055376427,
+                -25.20561675570097
+              ],
+              [
+                -57.47795511846666,
+                -25.205666124357975
+              ],
+              [
+                -57.477983836338964,
+                -25.20580513599515
+              ],
+              [
+                -57.47821070753018,
+                -25.205754468220544
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-2-4",
+        "Manzana": "2",
+        "Lote": "4",
+        "Superficie": "369.04",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47920291001837,
+                -25.205586874661975
+              ],
+              [
+                -57.4792143971673,
+                -25.20565962848319
+              ],
+              [
+                -57.47924024325238,
+                -25.205776554176165
+              ],
+              [
+                -57.47940249923089,
+                -25.205728484738188
+              ],
+              [
+                -57.47936947367776,
+                -25.20554400185413
+              ],
+              [
+                -57.47920291001837,
+                -25.205586874661975
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-2-5",
+        "Manzana": "2",
+        "Lote": "5",
+        "Superficie": "366.77",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.47932783276291,
+                -25.205356920334054
+              ],
+              [
+                -57.47915983320993,
+                -25.20539849403005
+              ],
+              [
+                -57.47920291001837,
+                -25.205586874661975
+              ],
+              [
+                -57.47936947367776,
+                -25.20554400185413
+              ],
+              [
+                -57.47932783276291,
+                -25.205356920334054
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-3-4",
+        "Manzana": "3",
+        "Lote": "4",
+        "Superficie": "402.29",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.478661578125404,
+                -25.205924659892695
+              ],
+              [
+                -57.47883675714644,
+                -25.20588048803117
+              ],
+              [
+                -57.478793680337986,
+                -25.205683013630754
+              ],
+              [
+                -57.478622808997756,
+                -25.205728484738188
+              ],
+              [
+                -57.478634296146716,
+                -25.205798640127778
+              ],
+              [
+                -57.478661578125404,
+                -25.205924659892695
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1-3-5",
+        "Manzana": "3",
+        "Lote": "5",
+        "Superficie": "386.64",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "1",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.478793680337986,
+                -25.205683013630754
+              ],
+              [
+                -57.47875347531675,
+                -25.205488137263654
+              ],
+              [
+                -57.478579732189324,
+                -25.205529710914842
+              ],
+              [
+                -57.478604142380775,
+                -25.20565962848319
+              ],
+              [
+                -57.478622808997756,
+                -25.205728484738188
+              ],
+              [
+                -57.478793680337986,
+                -25.205683013630754
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-1-1",
+        "Manzana": "1",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "",
+        "Contado": "",
+        "Entrega": "",
+        "field_11": "",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.502660355438415,
+                -23.79681879615381
+              ],
+              [
+                -56.50267756577032,
+                -23.796951340663995
+              ],
+              [
+                -56.50315533793213,
+                -23.796861403535782
+              ],
+              [
+                -56.503126923876465,
+                -23.796713265247647
+              ],
+              [
+                -56.502660355438415,
+                -23.79681879615381
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-1-2",
+        "Manzana": "1",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "",
+        "Contado": "",
+        "Entrega": "",
+        "field_11": "",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50315533793213,
+                -23.796861403535782
+              ],
+              [
+                -56.50329192703782,
+                -23.797066130002978
+              ],
+              [
+                -56.503570497504896,
+                -23.79700487169373
+              ],
+              [
+                -56.50346777884944,
+                -23.796637936467505
+              ],
+              [
+                -56.503126923876465,
+                -23.796713265247647
+              ],
+              [
+                -56.50315533793213,
+                -23.796861403535782
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-1",
+        "Manzana": "2",
+        "Lote": "1",
+        "Superficie": "360",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50373758471913,
+                -23.79657687830816
+              ],
+              [
+                -56.503623209158164,
+                -23.796602500188712
+              ],
+              [
+                -56.50369442726238,
+                -23.796860333351162
+              ],
+              [
+                -56.50380823059497,
+                -23.796835742327062
+              ],
+              [
+                -56.50373758471913,
+                -23.79657687830816
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-9",
+        "Manzana": "2",
+        "Lote": "9",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50385196028011,
+                -23.79655125642761
+              ],
+              [
+                -56.50373758471913,
+                -23.79657687830816
+              ],
+              [
+                -56.50380880282336,
+                -23.796834711470613
+              ],
+              [
+                -56.50392260615594,
+                -23.796810120446505
+              ],
+              [
+                -56.50385196028011,
+                -23.79655125642761
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-8",
+        "Manzana": "2",
+        "Lote": "8",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50396633584107,
+                -23.796525634547052
+              ],
+              [
+                -56.50385196028011,
+                -23.796551256427605
+              ],
+              [
+                -56.50392317838432,
+                -23.796809089590056
+              ],
+              [
+                -56.50403698171691,
+                -23.796784498565952
+              ],
+              [
+                -56.50396633584107,
+                -23.796525634547052
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-7",
+        "Manzana": "2",
+        "Lote": "7",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50408071140204,
+                -23.796500012666502
+              ],
+              [
+                -56.50396633584106,
+                -23.796525634547052
+              ],
+              [
+                -56.50403755394529,
+                -23.796783467709506
+              ],
+              [
+                -56.50415135727787,
+                -23.7967588766854
+              ],
+              [
+                -56.50408071140204,
+                -23.796500012666502
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-6",
+        "Manzana": "2",
+        "Lote": "6",
+        "Superficie": "360",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.504195086963,
+                -23.79647439078595
+              ],
+              [
+                -56.50408071140204,
+                -23.796500012666502
+              ],
+              [
+                -56.50415192950626,
+                -23.79675784582895
+              ],
+              [
+                -56.50426573283884,
+                -23.796733254804845
+              ],
+              [
+                -56.504195086963,
+                -23.79647439078595
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-5",
+        "Manzana": "2",
+        "Lote": "5",
+        "Superficie": "360",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50430946252397,
+                -23.796448768905393
+              ],
+              [
+                -56.504195086962994,
+                -23.796474390785946
+              ],
+              [
+                -56.50426630506722,
+                -23.796732223948396
+              ],
+              [
+                -56.50438010839981,
+                -23.796707632924292
+              ],
+              [
+                -56.50430946252397,
+                -23.796448768905393
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-4",
+        "Manzana": "2",
+        "Lote": "4",
+        "Superficie": "420",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50430946252397,
+                -23.796448768905393
+              ],
+              [
+                -56.5043801083998,
+                -23.796707632924292
+              ],
+              [
+                -56.50451291278537,
+                -23.796673856927185
+              ],
+              [
+                -56.50444168952287,
+                -23.796416799310435
+              ],
+              [
+                -56.50430946252397,
+                -23.796448768905393
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-3",
+        "Manzana": "2",
+        "Lote": "3",
+        "Superficie": "531",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50451291278537,
+                -23.796673856927185
+              ],
+              [
+                -56.50410691560811,
+                -23.796767892719497
+              ],
+              [
+                -56.50413502235585,
+                -23.796877231045634
+              ],
+              [
+                -56.5045407420198,
+                -23.796782417530853
+              ],
+              [
+                -56.50451291278537,
+                -23.796673856927185
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-2-2",
+        "Manzana": "2",
+        "Lote": "2",
+        "Superficie": "533",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50410691560811,
+                -23.796767892719497
+              ],
+              [
+                -56.50369442726238,
+                -23.796860333351162
+              ],
+              [
+                -56.50372310279813,
+                -23.796969158075893
+              ],
+              [
+                -56.50413502235585,
+                -23.79687723104563
+              ],
+              [
+                -56.50410691560811,
+                -23.796767892719497
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-1",
+        "Manzana": "3",
+        "Lote": "1",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "800.00Gs.",
+        "Total": "104.000.000",
+        "Descuento": "50%",
+        "Contado": "52.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.504707529362626,
+                -23.796357007975853
+              ],
+              [
+                -56.50459315380166,
+                -23.796382629856403
+              ],
+              [
+                -56.504664371905875,
+                -23.796640463018853
+              ],
+              [
+                -56.50477817523846,
+                -23.79661587199475
+              ],
+              [
+                -56.504707529362626,
+                -23.796357007975853
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-9",
+        "Manzana": "3",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "650.00Gs.",
+        "Total": "84.500.000",
+        "Descuento": "50%",
+        "Contado": "42.250.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.504821904923595,
+                -23.7963313860953
+              ],
+              [
+                -56.504707529362626,
+                -23.796357007975853
+              ],
+              [
+                -56.50477874746684,
+                -23.7966148411383
+              ],
+              [
+                -56.504892550799426,
+                -23.796590250114196
+              ],
+              [
+                -56.504821904923595,
+                -23.7963313860953
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-8",
+        "Manzana": "3",
+        "Lote": "8",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.504936280484564,
+                -23.796305764214743
+              ],
+              [
+                -56.504821904923595,
+                -23.796331386095297
+              ],
+              [
+                -56.50489312302781,
+                -23.796589219257747
+              ],
+              [
+                -56.505006926360394,
+                -23.796564628233643
+              ],
+              [
+                -56.504936280484564,
+                -23.796305764214743
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-7",
+        "Manzana": "3",
+        "Lote": "7",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50505065604552,
+                -23.79628014233419
+              ],
+              [
+                -56.50493628048456,
+                -23.796305764214743
+              ],
+              [
+                -56.50500749858877,
+                -23.796563597377194
+              ],
+              [
+                -56.505121301921356,
+                -23.79653900635309
+              ],
+              [
+                -56.50505065604552,
+                -23.79628014233419
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-6",
+        "Manzana": "3",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.505165031606495,
+                -23.79625452045364
+              ],
+              [
+                -56.50505065604552,
+                -23.79628014233419
+              ],
+              [
+                -56.505121874149744,
+                -23.796537975496644
+              ],
+              [
+                -56.50523567748233,
+                -23.79651338447254
+              ],
+              [
+                -56.505165031606495,
+                -23.79625452045364
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-5",
+        "Manzana": "3",
+        "Lote": "5",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50527940716746,
+                -23.796228898573084
+              ],
+              [
+                -56.50516503160649,
+                -23.796254520453637
+              ],
+              [
+                -56.505236249710705,
+                -23.796512353616087
+              ],
+              [
+                -56.50535005304329,
+                -23.79648776259198
+              ],
+              [
+                -56.50527940716746,
+                -23.796228898573084
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-4",
+        "Manzana": "3",
+        "Lote": "4",
+        "Superficie": "420",
+        "Estado": "Libre",
+        "Cuota": "700.00Gs.",
+        "Total": "91.000.000",
+        "Descuento": "50%",
+        "Contado": "45.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50527940716746,
+                -23.79622889857308
+              ],
+              [
+                -56.50535005304328,
+                -23.79648776259198
+              ],
+              [
+                -56.50548285742886,
+                -23.796453986594877
+              ],
+              [
+                -56.505411634166364,
+                -23.796196928978123
+              ],
+              [
+                -56.50527940716746,
+                -23.79622889857308
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-3",
+        "Manzana": "3",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "700.00Gs.",
+        "Total": "91.000.000",
+        "Descuento": "50%",
+        "Contado": "45.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50548285742886,
+                -23.796453986594877
+              ],
+              [
+                -56.50507686025159,
+                -23.79654802238719
+              ],
+              [
+                -56.50510496699934,
+                -23.796657360713322
+              ],
+              [
+                -56.50551068666329,
+                -23.796562547198548
+              ],
+              [
+                -56.50548285742886,
+                -23.796453986594877
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-3-2",
+        "Manzana": "3",
+        "Lote": "2",
+        "Superficie": "529",
+        "Estado": "Libre",
+        "Cuota": "700.00Gs.",
+        "Total": "91.000.000",
+        "Descuento": "50%",
+        "Contado": "45.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50507686025159,
+                -23.79654802238719
+              ],
+              [
+                -56.504664371905875,
+                -23.796640463018853
+              ],
+              [
+                -56.50469304744163,
+                -23.796749287743584
+              ],
+              [
+                -56.50510496699934,
+                -23.79665736071332
+              ],
+              [
+                -56.50507686025159,
+                -23.79654802238719
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-1",
+        "Manzana": "4",
+        "Lote": "1",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.505684825240046,
+                -23.79613692748952
+              ],
+              [
+                -56.50557044967907,
+                -23.79616254937007
+              ],
+              [
+                -56.505641667783294,
+                -23.796420382532524
+              ],
+              [
+                -56.505755471115876,
+                -23.796395791508417
+              ],
+              [
+                -56.505684825240046,
+                -23.79613692748952
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-9",
+        "Manzana": "4",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50579920080101,
+                -23.796111305608967
+              ],
+              [
+                -56.505684825240046,
+                -23.79613692748952
+              ],
+              [
+                -56.505756043344256,
+                -23.79639476065197
+              ],
+              [
+                -56.505869846676845,
+                -23.796370169627863
+              ],
+              [
+                -56.50579920080101,
+                -23.796111305608967
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-8",
+        "Manzana": "4",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50591357636198,
+                -23.79608568372841
+              ],
+              [
+                -56.50579920080101,
+                -23.796111305608964
+              ],
+              [
+                -56.50587041890523,
+                -23.796369138771414
+              ],
+              [
+                -56.505984222237814,
+                -23.79634454774731
+              ],
+              [
+                -56.50591357636198,
+                -23.79608568372841
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-7",
+        "Manzana": "4",
+        "Lote": "7",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50602795192294,
+                -23.79606006184786
+              ],
+              [
+                -56.505913576361976,
+                -23.79608568372841
+              ],
+              [
+                -56.505984794466194,
+                -23.79634351689086
+              ],
+              [
+                -56.506098597798776,
+                -23.796318925866757
+              ],
+              [
+                -56.50602795192294,
+                -23.79606006184786
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-6",
+        "Manzana": "4",
+        "Lote": "6",
+        "Superficie": "360",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.506142327483914,
+                -23.796034439967308
+              ],
+              [
+                -56.50602795192294,
+                -23.79606006184786
+              ],
+              [
+                -56.50609917002716,
+                -23.796317895010308
+              ],
+              [
+                -56.50621297335975,
+                -23.796293303986207
+              ],
+              [
+                -56.506142327483914,
+                -23.796034439967308
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-5",
+        "Manzana": "4",
+        "Lote": "5",
+        "Superficie": "360",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.506256703044876,
+                -23.79600881808675
+              ],
+              [
+                -56.50614232748391,
+                -23.7960344399673
+              ],
+              [
+                -56.506213545588125,
+                -23.796292273129755
+              ],
+              [
+                -56.506327348920706,
+                -23.79626768210565
+              ],
+              [
+                -56.506256703044876,
+                -23.79600881808675
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-4",
+        "Manzana": "4",
+        "Lote": "4",
+        "Superficie": "420",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.506256703044876,
+                -23.796008818086747
+              ],
+              [
+                -56.5063273489207,
+                -23.79626768210565
+              ],
+              [
+                -56.50646015330628,
+                -23.796233906108544
+              ],
+              [
+                -56.50638893004378,
+                -23.795976848491794
+              ],
+              [
+                -56.506256703044876,
+                -23.796008818086747
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-3",
+        "Manzana": "4",
+        "Lote": "3",
+        "Superficie": "524",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50646015330628,
+                -23.796233906108544
+              ],
+              [
+                -56.50605415612901,
+                -23.796327941900856
+              ],
+              [
+                -56.50608226287676,
+                -23.79643728022699
+              ],
+              [
+                -56.50648798254071,
+                -23.79634246671221
+              ],
+              [
+                -56.50646015330628,
+                -23.796233906108544
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-4-2",
+        "Manzana": "4",
+        "Lote": "2",
+        "Superficie": "526",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50605415612901,
+                -23.796327941900856
+              ],
+              [
+                -56.505641667783294,
+                -23.796420382532524
+              ],
+              [
+                -56.50567034331904,
+                -23.79652920725725
+              ],
+              [
+                -56.50608226287676,
+                -23.796437280226986
+              ],
+              [
+                -56.50605415612901,
+                -23.796327941900856
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-1",
+        "Manzana": "5",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50666096978283,
+                -23.795919942802573
+              ],
+              [
+                -56.50654659422186,
+                -23.795945564683123
+              ],
+              [
+                -56.50661781232608,
+                -23.796203397845577
+              ],
+              [
+                -56.50673161565866,
+                -23.79617880682147
+              ],
+              [
+                -56.50666096978283,
+                -23.795919942802573
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-9",
+        "Manzana": "5",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Anulado",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.5067753453438,
+                -23.79589432092202
+              ],
+              [
+                -56.50666096978283,
+                -23.795919942802573
+              ],
+              [
+                -56.50673218788704,
+                -23.796177775965024
+              ],
+              [
+                -56.50684599121963,
+                -23.796153184940916
+              ],
+              [
+                -56.5067753453438,
+                -23.79589432092202
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-8",
+        "Manzana": "5",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.506889720904766,
+                -23.795868699041467
+              ],
+              [
+                -56.5067753453438,
+                -23.795894320922017
+              ],
+              [
+                -56.506846563448015,
+                -23.796152154084467
+              ],
+              [
+                -56.506960366780596,
+                -23.796127563060363
+              ],
+              [
+                -56.506889720904766,
+                -23.795868699041467
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-7",
+        "Manzana": "5",
+        "Lote": "7",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50700409646573,
+                -23.795843077160914
+              ],
+              [
+                -56.50688972090476,
+                -23.795868699041467
+              ],
+              [
+                -56.50696093900897,
+                -23.796126532203914
+              ],
+              [
+                -56.50707474234156,
+                -23.79610194117981
+              ],
+              [
+                -56.50700409646573,
+                -23.795843077160914
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-6",
+        "Manzana": "5",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Anulado",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.5071184720267,
+                -23.79581745528036
+              ],
+              [
+                -56.50700409646573,
+                -23.795843077160914
+              ],
+              [
+                -56.507075314569946,
+                -23.796100910323364
+              ],
+              [
+                -56.50718911790253,
+                -23.79607631929926
+              ],
+              [
+                -56.5071184720267,
+                -23.79581745528036
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-5",
+        "Manzana": "5",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50723284758766,
+                -23.795791833399804
+              ],
+              [
+                -56.50711847202669,
+                -23.795817455280357
+              ],
+              [
+                -56.50718969013091,
+                -23.796075288442808
+              ],
+              [
+                -56.50730349346349,
+                -23.796050697418703
+              ],
+              [
+                -56.50723284758766,
+                -23.795791833399804
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-4",
+        "Manzana": "5",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50723284758766,
+                -23.7957918333998
+              ],
+              [
+                -56.50730349346348,
+                -23.796050697418703
+              ],
+              [
+                -56.50743629784906,
+                -23.796016921421597
+              ],
+              [
+                -56.507365074586566,
+                -23.795759863804847
+              ],
+              [
+                -56.50723284758766,
+                -23.7957918333998
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-3",
+        "Manzana": "5",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50743629784906,
+                -23.796016921421597
+              ],
+              [
+                -56.507030300671794,
+                -23.79611095721391
+              ],
+              [
+                -56.50705840741954,
+                -23.796220295540042
+              ],
+              [
+                -56.507464127083495,
+                -23.796125482025268
+              ],
+              [
+                -56.50743629784906,
+                -23.796016921421597
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-5-2",
+        "Manzana": "5",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "600.00Gs.",
+        "Total": "78.000.000",
+        "Descuento": "50%",
+        "Contado": "39.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.507030300671794,
+                -23.79611095721391
+              ],
+              [
+                -56.50661781232608,
+                -23.796203397845577
+              ],
+              [
+                -56.50664648786183,
+                -23.796312222570304
+              ],
+              [
+                -56.50705840741954,
+                -23.79622029554004
+              ],
+              [
+                -56.507030300671794,
+                -23.79611095721391
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-1",
+        "Manzana": "6",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50763485294014,
+                -23.79570294269047
+              ],
+              [
+                -56.507520477379174,
+                -23.79572856457102
+              ],
+              [
+                -56.50759169548339,
+                -23.795986397733472
+              ],
+              [
+                -56.50770549881598,
+                -23.795961806709364
+              ],
+              [
+                -56.50763485294014,
+                -23.79570294269047
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-9",
+        "Manzana": "6",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "480.00Gs.",
+        "Total": "62.400.000",
+        "Descuento": "50%",
+        "Contado": "31.200.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50774922850112,
+                -23.79567732080992
+              ],
+              [
+                -56.50763485294014,
+                -23.79570294269047
+              ],
+              [
+                -56.50770607104437,
+                -23.795960775852922
+              ],
+              [
+                -56.50781987437695,
+                -23.795936184828815
+              ],
+              [
+                -56.50774922850112,
+                -23.79567732080992
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-8",
+        "Manzana": "6",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "480.00Gs.",
+        "Total": "62.400.000",
+        "Descuento": "50%",
+        "Contado": "31.200.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50786360406208,
+                -23.795651698929362
+              ],
+              [
+                -56.50774922850112,
+                -23.795677320809915
+              ],
+              [
+                -56.50782044660533,
+                -23.795935153972366
+              ],
+              [
+                -56.50793424993792,
+                -23.795910562948258
+              ],
+              [
+                -56.50786360406208,
+                -23.795651698929362
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-7",
+        "Manzana": "6",
+        "Lote": "7",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "480.00Gs.",
+        "Total": "62.900.000",
+        "Descuento": "50%",
+        "Contado": "31.450.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50797797962305,
+                -23.795626077048812
+              ],
+              [
+                -56.507863604062074,
+                -23.795651698929362
+              ],
+              [
+                -56.5079348221663,
+                -23.795909532091812
+              ],
+              [
+                -56.50804862549888,
+                -23.79588494106771
+              ],
+              [
+                -56.50797797962305,
+                -23.795626077048812
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-6",
+        "Manzana": "6",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "480.00Gs.",
+        "Total": "62.400.000",
+        "Descuento": "50%",
+        "Contado": "31.200.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50809235518401,
+                -23.795600455168255
+              ],
+              [
+                -56.50797797962305,
+                -23.795626077048812
+              ],
+              [
+                -56.50804919772726,
+                -23.79588391021126
+              ],
+              [
+                -56.50816300105985,
+                -23.795859319187155
+              ],
+              [
+                -56.50809235518401,
+                -23.795600455168255
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-5",
+        "Manzana": "6",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "480.00Gs.",
+        "Total": "62.400.000",
+        "Descuento": "50%",
+        "Contado": "31.200.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50820673074498,
+                -23.795574833287702
+              ],
+              [
+                -56.508092355184004,
+                -23.795600455168252
+              ],
+              [
+                -56.50816357328823,
+                -23.795858288330706
+              ],
+              [
+                -56.50827737662081,
+                -23.795833697306602
+              ],
+              [
+                -56.50820673074498,
+                -23.795574833287702
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-4",
+        "Manzana": "6",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Anulado",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50820673074498,
+                -23.7955748332877
+              ],
+              [
+                -56.5082773766208,
+                -23.795833697306602
+              ],
+              [
+                -56.50841018100638,
+                -23.79579992130949
+              ],
+              [
+                -56.50833895774388,
+                -23.79554286369274
+              ],
+              [
+                -56.50820673074498,
+                -23.7955748332877
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-3",
+        "Manzana": "6",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "500.00Gs.",
+        "Total": "65.000.000",
+        "Descuento": "50%",
+        "Contado": "32.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50841018100638,
+                -23.79579992130949
+              ],
+              [
+                -56.50800418382912,
+                -23.795893957101807
+              ],
+              [
+                -56.50803229057686,
+                -23.796003295427937
+              ],
+              [
+                -56.50843801024081,
+                -23.795908481913163
+              ],
+              [
+                -56.50841018100638,
+                -23.79579992130949
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-6-2",
+        "Manzana": "6",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "500.00Gs.",
+        "Total": "65.000.000",
+        "Descuento": "50%",
+        "Contado": "32.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50800418382912,
+                -23.795893957101807
+              ],
+              [
+                -56.50759169548339,
+                -23.795986397733472
+              ],
+              [
+                -56.507620371019144,
+                -23.796095222458202
+              ],
+              [
+                -56.50803229057686,
+                -23.796003295427933
+              ],
+              [
+                -56.50800418382912,
+                -23.795893957101807
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-1",
+        "Manzana": "7",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.5086109699636,
+                -23.795490095535488
+              ],
+              [
+                -56.50849659440263,
+                -23.795515717416038
+              ],
+              [
+                -56.50856781250685,
+                -23.79577355057849
+              ],
+              [
+                -56.50868161583943,
+                -23.795748959554384
+              ],
+              [
+                -56.5086109699636,
+                -23.795490095535488
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-9",
+        "Manzana": "7",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Cancelado",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50872534552457,
+                -23.795464473654935
+              ],
+              [
+                -56.5086109699636,
+                -23.795490095535488
+              ],
+              [
+                -56.50868218806782,
+                -23.79574792869794
+              ],
+              [
+                -56.508795991400405,
+                -23.79572333767383
+              ],
+              [
+                -56.50872534552457,
+                -23.795464473654935
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-8",
+        "Manzana": "7",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "500.00Gs.",
+        "Total": "65.000.000",
+        "Descuento": "50%",
+        "Contado": "32.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.508839721085536,
+                -23.79543885177438
+              ],
+              [
+                -56.50872534552457,
+                -23.79546447365493
+              ],
+              [
+                -56.508796563628785,
+                -23.79572230681738
+              ],
+              [
+                -56.50891036696137,
+                -23.795697715793278
+              ],
+              [
+                -56.508839721085536,
+                -23.79543885177438
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-7",
+        "Manzana": "7",
+        "Lote": "7",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "450.00Gs.",
+        "Total": "58.500.000",
+        "Descuento": "50%",
+        "Contado": "29.250.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.508954096646505,
+                -23.795413229893825
+              ],
+              [
+                -56.50883972108553,
+                -23.79543885177438
+              ],
+              [
+                -56.508910939189754,
+                -23.79569668493683
+              ],
+              [
+                -56.509024742522335,
+                -23.795672093912724
+              ],
+              [
+                -56.508954096646505,
+                -23.795413229893825
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-6",
+        "Manzana": "7",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "500.00Gs.",
+        "Total": "65.000.000",
+        "Descuento": "50%",
+        "Contado": "32.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50906847220747,
+                -23.795387608013275
+              ],
+              [
+                -56.508954096646505,
+                -23.795413229893825
+              ],
+              [
+                -56.509025314750716,
+                -23.79567106305628
+              ],
+              [
+                -56.509139118083304,
+                -23.795646472032175
+              ],
+              [
+                -56.50906847220747,
+                -23.795387608013275
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-5",
+        "Manzana": "7",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "400.00Gs.",
+        "Total": "52.000.000",
+        "Descuento": "50%",
+        "Contado": "26.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.509182847768436,
+                -23.79536198613272
+              ],
+              [
+                -56.50906847220746,
+                -23.79538760801327
+              ],
+              [
+                -56.509139690311684,
+                -23.795645441175722
+              ],
+              [
+                -56.509253493644266,
+                -23.795620850151618
+              ],
+              [
+                -56.509182847768436,
+                -23.79536198613272
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-4",
+        "Manzana": "7",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "500.00Gs.",
+        "Total": "65.000.000",
+        "Descuento": "50%",
+        "Contado": "32.500.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.509182847768436,
+                -23.795361986132715
+              ],
+              [
+                -56.50925349364426,
+                -23.795620850151618
+              ],
+              [
+                -56.50938629802984,
+                -23.79558707415451
+              ],
+              [
+                -56.509315074767336,
+                -23.79533001653776
+              ],
+              [
+                -56.509182847768436,
+                -23.795361986132715
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-3",
+        "Manzana": "7",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50938629802984,
+                -23.79558707415451
+              ],
+              [
+                -56.50898030085258,
+                -23.795681109946823
+              ],
+              [
+                -56.50900840760031,
+                -23.795790448272957
+              ],
+              [
+                -56.509414127264264,
+                -23.795695634758182
+              ],
+              [
+                -56.50938629802984,
+                -23.79558707415451
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-7-2",
+        "Manzana": "7",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "450.00Gs.",
+        "Total": "58.500.000",
+        "Descuento": "50%",
+        "Contado": "29.250.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.50898030085258,
+                -23.795681109946823
+              ],
+              [
+                -56.50856781250685,
+                -23.79577355057849
+              ],
+              [
+                -56.5085964880426,
+                -23.79588237530322
+              ],
+              [
+                -56.50900840760031,
+                -23.795790448272953
+              ],
+              [
+                -56.50898030085258,
+                -23.795681109946823
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-1",
+        "Manzana": "9",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51046133834074,
+                -23.795079241956834
+              ],
+              [
+                -56.51034696277977,
+                -23.795104863837388
+              ],
+              [
+                -56.51041818088399,
+                -23.795362696999838
+              ],
+              [
+                -56.51053198421657,
+                -23.79533810597573
+              ],
+              [
+                -56.51046133834074,
+                -23.795079241956834
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-9",
+        "Manzana": "9",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51057571390171,
+                -23.795053620076285
+              ],
+              [
+                -56.51046133834074,
+                -23.795079241956834
+              ],
+              [
+                -56.51053255644495,
+                -23.795337075119285
+              ],
+              [
+                -56.51064635977754,
+                -23.79531248409518
+              ],
+              [
+                -56.51057571390171,
+                -23.795053620076285
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-8",
+        "Manzana": "9",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51069008946268,
+                -23.795027998195724
+              ],
+              [
+                -56.51057571390171,
+                -23.79505362007628
+              ],
+              [
+                -56.510646932005926,
+                -23.795311453238728
+              ],
+              [
+                -56.51076073533851,
+                -23.795286862214624
+              ],
+              [
+                -56.51069008946268,
+                -23.795027998195724
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-7",
+        "Manzana": "9",
+        "Lote": "7",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "400.00Gs.",
+        "Total": "52.000.000",
+        "Descuento": "50%",
+        "Contado": "26.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51080446502364,
+                -23.795002376315175
+              ],
+              [
+                -56.51069008946267,
+                -23.795027998195724
+              ],
+              [
+                -56.51076130756689,
+                -23.79528583135818
+              ],
+              [
+                -56.51087511089947,
+                -23.795261240334074
+              ],
+              [
+                -56.51080446502364,
+                -23.795002376315175
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-6",
+        "Manzana": "9",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "400.00Gs.",
+        "Total": "52.000.000",
+        "Descuento": "50%",
+        "Contado": "26.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51091884058461,
+                -23.79497675443462
+              ],
+              [
+                -56.51080446502364,
+                -23.795002376315175
+              ],
+              [
+                -56.51087568312786,
+                -23.795260209477625
+              ],
+              [
+                -56.510989486460446,
+                -23.79523561845352
+              ],
+              [
+                -56.51091884058461,
+                -23.79497675443462
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-5",
+        "Manzana": "9",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "400.00Gs.",
+        "Total": "52.000.000",
+        "Descuento": "50%",
+        "Contado": "26.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51103321614558,
+                -23.79495113255407
+              ],
+              [
+                -56.5109188405846,
+                -23.794976754434618
+              ],
+              [
+                -56.51099005868882,
+                -23.795234587597072
+              ],
+              [
+                -56.5111038620214,
+                -23.795209996572964
+              ],
+              [
+                -56.51103321614558,
+                -23.79495113255407
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-4",
+        "Manzana": "9",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "450.00Gs.",
+        "Total": "58.500.000",
+        "Descuento": "50%",
+        "Contado": "29.250.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51103321614558,
+                -23.794951132554065
+              ],
+              [
+                -56.51110386202139,
+                -23.795209996572964
+              ],
+              [
+                -56.51123666640697,
+                -23.795176220575858
+              ],
+              [
+                -56.51116544314448,
+                -23.794919162959104
+              ],
+              [
+                -56.51103321614558,
+                -23.794951132554065
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-3",
+        "Manzana": "9",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "400.00Gs.",
+        "Total": "52.000.000",
+        "Descuento": "50%",
+        "Contado": "26.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51123666640697,
+                -23.795176220575858
+              ],
+              [
+                -56.510830669229705,
+                -23.795270256368173
+              ],
+              [
+                -56.510858775977454,
+                -23.795379594694303
+              ],
+              [
+                -56.511264495641406,
+                -23.79528478117953
+              ],
+              [
+                -56.51123666640697,
+                -23.795176220575858
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-9-2",
+        "Manzana": "9",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "400.00Gs.",
+        "Total": "52.000.000",
+        "Descuento": "50%",
+        "Contado": "26.000.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.510830669229705,
+                -23.795270256368173
+              ],
+              [
+                -56.51041818088399,
+                -23.795362696999838
+              ],
+              [
+                -56.51044685641974,
+                -23.79547152172457
+              ],
+              [
+                -56.510858775977454,
+                -23.7953795946943
+              ],
+              [
+                -56.510830669229705,
+                -23.795270256368173
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-1",
+        "Manzana": "10",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.511431870712826,
+                -23.794856010312273
+              ],
+              [
+                -56.51131749515186,
+                -23.794881632192826
+              ],
+              [
+                -56.511388713256075,
+                -23.795139465355277
+              ],
+              [
+                -56.511502516588656,
+                -23.795114874331173
+              ],
+              [
+                -56.511431870712826,
+                -23.794856010312273
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-9",
+        "Manzana": "10",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "530.00Gs.",
+        "Total": "68.900.000",
+        "Descuento": "50%",
+        "Contado": "34.450.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.511546246273795,
+                -23.79483038843172
+              ],
+              [
+                -56.511431870712826,
+                -23.794856010312273
+              ],
+              [
+                -56.511503088817044,
+                -23.795113843474724
+              ],
+              [
+                -56.511616892149625,
+                -23.79508925245062
+              ],
+              [
+                -56.511546246273795,
+                -23.79483038843172
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-8",
+        "Manzana": "10",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "530.00Gs.",
+        "Total": "68.900.000",
+        "Descuento": "50%",
+        "Contado": "34.450.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.511660621834764,
+                -23.794804766551167
+              ],
+              [
+                -56.511546246273795,
+                -23.794830388431716
+              ],
+              [
+                -56.51161746437802,
+                -23.79508822159417
+              ],
+              [
+                -56.511731267710594,
+                -23.795063630570066
+              ],
+              [
+                -56.511660621834764,
+                -23.794804766551167
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-7",
+        "Manzana": "10",
+        "Lote": "7",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "530.00Gs.",
+        "Total": "68.900.000",
+        "Descuento": "50%",
+        "Contado": "34.450.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.511774997395726,
+                -23.794779144670613
+              ],
+              [
+                -56.51166062183476,
+                -23.794804766551167
+              ],
+              [
+                -56.511731839938975,
+                -23.795062599713617
+              ],
+              [
+                -56.51184564327156,
+                -23.79503800868951
+              ],
+              [
+                -56.511774997395726,
+                -23.794779144670613
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-6",
+        "Manzana": "10",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "530.00Gs.",
+        "Total": "68.900.000",
+        "Descuento": "50%",
+        "Contado": "34.450.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.5118893729567,
+                -23.794753522790064
+              ],
+              [
+                -56.511774997395726,
+                -23.794779144670613
+              ],
+              [
+                -56.51184621549995,
+                -23.795036977833067
+              ],
+              [
+                -56.511960018832525,
+                -23.79501238680896
+              ],
+              [
+                -56.5118893729567,
+                -23.794753522790064
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-5",
+        "Manzana": "10",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "530.00Gs.",
+        "Total": "68.900.000",
+        "Descuento": "50%",
+        "Contado": "34.450.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51200374851766,
+                -23.794727900909507
+              ],
+              [
+                -56.511889372956695,
+                -23.79475352279006
+              ],
+              [
+                -56.511960591060905,
+                -23.79501135595251
+              ],
+              [
+                -56.512074394393494,
+                -23.794986764928403
+              ],
+              [
+                -56.51200374851766,
+                -23.794727900909507
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-4",
+        "Manzana": "10",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51200374851766,
+                -23.794727900909503
+              ],
+              [
+                -56.51207439439349,
+                -23.794986764928403
+              ],
+              [
+                -56.51220719877906,
+                -23.7949529889313
+              ],
+              [
+                -56.512135975516564,
+                -23.794695931314546
+              ],
+              [
+                -56.51200374851766,
+                -23.794727900909503
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-3",
+        "Manzana": "10",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51220719877906,
+                -23.7949529889313
+              ],
+              [
+                -56.5118012016018,
+                -23.795047024723612
+              ],
+              [
+                -56.51182930834954,
+                -23.795156363049745
+              ],
+              [
+                -56.5122350280135,
+                -23.79506154953497
+              ],
+              [
+                -56.51220719877906,
+                -23.7949529889313
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-10-2",
+        "Manzana": "10",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Libre",
+        "Cuota": "550.00Gs.",
+        "Total": "71.500.000",
+        "Descuento": "50%",
+        "Contado": "35.750.000Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.5118012016018,
+                -23.795047024723612
+              ],
+              [
+                -56.511388713256075,
+                -23.795139465355277
+              ],
+              [
+                -56.51141738879183,
+                -23.795248290080007
+              ],
+              [
+                -56.51182930834954,
+                -23.795156363049742
+              ],
+              [
+                -56.5118012016018,
+                -23.795047024723612
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-1",
+        "Manzana": "11",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51240695338824,
+                -23.794628670014596
+              ],
+              [
+                -56.51229257782727,
+                -23.79465429189515
+              ],
+              [
+                -56.512363795931485,
+                -23.7949121250576
+              ],
+              [
+                -56.512477599264066,
+                -23.794887534033492
+              ],
+              [
+                -56.51240695338824,
+                -23.794628670014596
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-9",
+        "Manzana": "11",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51252132894921,
+                -23.794603048134046
+              ],
+              [
+                -56.51240695338824,
+                -23.794628670014596
+              ],
+              [
+                -56.51247817149246,
+                -23.79488650317705
+              ],
+              [
+                -56.51259197482504,
+                -23.794861912152943
+              ],
+              [
+                -56.51252132894921,
+                -23.794603048134046
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-8",
+        "Manzana": "11",
+        "Lote": "8",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51263570451018,
+                -23.79457742625349
+              ],
+              [
+                -56.51252132894921,
+                -23.794603048134043
+              ],
+              [
+                -56.51259254705342,
+                -23.79486088129649
+              ],
+              [
+                -56.51270635038601,
+                -23.794836290272386
+              ],
+              [
+                -56.51263570451018,
+                -23.79457742625349
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-7",
+        "Manzana": "11",
+        "Lote": "7",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51275008007114,
+                -23.79455180437294
+              ],
+              [
+                -56.512635704510174,
+                -23.79457742625349
+              ],
+              [
+                -56.51270692261439,
+                -23.79483525941594
+              ],
+              [
+                -56.51282072594697,
+                -23.794810668391836
+              ],
+              [
+                -56.51275008007114,
+                -23.79455180437294
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-6",
+        "Manzana": "11",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51286445563211,
+                -23.794526182492383
+              ],
+              [
+                -56.51275008007114,
+                -23.79455180437294
+              ],
+              [
+                -56.51282129817535,
+                -23.794809637535387
+              ],
+              [
+                -56.51293510150794,
+                -23.794785046511283
+              ],
+              [
+                -56.51286445563211,
+                -23.794526182492383
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-5",
+        "Manzana": "11",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.512978831193074,
+                -23.79450056061183
+              ],
+              [
+                -56.512864455632105,
+                -23.79452618249238
+              ],
+              [
+                -56.51293567373632,
+                -23.794784015654834
+              ],
+              [
+                -56.513049477068904,
+                -23.79475942463073
+              ],
+              [
+                -56.512978831193074,
+                -23.79450056061183
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-4",
+        "Manzana": "11",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.512978831193074,
+                -23.794500560611827
+              ],
+              [
+                -56.5130494770689,
+                -23.79475942463073
+              ],
+              [
+                -56.513182281454476,
+                -23.79472564863362
+              ],
+              [
+                -56.513111058191974,
+                -23.79446859101687
+              ],
+              [
+                -56.512978831193074,
+                -23.794500560611827
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-3",
+        "Manzana": "11",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.513182281454476,
+                -23.79472564863362
+              ],
+              [
+                -56.512776284277216,
+                -23.794819684425935
+              ],
+              [
+                -56.51280439102495,
+                -23.79492902275207
+              ],
+              [
+                -56.5132101106889,
+                -23.79483420923729
+              ],
+              [
+                -56.513182281454476,
+                -23.79472564863362
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-11-2",
+        "Manzana": "11",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Reserva de propietario",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "5",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.512776284277216,
+                -23.794819684425935
+              ],
+              [
+                -56.512363795931485,
+                -23.7949121250576
+              ],
+              [
+                -56.51239247146724,
+                -23.79502094978233
+              ],
+              [
+                -56.51280439102495,
+                -23.794929022752065
+              ],
+              [
+                -56.512776284277216,
+                -23.794819684425935
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "5-8-1",
+        "Manzana": "8",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Plaza",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "",
+        "Contado": "",
+        "Entrega": "",
+        "field_11": "",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -56.51019511738635,
+                -23.795140609564218
+              ],
+              [
+                -56.50947379378478,
+                -23.795298762345926
+              ],
+              [
+                -56.509571320864026,
+                -23.79565971174456
+              ],
+              [
+                -56.51029812105953,
+                -23.79549952300046
+              ],
+              [
+                -56.51019511738635,
+                -23.795140609564218
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-1-1",
+        "Manzana": "1",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48567671238499,
+                -25.49555569827128
+              ],
+              [
+                -57.48608161705742,
+                -25.495602783842976
+              ],
+              [
+                -57.4860730936835,
+                -25.495512758287713
+              ],
+              [
+                -57.48566753999193,
+                -25.49546572171164
+              ],
+              [
+                -57.48567671238499,
+                -25.49555569827128
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-1-2",
+        "Manzana": "1",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48566753999193,
+                -25.49546572171164
+              ],
+              [
+                -57.4860730936835,
+                -25.495512758287713
+              ],
+              [
+                -57.48606457029148,
+                -25.49542273273412
+              ],
+              [
+                -57.48565836757982,
+                -25.49537574515373
+              ],
+              [
+                -57.48566753999193,
+                -25.49546572171164
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-1-3",
+        "Manzana": "1",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48565836757982,
+                -25.49537574515373
+              ],
+              [
+                -57.48606457029148,
+                -25.49542273273412
+              ],
+              [
+                -57.48605604688134,
+                -25.49533270718215
+              ],
+              [
+                -57.48564919514866,
+                -25.49528576859758
+              ],
+              [
+                -57.48565836757982,
+                -25.49537574515373
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-1-4",
+        "Manzana": "1",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48564919514866,
+                -25.49528576859758
+              ],
+              [
+                -57.48605604688134,
+                -25.49533270718215
+              ],
+              [
+                -57.486047523453095,
+                -25.49524268163182
+              ],
+              [
+                -57.485640022698405,
+                -25.495195792043134
+              ],
+              [
+                -57.48564919514866,
+                -25.49528576859758
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-1-5",
+        "Manzana": "1",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.485640022698405,
+                -25.495195792043134
+              ],
+              [
+                -57.486047523453095,
+                -25.49524268163182
+              ],
+              [
+                -57.48603900000676,
+                -25.495152656083167
+              ],
+              [
+                -57.48563085022917,
+                -25.495105815490433
+              ],
+              [
+                -57.485640022698405,
+                -25.495195792043134
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-1-6",
+        "Manzana": "1",
+        "Lote": "6",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "900.00Gs.",
+        "Total": "117.000.000",
+        "Descuento": "50%",
+        "Contado": "58.500.000Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48563085022917,
+                -25.495105815490433
+              ],
+              [
+                -57.48603900000676,
+                -25.495152656083167
+              ],
+              [
+                -57.48603047654228,
+                -25.495062630536193
+              ],
+              [
+                -57.48562163580742,
+                -25.495015427598467
+              ],
+              [
+                -57.48563085022917,
+                -25.495105815490433
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-2-1",
+        "Manzana": "2",
+        "Lote": "1",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.485187863732875,
+                -25.495498852550778
+              ],
+              [
+                -57.48551870073872,
+                -25.49553732371822
+              ],
+              [
+                -57.48550769372158,
+                -25.49542935186019
+              ],
+              [
+                -57.48517685641597,
+                -25.495390880720713
+              ],
+              [
+                -57.485187863732875,
+                -25.495498852550778
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-2-2",
+        "Manzana": "2",
+        "Lote": "2",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48517685641597,
+                -25.495390880720713
+              ],
+              [
+                -57.48550769372158,
+                -25.49542935186019
+              ],
+              [
+                -57.485496686677,
+                -25.495321380004672
+              ],
+              [
+                -57.48516584907162,
+                -25.49528290889312
+              ],
+              [
+                -57.48517685641597,
+                -25.495390880720713
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-2-3",
+        "Manzana": "2",
+        "Lote": "3",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48516584907162,
+                -25.49528290889312
+              ],
+              [
+                -57.485496686677,
+                -25.495321380004672
+              ],
+              [
+                -57.48548567960499,
+                -25.495213408151645
+              ],
+              [
+                -57.485154841699845,
+                -25.49517493706805
+              ],
+              [
+                -57.48516584907162,
+                -25.49528290889312
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-2-4",
+        "Manzana": "2",
+        "Lote": "4",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.485154841699845,
+                -25.49517493706805
+              ],
+              [
+                -57.48548567960499,
+                -25.495213408151645
+              ],
+              [
+                -57.48547467250556,
+                -25.49510543630112
+              ],
+              [
+                -57.48514383430061,
+                -25.49506696524549
+              ],
+              [
+                -57.485154841699845,
+                -25.49517493706805
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13-2-5",
+        "Manzana": "2",
+        "Lote": "5",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "13",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.48514383430061,
+                -25.49506696524549
+              ],
+              [
+                -57.48547467250556,
+                -25.49510543630112
+              ],
+              [
+                -57.485463636999114,
+                -25.494997186070844
+              ],
+              [
+                -57.48513282687396,
+                -25.494958993425424
+              ],
+              [
+                -57.48514383430061,
+                -25.49506696524549
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-11",
+        "Manzana": "22",
+        "Lote": "11",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41863353139624,
+                -25.313532709176048
+              ],
+              [
+                -57.41850967095222,
+                -25.313622565462474
+              ],
+              [
+                -57.41872252356404,
+                -25.313870963645652
+              ],
+              [
+                -57.41884326147588,
+                -25.313772168974708
+              ],
+              [
+                -57.41863353139624,
+                -25.313532709176048
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-10",
+        "Manzana": "22",
+        "Lote": "10",
+        "Superficie": "",
+        "Estado": "Cancelado",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41875739184026,
+                -25.313442852889622
+              ],
+              [
+                -57.41863353139624,
+                -25.313532709176048
+              ],
+              [
+                -57.41884326147588,
+                -25.313772168974708
+              ],
+              [
+                -57.4189671219199,
+                -25.313682312688282
+              ],
+              [
+                -57.41875739184026,
+                -25.313442852889622
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-9",
+        "Manzana": "22",
+        "Lote": "9",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41888125228427,
+                -25.313352996603196
+              ],
+              [
+                -57.41875739184025,
+                -25.313442852889622
+              ],
+              [
+                -57.4189671219199,
+                -25.313682312688282
+              ],
+              [
+                -57.41909098236391,
+                -25.313592456401857
+              ],
+              [
+                -57.41888125228427,
+                -25.313352996603196
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-14",
+        "Manzana": "22",
+        "Lote": "14",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41909098236392,
+                -25.313592456401853
+              ],
+              [
+                -57.4189671219199,
+                -25.31368231268828
+              ],
+              [
+                -57.41917685199954,
+                -25.313921772486943
+              ],
+              [
+                -57.41930071244356,
+                -25.313831916200513
+              ],
+              [
+                -57.41909098236392,
+                -25.313592456401853
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-15",
+        "Manzana": "22",
+        "Lote": "15",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41921484280793,
+                -25.31350260011543
+              ],
+              [
+                -57.41909098236391,
+                -25.313592456401857
+              ],
+              [
+                -57.41930071244356,
+                -25.313831916200513
+              ],
+              [
+                -57.41942457288757,
+                -25.31374205991409
+              ],
+              [
+                -57.41921484280793,
+                -25.31350260011543
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-16",
+        "Manzana": "22",
+        "Lote": "16",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41933870325195,
+                -25.313412743828998
+              ],
+              [
+                -57.41921484280793,
+                -25.313502600115424
+              ],
+              [
+                -57.41942457288758,
+                -25.313742059914084
+              ],
+              [
+                -57.41954843333159,
+                -25.313652203627658
+              ],
+              [
+                -57.41933870325195,
+                -25.313412743828998
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-13",
+        "Manzana": "22",
+        "Lote": "13",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.418967121919906,
+                -25.313682312688275
+              ],
+              [
+                -57.418843261475885,
+                -25.3137721689747
+              ],
+              [
+                -57.419052991555525,
+                -25.31401162877336
+              ],
+              [
+                -57.419176851999545,
+                -25.313921772486935
+              ],
+              [
+                -57.418967121919906,
+                -25.313682312688275
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "4-22-12",
+        "Manzana": "22",
+        "Lote": "12",
+        "Superficie": "",
+        "Estado": "Vendido",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "50%",
+        "Contado": "0Gs.",
+        "Entrega": "",
+        "field_11": "4",
+        "field_12": ""
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -57.41884326147589,
+                -25.313772168974698
+              ],
+              [
+                -57.41871940103187,
+                -25.313862025261123
+              ],
+              [
+                -57.41892913111151,
+                -25.314101485059783
+              ],
+              [
+                -57.41905299155553,
+                -25.314011628773358
+              ],
+              [
+                -57.41884326147589,
+                -25.313772168974698
               ]
             ]
           ]
