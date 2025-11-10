@@ -15,7 +15,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Cancelado",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -14991,7 +14991,7 @@ var json_COMBINADO_3 = {
         "Manzana": "5",
         "Lote": "7",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -15036,7 +15036,7 @@ var json_COMBINADO_3 = {
         "Manzana": "5",
         "Lote": "8",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -15081,7 +15081,7 @@ var json_COMBINADO_3 = {
         "Manzana": "5",
         "Lote": "9",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -33359,7 +33359,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "17",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -33408,7 +33408,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "18",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -33457,7 +33457,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "19",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -33506,7 +33506,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "20",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -34320,7 +34320,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "2",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -35093,7 +35093,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35138,7 +35138,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35183,7 +35183,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35228,7 +35228,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35273,7 +35273,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "25.480.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35318,7 +35318,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35363,7 +35363,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35408,7 +35408,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "34.580.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35453,7 +35453,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35498,7 +35498,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35543,7 +35543,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "31.850.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35588,7 +35588,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35633,7 +35633,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35678,7 +35678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35723,7 +35723,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35768,7 +35768,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": ""
       },
@@ -35813,7 +35813,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35858,7 +35858,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35903,7 +35903,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35948,7 +35948,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -35993,7 +35993,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36038,7 +36038,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36083,7 +36083,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36128,7 +36128,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36173,7 +36173,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36218,7 +36218,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36263,7 +36263,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "31.850.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36308,7 +36308,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36353,7 +36353,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36398,7 +36398,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36443,7 +36443,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36488,7 +36488,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36533,7 +36533,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36578,7 +36578,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36623,7 +36623,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36668,7 +36668,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36713,7 +36713,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36758,7 +36758,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36803,7 +36803,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36848,7 +36848,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36893,7 +36893,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36938,7 +36938,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -36983,7 +36983,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37028,7 +37028,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37073,7 +37073,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37118,7 +37118,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37163,7 +37163,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37208,7 +37208,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37253,7 +37253,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37298,7 +37298,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37343,7 +37343,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "29.120.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37388,7 +37388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "410.00Gs.",
         "Total": "53.300.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "37.310.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37433,7 +37433,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37478,7 +37478,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37523,7 +37523,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37568,7 +37568,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37613,7 +37613,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37658,7 +37658,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37703,7 +37703,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "40.950.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37748,7 +37748,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37793,7 +37793,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37838,7 +37838,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37883,7 +37883,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37928,7 +37928,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -37973,7 +37973,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38018,7 +38018,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38063,7 +38063,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": ""
       },
@@ -38108,7 +38108,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38153,7 +38153,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "36.400.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38198,7 +38198,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38243,7 +38243,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38288,7 +38288,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38333,7 +38333,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38378,7 +38378,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38423,7 +38423,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38468,7 +38468,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38513,7 +38513,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38558,7 +38558,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38603,7 +38603,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38648,7 +38648,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "33.670.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38693,7 +38693,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "34.580.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38738,7 +38738,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "31.850.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38783,7 +38783,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "31.850.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38828,7 +38828,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.00Gs.",
         "Total": "46.800.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38873,7 +38873,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38918,7 +38918,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -38963,7 +38963,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39008,7 +39008,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39053,7 +39053,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39098,7 +39098,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39143,7 +39143,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39188,7 +39188,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39233,7 +39233,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39278,7 +39278,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39323,7 +39323,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39368,7 +39368,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39413,7 +39413,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39458,7 +39458,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39503,7 +39503,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39548,7 +39548,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39593,7 +39593,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39638,7 +39638,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39683,7 +39683,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.030.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39728,7 +39728,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "31.850.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39773,7 +39773,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.00Gs.",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "",
+        "Contado": "30.940.000Gs.",
         "Entrega": "",
         "field_11": "23"
       },
@@ -39818,7 +39818,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": ""
       },
@@ -39863,7 +39863,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -39908,7 +39908,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -39953,7 +39953,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.00Gs.",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "33.540.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -39998,7 +39998,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40043,7 +40043,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40088,7 +40088,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40133,7 +40133,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40178,7 +40178,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40223,7 +40223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40268,7 +40268,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40313,7 +40313,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40358,7 +40358,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40403,7 +40403,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40448,7 +40448,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40493,7 +40493,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40538,7 +40538,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40583,7 +40583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40628,7 +40628,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40673,7 +40673,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40718,7 +40718,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40763,7 +40763,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": ""
       },
@@ -40808,7 +40808,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.00Gs.",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "33.540.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40853,7 +40853,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40898,7 +40898,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40943,7 +40943,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -40988,7 +40988,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41033,7 +41033,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41078,7 +41078,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41123,7 +41123,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41168,7 +41168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41213,7 +41213,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41258,7 +41258,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41303,7 +41303,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41348,7 +41348,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41393,7 +41393,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41438,7 +41438,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41483,7 +41483,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41528,7 +41528,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41573,7 +41573,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41618,7 +41618,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.945.000,00Gs.",
         "Total": "100.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "60.000.000Gs.",
         "Entrega": "29.980.000",
         "field_11": "24"
       },
@@ -41663,7 +41663,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.335.000,00Gs.",
         "Total": "120.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "72.000.000Gs.",
         "Entrega": "35.940.000",
         "field_11": "24"
       },
@@ -41708,7 +41708,7 @@ var json_COMBINADO_3 = {
         "Cuota": "4.280.000,00Gs.",
         "Total": "220.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "132.000.000Gs.",
         "Entrega": "65.920.000",
         "field_11": "24"
       },
@@ -41757,7 +41757,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.560.000,00Gs.",
         "Total": "80.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "48.000.000Gs.",
         "Entrega": "23.840.000",
         "field_11": "24"
       },
@@ -41802,7 +41802,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.560.000,00Gs.",
         "Total": "80.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "48.000.000Gs.",
         "Entrega": "23.840.000",
         "field_11": "24"
       },
@@ -41847,7 +41847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.560.000,00Gs.",
         "Total": "80.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "48.000.000Gs.",
         "Entrega": "23.840.000",
         "field_11": "24"
       },
@@ -41892,7 +41892,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41937,7 +41937,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.00Gs.",
         "Total": "67.600.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "40.560.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -41982,7 +41982,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42027,7 +42027,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42072,7 +42072,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42117,7 +42117,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42162,7 +42162,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42207,7 +42207,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42252,7 +42252,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42297,7 +42297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42342,7 +42342,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42387,7 +42387,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42432,7 +42432,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42477,7 +42477,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42526,7 +42526,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42571,7 +42571,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42616,7 +42616,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42661,7 +42661,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -42706,7 +42706,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "24"
       },
@@ -43512,7 +43512,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "18",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "330.00Gs.",
         "Total": "42.900.000Gs.",
         "Descuento": "50%",
@@ -45054,7 +45054,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "15",
         "Superficie": "360",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "50%",
@@ -45099,7 +45099,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "16",
         "Superficie": "360",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "680.00Gs.",
         "Total": "88.400.000",
         "Descuento": "50%",
@@ -45324,7 +45324,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "21",
         "Superficie": "360",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "50%",
@@ -45414,7 +45414,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "23",
         "Superficie": "360",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "50%",
@@ -47144,7 +47144,7 @@ var json_COMBINADO_3 = {
         "Cuota": "230.00Gs.",
         "Total": "29.900.000",
         "Descuento": "40%",
-        "Contado": "11.960.000Gs.",
+        "Contado": "17.940.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47193,7 +47193,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47242,7 +47242,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47287,7 +47287,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47332,7 +47332,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47377,7 +47377,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47422,7 +47422,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47704,7 +47704,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47749,7 +47749,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -47794,7 +47794,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "28"
       },
@@ -48158,7 +48158,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48203,7 +48203,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48248,7 +48248,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48293,7 +48293,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48338,7 +48338,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48383,7 +48383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48432,7 +48432,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48477,7 +48477,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48522,7 +48522,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48567,7 +48567,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48612,7 +48612,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48657,7 +48657,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48702,7 +48702,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48747,7 +48747,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48796,7 +48796,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48845,7 +48845,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48890,7 +48890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48935,7 +48935,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -48980,7 +48980,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49025,7 +49025,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49070,7 +49070,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49115,7 +49115,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49164,7 +49164,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49209,7 +49209,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49254,7 +49254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49303,7 +49303,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49348,7 +49348,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.00Gs.",
         "Total": "61.100.000",
         "Descuento": "40%",
-        "Contado": "24.440.000Gs.",
+        "Contado": "36.660.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49397,7 +49397,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49442,7 +49442,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "40%",
-        "Contado": "19.240.000Gs.",
+        "Contado": "28.860.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49483,7 +49483,7 @@ var json_COMBINADO_3 = {
         "Manzana": "15",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -49528,7 +49528,7 @@ var json_COMBINADO_3 = {
         "Manzana": "15",
         "Lote": "2",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -49573,7 +49573,7 @@ var json_COMBINADO_3 = {
         "Manzana": "15",
         "Lote": "3",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -49618,7 +49618,7 @@ var json_COMBINADO_3 = {
         "Manzana": "15",
         "Lote": "4",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -49667,7 +49667,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49712,7 +49712,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49757,7 +49757,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49802,7 +49802,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49847,7 +49847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49896,7 +49896,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49941,7 +49941,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -49986,7 +49986,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50031,7 +50031,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50076,7 +50076,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50121,7 +50121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50166,7 +50166,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50211,7 +50211,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50440,7 +50440,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
+        "Contado": "25.740.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50485,7 +50485,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50530,7 +50530,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.00Gs.",
         "Total": "46.800.000",
         "Descuento": "40%",
-        "Contado": "18.720.000Gs.",
+        "Contado": "28.080.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50575,7 +50575,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.00Gs.",
         "Total": "46.800.000",
         "Descuento": "40%",
-        "Contado": "18.720.000Gs.",
+        "Contado": "28.080.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50620,7 +50620,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -50800,7 +50800,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "29"
       },
@@ -65783,7 +65783,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "887.52",
-        "Estado": "Reserva de propietario",
+        "Estado": "Anulado",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -66269,7 +66269,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "365.16",
-        "Estado": "Reserva de propietario",
+        "Estado": "Anulado",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -66759,7 +66759,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -66804,7 +66804,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -66849,7 +66849,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -67384,7 +67384,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -67470,7 +67470,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "16",
         "Superficie": "363.56",
-        "Estado": "Reserva de propietario",
+        "Estado": "Anulado",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -67519,7 +67519,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -67564,7 +67564,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -67609,7 +67609,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.00Gs.",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "22.360.000Gs.",
+        "Contado": "33.540.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -67936,7 +67936,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -67985,7 +67985,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -68181,7 +68181,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.00Gs.",
         "Total": "61.100.000",
         "Descuento": "40%",
-        "Contado": "24.440.000Gs.",
+        "Contado": "36.660.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -68230,7 +68230,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.00Gs.",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "22.360.000Gs.",
+        "Contado": "33.540.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -68279,7 +68279,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -68369,7 +68369,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -68549,7 +68549,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -69219,7 +69219,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -69624,7 +69624,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.00Gs.",
         "Total": "48.100.000",
         "Descuento": "40%",
-        "Contado": "19.240.000Gs.",
+        "Contado": "28.860.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -69714,11 +69714,11 @@ var json_COMBINADO_3 = {
         "Manzana": "6",
         "Lote": "4",
         "Superficie": "363.56",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -70061,7 +70061,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -70159,7 +70159,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "35"
       },
@@ -85749,7 +85749,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -85798,7 +85798,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -85847,7 +85847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -85896,7 +85896,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -85945,7 +85945,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -85994,7 +85994,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86043,7 +86043,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86092,7 +86092,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86141,7 +86141,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
+        "Contado": "25.740.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86186,7 +86186,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86231,7 +86231,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86276,7 +86276,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86321,7 +86321,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86366,7 +86366,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86411,7 +86411,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86460,7 +86460,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86509,7 +86509,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86558,7 +86558,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86607,7 +86607,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86656,7 +86656,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86705,7 +86705,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86754,7 +86754,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86803,7 +86803,7 @@ var json_COMBINADO_3 = {
         "Cuota": "260.00Gs.",
         "Total": "33.800.000",
         "Descuento": "40%",
-        "Contado": "13.520.000Gs.",
+        "Contado": "20.280.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86852,7 +86852,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86897,7 +86897,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
+        "Contado": "25.740.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86942,7 +86942,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -86987,7 +86987,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87032,7 +87032,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.00Gs.",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "14.040.000Gs.",
+        "Contado": "21.060.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87077,7 +87077,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87122,7 +87122,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87171,7 +87171,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87220,7 +87220,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87269,7 +87269,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87318,7 +87318,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87367,7 +87367,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87416,7 +87416,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87465,7 +87465,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.00Gs.",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "14.040.000Gs.",
+        "Contado": "21.060.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87514,7 +87514,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87559,7 +87559,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87604,7 +87604,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.00Gs.",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "14.040.000Gs.",
+        "Contado": "21.060.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87649,7 +87649,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87694,7 +87694,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87788,7 +87788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87837,7 +87837,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87886,7 +87886,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87935,7 +87935,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -87984,7 +87984,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -88033,7 +88033,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -88082,7 +88082,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -88131,7 +88131,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -88180,7 +88180,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -88225,7 +88225,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.00Gs.",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "14.040.000Gs.",
+        "Contado": "21.060.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -88450,7 +88450,7 @@ var json_COMBINADO_3 = {
         "Manzana": "5",
         "Lote": "5",
         "Superficie": "488.58",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -88548,7 +88548,7 @@ var json_COMBINADO_3 = {
         "Manzana": "5",
         "Lote": "7",
         "Superficie": "486.63",
-        "Estado": "Retirado",
+        "Estado": "Vendido",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -88748,7 +88748,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.00Gs.",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "11.440.000Gs.",
+        "Contado": "17.160.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89120,7 +89120,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.00Gs.",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "11.440.000Gs.",
+        "Contado": "17.160.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89169,7 +89169,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.00Gs.",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "11.440.000Gs.",
+        "Contado": "17.160.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89218,7 +89218,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.00Gs.",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "11.440.000Gs.",
+        "Contado": "17.160.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89647,7 +89647,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89696,7 +89696,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89745,7 +89745,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89794,7 +89794,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89843,7 +89843,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -89892,7 +89892,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90080,7 +90080,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90125,7 +90125,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90174,7 +90174,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90223,7 +90223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90272,7 +90272,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90321,7 +90321,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90370,7 +90370,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.00Gs.",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "13.000.000Gs.",
+        "Contado": "19.500.000Gs.",
         "Entrega": "",
         "field_11": "39"
       },
@@ -90644,7 +90644,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "750.00Gs.",
         "Total": "97.500.000",
         "Descuento": "40%",
@@ -91004,7 +91004,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "9",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -91859,7 +91859,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "9",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -91904,7 +91904,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "10",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -91949,7 +91949,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "11",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -91994,7 +91994,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "12",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -92309,7 +92309,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "19",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -92354,7 +92354,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "20",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -92583,7 +92583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "40%",
-        "Contado": "33.800.000Gs.",
+        "Contado": "50.700.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92677,7 +92677,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92726,7 +92726,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92775,7 +92775,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92824,7 +92824,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92873,7 +92873,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92922,7 +92922,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -92971,7 +92971,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93020,7 +93020,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "40%",
-        "Contado": "33.800.000Gs.",
+        "Contado": "50.700.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93155,7 +93155,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93302,7 +93302,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93347,7 +93347,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93392,7 +93392,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93441,7 +93441,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93490,7 +93490,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.00Gs.",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
+        "Contado": "37.440.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93539,7 +93539,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.00Gs.",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
+        "Contado": "37.440.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93584,7 +93584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.00Gs.",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
+        "Contado": "37.440.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93629,7 +93629,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.00Gs.",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
+        "Contado": "37.440.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -93670,7 +93670,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -93715,7 +93715,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "2",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -93862,7 +93862,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "5",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -93911,7 +93911,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "6",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -93960,7 +93960,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "7",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94009,7 +94009,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "8",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94058,7 +94058,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "9",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94107,7 +94107,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "10",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94152,7 +94152,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "11",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94197,7 +94197,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "12",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94242,7 +94242,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "13",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94287,7 +94287,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "14",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -94336,7 +94336,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.00Gs.",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
+        "Contado": "37.440.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94381,7 +94381,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94430,7 +94430,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94475,7 +94475,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94524,7 +94524,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94622,7 +94622,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94671,7 +94671,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94720,7 +94720,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94769,7 +94769,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94814,7 +94814,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94859,7 +94859,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94904,7 +94904,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94949,7 +94949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -94994,7 +94994,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95035,7 +95035,7 @@ var json_COMBINADO_3 = {
         "Manzana": "5",
         "Lote": "3",
         "Superficie": "360",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "40%",
@@ -95084,7 +95084,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95133,7 +95133,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95178,7 +95178,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95223,7 +95223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95268,7 +95268,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95317,7 +95317,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.00Gs.",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
+        "Contado": "32.760.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95366,7 +95366,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95415,7 +95415,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95509,7 +95509,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95554,7 +95554,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95599,7 +95599,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95644,7 +95644,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95689,7 +95689,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": ""
       },
@@ -95734,7 +95734,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": ""
       },
@@ -95783,7 +95783,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95832,7 +95832,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.00Gs.",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
+        "Contado": "25.740.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95881,7 +95881,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95930,7 +95930,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -95975,7 +95975,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.00Gs.",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "16.640.000Gs.",
+        "Contado": "24.960.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96020,7 +96020,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96065,7 +96065,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96114,7 +96114,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96159,7 +96159,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96204,7 +96204,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96249,7 +96249,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96298,7 +96298,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96343,7 +96343,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96388,7 +96388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.00Gs.",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "19.760.000Gs.",
+        "Contado": "29.640.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96437,7 +96437,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96482,7 +96482,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96527,7 +96527,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96572,7 +96572,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96617,7 +96617,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96662,7 +96662,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "41"
       },
@@ -96797,7 +96797,7 @@ var json_COMBINADO_3 = {
         "Cuota": "900.00Gs.",
         "Total": "117.000.000,00 €",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
+        "Contado": "70.200.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -96887,7 +96887,7 @@ var json_COMBINADO_3 = {
         "Cuota": "980.00Gs.",
         "Total": "127.400.000,00",
         "Descuento": "40%",
-        "Contado": "50.960.000Gs.",
+        "Contado": "76.440.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -96977,7 +96977,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.00Gs.",
         "Total": "45.500.000,00",
         "Descuento": "40%",
-        "Contado": "18.200.000Gs.",
+        "Contado": "27.300.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97022,7 +97022,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.00Gs.",
         "Total": "39.000.000,00",
         "Descuento": "40%",
-        "Contado": "15.600.000Gs.",
+        "Contado": "23.400.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97247,7 +97247,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000,00",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97292,7 +97292,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000,00",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97472,7 +97472,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000,00",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97562,7 +97562,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000,00",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97652,7 +97652,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.00Gs.",
         "Total": "36.400.000,00",
         "Descuento": "40%",
-        "Contado": "14.560.000Gs.",
+        "Contado": "21.840.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -97697,7 +97697,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.00Gs.",
         "Total": "62.400.000,00",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
+        "Contado": "37.440.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98012,7 +98012,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.00Gs.",
         "Total": "58.500.000,00",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
+        "Contado": "35.100.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98552,7 +98552,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98597,7 +98597,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98642,7 +98642,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98687,7 +98687,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98732,7 +98732,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98777,7 +98777,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98822,7 +98822,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98867,7 +98867,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98912,7 +98912,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -98957,7 +98957,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99002,7 +99002,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99182,7 +99182,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000,00",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99227,7 +99227,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99272,7 +99272,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99317,7 +99317,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99362,7 +99362,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99407,7 +99407,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99677,7 +99677,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.00Gs.",
         "Total": "78.000.000,00",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
+        "Contado": "46.800.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99722,7 +99722,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99767,7 +99767,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.00Gs.",
         "Total": "71.500.000,00",
         "Descuento": "40%",
-        "Contado": "28.600.000Gs.",
+        "Contado": "42.900.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99857,7 +99857,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99902,7 +99902,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -99947,7 +99947,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -100217,7 +100217,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -100262,7 +100262,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.00Gs.",
         "Total": "65.000.000,00",
         "Descuento": "40%",
-        "Contado": "26.000.000Gs.",
+        "Contado": "39.000.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -100307,7 +100307,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.00Gs.",
         "Total": "52.000.000,00",
         "Descuento": "40%",
-        "Contado": "20.800.000Gs.",
+        "Contado": "31.200.000Gs.",
         "Entrega": "",
         "field_11": "42"
       },
@@ -107341,7 +107341,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "12",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107386,7 +107386,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107431,7 +107431,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "2",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107476,7 +107476,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "3",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107521,7 +107521,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "4",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107566,7 +107566,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "5",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107611,7 +107611,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "6",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107746,7 +107746,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "9",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107791,7 +107791,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "10",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -107836,7 +107836,7 @@ var json_COMBINADO_3 = {
         "Manzana": "7",
         "Lote": "11",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "30%",
@@ -108826,7 +108826,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "5",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -108871,7 +108871,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -108916,7 +108916,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "2",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -108961,7 +108961,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "3",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -109006,7 +109006,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "4",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -109186,7 +109186,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "8",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -109423,7 +109423,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "13",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -109468,7 +109468,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "14",
         "Superficie": "",
-        "Estado": "Retirado",
+        "Estado": "Reserva de propietario",
         "Cuota": "",
         "Total": "",
         "Descuento": "50%",
@@ -109513,7 +109513,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "432.45",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -109558,7 +109558,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "2",
         "Superficie": "432.36",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -109603,7 +109603,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "3",
         "Superficie": "375.53",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -109648,7 +109648,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "4",
         "Superficie": "371.22",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -109693,7 +109693,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "5",
         "Superficie": "366.92",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -109738,7 +109738,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "6",
         "Superficie": "362.59",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -109828,7 +109828,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "368.61",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -109873,7 +109873,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "368.61",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -109918,7 +109918,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "368.61",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -109963,7 +109963,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "368.61",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -110008,7 +110008,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "1",
         "Superficie": "368.61",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -110053,7 +110053,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "6",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110098,7 +110098,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "7",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110143,7 +110143,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "8",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110188,7 +110188,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "9",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110233,7 +110233,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "10",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110278,7 +110278,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "11",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110323,7 +110323,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "12",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110368,7 +110368,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "13",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110503,7 +110503,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "16",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110548,7 +110548,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "17",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110593,7 +110593,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "18",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110638,7 +110638,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "19",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110683,7 +110683,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "20",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110728,7 +110728,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "21",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110773,7 +110773,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "1",
         "Superficie": "460.87",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -110818,7 +110818,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "2",
         "Superficie": "460.66",
-        "Estado": "",
+        "Estado": "Vendido",
         "Cuota": "1.150.000,00Gs.",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -110863,7 +110863,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "3",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110908,7 +110908,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "4",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110953,7 +110953,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "5",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -110998,7 +110998,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "6",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "700.00Gs.",
         "Total": "91.000.000",
         "Descuento": "50%",
@@ -111043,7 +111043,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "7",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "50%",
@@ -111088,7 +111088,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "8",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "50%",
@@ -111133,7 +111133,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "9",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "50%",
@@ -111178,7 +111178,7 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "10",
         "Superficie": "360.08",
-        "Estado": "",
+        "Estado": "Libre",
         "Cuota": "650.00Gs.",
         "Total": "84.500.000",
         "Descuento": "50%",
