@@ -64679,7 +64679,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-1",
+        "ID": "33-12-1",
         "Manzana": "11",
         "Lote": "1",
         "Superficie": "",
@@ -64725,7 +64725,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-2",
+        "ID": "33-12-2",
         "Manzana": "11",
         "Lote": "2",
         "Superficie": "",
@@ -64775,7 +64775,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-3",
+        "ID": "33-12-3",
         "Manzana": "11",
         "Lote": "3",
         "Superficie": "",
@@ -64825,7 +64825,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-4",
+        "ID": "33-12-4",
         "Manzana": "11",
         "Lote": "4",
         "Superficie": "",
@@ -64875,7 +64875,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-5",
+        "ID": "33-12-5",
         "Manzana": "11",
         "Lote": "5",
         "Superficie": "",
@@ -64925,15 +64925,15 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-6",
+        "ID": "33-12-6",
         "Manzana": "11",
         "Lote": "6",
         "Superficie": "",
-        "Estado": "Vendido",
-        "Cuota": "",
-        "Total": "0",
+        "Estado": "Libre",
+        "Cuota": "330.000",
+        "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "0Gs.",
+        "Contado": "21.450.000Gs.",
         "Entrega": "",
         "field_11": "33",
         "field_12": ""
@@ -64975,15 +64975,15 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-7",
+        "ID": "33-12-7",
         "Manzana": "11",
         "Lote": "7",
         "Superficie": "",
         "Estado": "Vendido",
-        "Cuota": "",
-        "Total": "0",
+        "Cuota": "330.000",
+        "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "0Gs.",
+        "Contado": "21.450.000Gs.",
         "Entrega": "",
         "field_11": "33",
         "field_12": ""
@@ -65025,7 +65025,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-8",
+        "ID": "33-12-8",
         "Manzana": "11",
         "Lote": "8",
         "Superficie": "",
@@ -65075,7 +65075,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-9",
+        "ID": "33-12-9",
         "Manzana": "11",
         "Lote": "9",
         "Superficie": "",
@@ -65125,7 +65125,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-10",
+        "ID": "33-12-10",
         "Manzana": "11",
         "Lote": "10",
         "Superficie": "",
@@ -65175,7 +65175,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-11",
+        "ID": "33-12-11",
         "Manzana": "11",
         "Lote": "11",
         "Superficie": "",
@@ -65225,15 +65225,15 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-12",
+        "ID": "33-12-12",
         "Manzana": "11",
         "Lote": "12",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "350.000",
-        "Total": "45.500.000",
+        "Total": "0",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "33",
         "field_12": ""
@@ -65275,7 +65275,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-13",
+        "ID": "33-12-13",
         "Manzana": "11",
         "Lote": "13",
         "Superficie": "",
@@ -65325,15 +65325,15 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-14",
+        "ID": "33-12-14",
         "Manzana": "11",
         "Lote": "14",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "350.000",
-        "Total": "45.500.000",
+        "Total": "0",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
+        "Contado": "0Gs.",
         "Entrega": "",
         "field_11": "33",
         "field_12": ""
@@ -65375,7 +65375,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-15",
+        "ID": "33-12-15",
         "Manzana": "11",
         "Lote": "15",
         "Superficie": "",
@@ -65421,7 +65421,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-17",
+        "ID": "33-12-17",
         "Manzana": "11",
         "Lote": "17",
         "Superficie": "",
@@ -65467,7 +65467,7 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "33-11-16",
+        "ID": "33-12-16",
         "Manzana": "11",
         "Lote": "16",
         "Superficie": "",
