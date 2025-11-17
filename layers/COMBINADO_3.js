@@ -96615,15 +96615,15 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "4-4-6",
+        "ID": "41-4-6",
         "Manzana": null,
-        "Lote": null,
-        "Superficie": null,
-        "Estado": null,
-        "Cuota": null,
-        "Total": null,
-        "Descuento": null,
-        "Contado": null,
+        "Lote": "6",
+        "Superficie": "360.72",
+        "Estado": "Libre",
+        "Cuota": "400.000",
+        "Total": "52.000.000",
+        "Descuento": "40%",
+        "Contado": "31.200.000Gs.",
         "Entrega": null,
         "field_11": null,
         "field_12": null
