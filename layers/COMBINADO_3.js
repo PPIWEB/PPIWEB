@@ -111139,9 +111139,9 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "9-1-3",
+        "ID": "9-1-4",
         "Manzana": "1",
-        "Lote": "3",
+        "Lote": "4",
         "Superficie": "",
         "Estado": "Libre",
         "Cuota": "850.000",
