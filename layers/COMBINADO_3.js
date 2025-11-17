@@ -35537,7 +35537,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "12",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
@@ -112255,9 +112255,9 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "43-2-1",
+        "ID": "43-2-2",
         "Manzana": "2",
-        "Lote": "1",
+        "Lote": "2",
         "Superficie": "368.61",
         "Estado": "Cancelado",
         "Cuota": "1.150.000",
@@ -112301,11 +112301,11 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "43-2-1",
+        "ID": "43-2-3",
         "Manzana": "2",
-        "Lote": "1",
+        "Lote": "3",
         "Superficie": "368.61",
-        "Estado": "Cancelado",
+        "Estado": "Vendido",
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -112347,11 +112347,11 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "43-2-1",
+        "ID": "43-2-4",
         "Manzana": "2",
-        "Lote": "1",
+        "Lote": "4",
         "Superficie": "368.61",
-        "Estado": "Cancelado",
+        "Estado": "Vendido",
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
@@ -112393,11 +112393,11 @@ var json_COMBINADO_3 = {
     {
       "type": "Feature",
       "properties": {
-        "ID": "43-2-1",
+        "ID": "43-2-5",
         "Manzana": "2",
-        "Lote": "1",
+        "Lote": "5",
         "Superficie": "368.61",
-        "Estado": "Cancelado",
+        "Estado": "Vendido",
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
