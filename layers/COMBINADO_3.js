@@ -113318,10 +113318,10 @@ var json_COMBINADO_3 = {
         "Lote": "4",
         "Superficie": "360.08",
         "Estado": "Libre",
-        "Cuota": "7.000.000",
-        "Total": "910.000.000",
+        "Cuota": "700.000",
+        "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "455.000.000",
+        "Contado": "45.500.000",
         "Entrega": "",
         "field_11": "43",
         "field_12": ""
