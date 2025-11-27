@@ -79873,7 +79873,7 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "3",
         "Superficie": "399.11",
-        "Estado": "Cancelado",
+        "Estado": "Vendido",
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
