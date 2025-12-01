@@ -1,4 +1,4 @@
-ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,,
+2,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,,
 "001-RESIDENCIAL ALTO PARAISO
 ",,,,,,,,,,,
 1-1-1,1,1,734.25,Vendido,,0,50%,0Gs.,,1,0
@@ -1425,7 +1425,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,,
 26-2-17,2,17,361,Vendido,,0,50%,0Gs.,,26,
 26-2-18,2,18,361,Vendido,,0,50%,0Gs.,,26,
 26-2-19,2,19,361,Vendido,,0,50%,0Gs.,,26,
-26-2-20,2,20,362,Vendido,550.000,71.500.000,50%,35.750.000Gs.,,26,
+26-2-20,2,20,362,Libre,550.000,71.500.000,50%,35.750.000Gs.,,26,
 26-2-21,2,21,362,Vendido,,0,50%,0Gs.,,26,
 26-2-22,2,22,362,Vendido,,0,50%,0Gs.,,26,
 26-1-26,,,,Plaza,,0,,,,,
