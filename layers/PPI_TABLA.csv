@@ -1,4 +1,4 @@
-2,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,,
+ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado,Entrega ,,
 "001-RESIDENCIAL ALTO PARAISO
 ",,,,,,,,,,,
 1-1-1,1,1,734.25,Vendido,,0,50%,0Gs.,,1,0
@@ -1910,7 +1910,7 @@
 35-7-7,7,7,,Vendido,,0,40%,0Gs.,,35,
 35-7-8,7,8,,Vendido,,0,40%,0Gs.,,35,
 35-7-9,7,9,,Vendido,,0,40%,0Gs.,,35,
-35-7-10,7,10,,Cancelado,,0,40%,0Gs.,,35,
+35-7-10,7,10,,Vendido,,0,40%,0Gs.,,35,
 35-1-12,,,,Plaza,,0,,,,,
 35-1-11,,,,Edificio Publico,,0,,,,,
 "036 - RESIDENCIAL LAS MERCEDES
