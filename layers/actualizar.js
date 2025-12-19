@@ -1,159 +1,82 @@
 const fs = require('fs');
-const csv = require('csv-parser');
-const vm = require('vm'); // <--- Importamos el módulo "Virtual Machine"
+const path = require('path');
 
-// --- Nombres de tus archivos ---
-const csvFilePath = './PPI_TABLA.csv';
-const jsFilePath = './COMBINADO_3.js';
-// ------------------------------
+// --- CONFIGURACIÓN DE NOMBRES ---
+const CSV_FILE = 'PPI_TABLA.csv';
+const JS_FILE = 'COMBINADO_3.js';
+const JS_VARIABLE = 'var json_COMBINADO_3 =';
+// --------------------------------
 
-/**
- * Paso 1: Leer el archivo CSV y cargarlo en un objeto (Map)
- */
-async function cargarDatosCSV() {
-    const dataMap = new Map();
-    return new Promise((resolve, reject) => {
-        fs.createReadStream(csvFilePath)
-            .pipe(csv())
-            .on('data', (row) => {
-                if (row.ID) {
-                    dataMap.set(row.ID, row);
-                }
-            })
-            .on('end', () => {
-                console.log('✅ Lectura del CSV completada.');
-                resolve(dataMap);
-            })
-            .on('error', (error) => {
-                reject(error);
-            });
-    });
-}
-
-/**
- * Paso 2: Función principal que orquesta todo el proceso
- */
-async function actualizarArchivoJS() {
+function actualizar() {
     try {
-        // --- Cargar datos del CSV ---
-        const csvDataMap = await cargarDatosCSV();
-        console.log(`Cargados ${csvDataMap.size} registros desde el CSV.`);
+        console.log('--- INICIANDO PROCESO DE ACTUALIZACIÓN ---');
 
-        // --- Leer el archivo .js ---
-        console.log(`Leyendo archivo: ${jsFilePath}...`);
-        const jsFileContent = fs.readFileSync(jsFilePath, 'utf8');
+        // 1. Verificar que los archivos existen
+        if (!fs.existsSync(CSV_FILE)) throw new Error(`No se encuentra el archivo: ${CSV_FILE}`);
+        if (!fs.existsSync(JS_FILE)) throw new Error(`No se encuentra el archivo: ${JS_FILE}`);
 
-        let geoJSON;
-        let jsVarHeader = ''; // Guardará el "var json_COMBINADO_3 = "
+        // 2. Leer y Procesar el CSV
+        const csvContent = fs.readFileSync(CSV_FILE, 'utf8');
+        const lineas = csvContent.split(/\r?\n/);
+        
+        // Obtenemos los encabezados de la PRIMERA línea
+        const encabezados = lineas[0].split(',').map(h => h.trim());
+        
+        const dataMap = new Map();
 
-        // --- NUEVO MÉTODO: Usar un sandbox (VM) para leer el objeto JS ---
-        try {
-            console.log('Detectando formato de variable JS...');
-            
-            // 1. Encontrar el signo "="
-            const startIndex = jsFileContent.indexOf('=');
-            if (startIndex === -1) {
-                // Si no hay "=", probaremos el método de JSON puro más abajo
-                throw new Error('No se encontró el signo "=" para detectar la variable JS.');
-            }
-            // Capturamos el encabezado completo, ej: "var json_COMBINADO_3 ="
-            jsVarHeader = jsFileContent.substring(0, startIndex + 1);
-            
-            // 2. Crear un "sandbox" para ejecutar el código de forma segura
-            const sandbox = {};
-            vm.createContext(sandbox); // Crea un contexto vacío
-            
-            // 3. Ejecutar el script completo en el sandbox
-            // Esto creará la variable (ej: json_COMBINADO_3) dentro del sandbox
-            console.log('Ejecutando script en sandbox para extraer el objeto...');
-            vm.runInContext(jsFileContent, sandbox);
-            
-            // 4. Encontrar el nombre de la variable que se creó
-            const varName = Object.keys(sandbox)[0];
-            if (!varName) {
-                throw new Error('El script se ejecutó pero no se encontró ninguna variable en el sandbox.');
-            }
-            console.log(`Variable detectada en el sandbox: ${varName}`);
+        // Empezamos a leer desde la línea 4 (índice 3) para saltar la basura del inicio
+        for (let i = 3; i < lineas.length; i++) {
+            const columnas = lineas[i].split(',');
+            if (columnas.length < 2) continue; // Línea vacía
 
-            // 5. Obtener el objeto de esa variable
-            geoJSON = sandbox[varName];
+            const obj = {};
+            encabezados.forEach((header, index) => {
+                if (header) {
+                    obj[header] = columnas[index] ? columnas[index].trim() : "";
+                }
+            });
 
-            if (typeof geoJSON !== 'object' || geoJSON === null) {
-                throw new Error(`La variable "${varName}" no es un objeto válido.`);
-            }
-
-        } catch (error) {
-            console.error('Error al procesar el archivo JS con el sandbox (VM):', error.message);
-            console.log('Intentando de nuevo con el método de JSON puro...');
-            
-            // --- MÉTODO ANTIGUO: Asumir JSON puro (como plan B) ---
-            try {
-                geoJSON = JSON.parse(jsFileContent);
-                jsVarHeader = ''; // Es JSON puro, no tiene encabezado
-            } catch (jsonError) {
-                console.error('Error al "parsear" el archivo como JSON puro:', jsonError.message);
-                throw new Error('Formato de archivo no válido. Falló la lectura como JS-Object y como JSON-puro.');
+            if (obj.ID) {
+                dataMap.set(obj.ID, obj);
             }
         }
-        
-        // --- (El resto del script es idéntico) ---
-        
-        // --- Recorrer y actualizar las "features" (lotes) ---
-        console.log('Objeto JS cargado. Empezando actualización de propiedades...');
-        let lotesActualizados = 0;
-        let lotesNoEncontrados = 0;
+        console.log(`✅ CSV procesado: ${dataMap.size} lotes encontrados.`);
 
-        geoJSON.features.forEach(feature => {
-            const featureId = feature.properties.ID;
-            
-            if (csvDataMap.has(featureId)) {
-                const csvRow = csvDataMap.get(featureId);
+        // 3. Leer y Procesar el JS
+        let jsContent = fs.readFileSync(JS_FILE, 'utf8').trim();
+        
+        // Extraer el JSON: quitamos el "var ... =" del inicio y el ";" del final
+        let jsonStr = jsContent.replace(JS_VARIABLE, '').trim();
+        if (jsonStr.endsWith(';')) {
+            jsonStr = jsonStr.slice(0, -1);
+        }
 
-                // Actualizar propiedades
-                feature.properties.Manzana = csvRow.Manz || feature.properties.Manzana;
-                feature.properties.Lote = csvRow.Lote || feature.properties.Lote;
-                feature.properties.Superficie = csvRow.Superficie || feature.properties.Superficie;
-                feature.properties.Estado = csvRow.Estado || feature.properties.Estado;
-                feature.properties.Cuota = csvRow.Cuota || feature.properties.Cuota;
-                feature.properties.Total = csvRow.Total || feature.properties.Total;
-                feature.properties.Descuento = csvRow.Descuento || feature.properties.Descuento;
-                feature.properties.Contado = csvRow.Contado || feature.properties.Contado;
+        const geojson = JSON.parse(jsonStr);
+        let actualizados = 0;
+
+        // 4. Actualizar los datos
+        geojson.features.forEach(feature => {
+            const id = feature.properties.ID;
+            if (dataMap.has(id)) {
+                const nuevosDatos = dataMap.get(id);
                 
-                lotesActualizados++;
-            } else {
-                lotesNoEncontrados++;
+                // Actualizamos cada propiedad que viene del CSV
+                // Esto actualizará: Estado, Cuota, Total, Descuento, Contado, etc.
+                Object.assign(feature.properties, nuevosDatos);
+                actualizados++;
             }
         });
 
-        console.log(`Proceso de actualización terminado:`);
-        console.log(`  - ${lotesActualizados} lotes actualizados.`);
-        console.log(`  - ${lotesNoEncontrados} lotes no encontrados en el CSV (se dejaron sin cambios).`);
+        // 5. Guardar el resultado
+        const nuevoContenido = `${JS_VARIABLE} ${JSON.stringify(geojson, null, 2)};`;
+        fs.writeFileSync(JS_FILE, nuevoContenido, 'utf8');
 
-        // --- Reconstruir y guardar el archivo .js ---
-        // JSON.stringify SIEMPRE produce JSON válido (sin comas extra, etc.)
-        const updatedJsonString = JSON.stringify(geoJSON, null, 2); 
-        let updatedJsFileContent;
-
-        if (jsVarHeader === '') {
-            // Se leyó como JSON puro, se guarda como JSON puro
-            updatedJsFileContent = updatedJsonString;
-            console.log('Guardando archivo en formato JSON puro.');
-        } else {
-            // Se leyó como variable JS, se guarda con el mismo encabezado
-            updatedJsFileContent = `${jsVarHeader} ${updatedJsonString};`;
-            console.log('Guardando archivo en formato variable JS (con ";" al final).');
-        }
-
-        fs.writeFileSync(jsFilePath, updatedJsFileContent, 'utf8');
-        
-        console.log(`🎉 ¡Éxito! El archivo "${jsFilePath}" ha sido actualizado.`);
+        console.log(`✅ ¡ÉXITO! Se actualizaron ${actualizados} lotes.`);
+        console.log('--- PROCESO FINALIZADO ---');
 
     } catch (error) {
-        console.error('------------------------------------------');
-        console.error('❌ Ha ocurrido un error en el proceso:', error.message);
-        console.error('------------------------------------------');
+        console.error('❌ ERROR:', error.message);
     }
 }
 
-// --- Ejecutar la función principal ---
-actualizarArchivoJS();
+actualizar();
