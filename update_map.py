@@ -7,7 +7,6 @@ def update_data():
     # --- CONFIGURATION ---
     csv_file = 'layers/PPI_TABLA.csv' 
     js_file = 'layers/COMBINADO_3.js'
-    # This must match EXACTLY what is at the start of your JS file
     js_variable_name = "var json_COMBINADO_3 =" 
     # ---------------------
 
@@ -20,14 +19,26 @@ def update_data():
         print(f"ERROR: Could not find {js_file}")
         return
 
-    # 1. Load the CSV
+    # 1. Load the CSV as PURE TEXT (dtype=str)
+    # This prevents "1" from becoming "1.0"
     print(f"Reading {csv_file}...")
     try:
-        df = pd.read_csv(csv_file)
-        # Clean up ID column to ensure matches
-        df['ID'] = df['ID'].astype(str).str.strip()
+        df = pd.read_csv(csv_file, dtype=str)
+        
+        # Clean ID: strip whitespace
+        df['ID'] = df['ID'].str.strip()
+        
+        # Remove duplicate IDs
         df = df.drop_duplicates('ID', keep='first')
+        
+        # Filter out junk columns (like "Unnamed: 10")
+        cols_to_keep = [c for c in df.columns if not c.startswith("Unnamed")]
+        df = df[cols_to_keep]
+
+        # Convert to dictionary (filling NaNs with empty strings)
+        df = df.fillna("")
         csv_lookup = df.set_index('ID').to_dict(orient='index')
+        
         print(f"Loaded {len(csv_lookup)} rows from CSV.")
     except Exception as e:
         print(f"ERROR reading CSV: {e}")
@@ -38,7 +49,7 @@ def update_data():
     with open(js_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # 3. Extract the JSON part safely
+    # 3. Extract JSON safely
     start_index = content.find('{')
     end_index = content.rfind('}')
     
@@ -48,9 +59,9 @@ def update_data():
 
     json_str = content[start_index:end_index+1]
 
-    # Fix common JS syntax issues (unquoted keys)
+    # Fix unquoted keys if necessary
     json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', json_str)
-    json_str = re.sub(r',\s*([}\]])', r'\1', json_str) # Remove trailing commas
+    json_str = re.sub(r',\s*([}\]])', r'\1', json_str)
 
     try:
         data = json.loads(json_str)
@@ -58,28 +69,28 @@ def update_data():
         print(f"ERROR decoding JSON: {e}")
         return
 
-    # 4. Update the data
+    # 4. Update the data preserving format
     matches = 0
     for feature in data.get('features', []):
         props = feature.get('properties', {})
         fid = str(props.get('ID', '')).strip()
         
         if fid in csv_lookup:
-            # Convert all values to string to avoid format errors
-            new_vals = {k: str(v) for k, v in csv_lookup[fid].items() if pd.notnull(v)}
+            # Update properties with exact text from CSV
+            # This overwrites existing values with the "clean" versions
+            new_vals = csv_lookup[fid]
             props.update(new_vals)
             matches += 1
 
     print(f"Updated {matches} features.")
 
     # 5. Save the file back
-    # We reconstruct the file using the variable name + the JSON data
     new_content = f"{js_variable_name} {json.dumps(data, indent=2, ensure_ascii=False)};"
     
     with open(js_file, 'w', encoding='utf-8') as f:
         f.write(new_content)
     
-    print("--- SUCCESS: File saved. ---")
+    print("--- SUCCESS: File saved correctly. ---")
 
 if __name__ == "__main__":
     update_data()
