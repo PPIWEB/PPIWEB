@@ -4,7 +4,6 @@ import re
 import os
 
 def update_data():
-    # Correct paths for the PPIWEBAPP branch
     csv_file = 'layers/PPI_TABLA.csv' 
     js_file = 'layers/COMBINADO_3.js' 
     
@@ -15,46 +14,62 @@ def update_data():
         print(f"Error: {js_file} no encontrado.")
         return
 
-    # Load CSV data
+    # 1. Load CSV
+    print("Leyendo CSV...")
     df = pd.read_csv(csv_file)
     df = df[df['ID'].notnull()]
     df['ID'] = df['ID'].astype(str).str.strip()
     df = df.drop_duplicates('ID', keep='first')
     csv_lookup = df.set_index('ID').to_dict(orient='index')
+    print(f"CSV cargado. {len(csv_lookup)} registros encontrados.")
 
-    # Read JS file content
+    # 2. Read JS file
     with open(js_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Identify the variable name used in the original file (e.g., var json_COMBINADO_3)
-    var_match = re.match(r'^(var\s+[a-zA-Z0-9_]+\s*=\s*)', content)
-    var_header = var_match.group(1) if var_match else "var json_COMBINADO_3 = "
-
-    # Extract JSON object
+    # 3. Extract JSON object safely
     start = content.find('{')
     end = content.rfind('}')
+    if start == -1 or end == -1:
+        print("Error: No se encontró un objeto JSON válido en el archivo JS.")
+        return
+
     json_str = content[start:end+1]
     
-    # Clean JS format to valid JSON
+    # Fix keys that aren't quoted (common in JS files)
     json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', json_str)
+    # Remove trailing commas
     json_str = re.sub(r',\s*([}\]])', r'\1', json_str)
     
-    data = json.loads(json_str)
+    try:
+        data = json.loads(json_str)
+    except json.JSONDecodeError as e:
+        print(f"Error al decodificar JSON: {e}")
+        return
 
-    # Update properties based on ID match
+    # 4. Update Data
     count = 0
     for feature in data.get('features', []):
-        fid = str(feature['properties'].get('ID', '')).strip()
+        # Ensure we look for properties correctly
+        props = feature.get('properties', {})
+        fid = str(props.get('ID', '')).strip()
+        
         if fid in csv_lookup:
+            # Create a clean dictionary of updates
             new_vals = {k: (str(v) if pd.notnull(v) else "") for k, v in csv_lookup[fid].items()}
-            feature['properties'].update(new_vals)
+            props.update(new_vals)
             count += 1
-
-    # Save changes back using the SAME variable name found at the start
-    with open(js_file, 'w', encoding='utf-8') as f:
-        f.write(var_header + json.dumps(data, indent=2, ensure_ascii=False) + ";")
     
-    print(f"¡Éxito! Se actualizaron {count} registros en {js_file}")
+    print(f"Se actualizaron {count} coincidencias.")
+
+    # 5. Save back with the CORRECT variable name
+    # We force the variable name to ensure the map works
+    variable_name = "var json_COMBINADO_3 = "
+    
+    with open(js_file, 'w', encoding='utf-8') as f:
+        f.write(variable_name + json.dumps(data, indent=2, ensure_ascii=False) + ";")
+    
+    print("¡Archivo JS guardado con éxito!")
 
 if __name__ == "__main__":
     update_data()
