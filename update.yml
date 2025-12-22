@@ -2,7 +2,7 @@ name: Update Map Data
 on:
   push:
     branches:
-      - PPIWEBAPP  # Ensure this matches your branch name
+      - PPIWEBAPP  # Listens for changes on your active branch
     paths:
       - 'layers/PPI_TABLA.csv'
 jobs:
@@ -11,17 +11,19 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          ref: PPIWEBAPP # Ensures the action pulls from the correct branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # Matches your environment
+          python-version: '3.9'
 
       - name: Install dependencies
         run: pip install pandas
 
       - name: Run update script
-        run: python update_map.py # Runs the script located in the main folder
+        run: python update_map.py
 
       - name: Commit and push changes
         run: |
@@ -29,4 +31,4 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add layers/COMBINADO_3.js
           git commit -m "Auto-update layers/COMBINADO_3.js from PPI_TABLA.csv" || echo "No changes"
-          git push
+          git push origin PPIWEBAPP # Explicitly pushes to the PPIWEBAPP branch
