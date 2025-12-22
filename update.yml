@@ -1,0 +1,31 @@
+name: Update Map Data
+on:
+  push:
+    paths:
+      - 'layers/PPI_TABLA.csv' # Triggers when the CSV in the layers folder changes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9' # Matches your environment
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Run update script
+        run: python update_map.py # Runs the script located in the main folder
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add layers/COMBINADO_3.js
+          git commit -m "Auto-update layers/COMBINADO_3.js from PPI_TABLA.csv" || echo "No changes"
+          git push
