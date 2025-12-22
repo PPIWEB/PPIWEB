@@ -1,9 +1,10 @@
 name: Update Map Data
 on:
   push:
+    branches:
+      - PPIWEBAPP  # Ensure this matches your branch name
     paths:
-      - 'layers/PPI_TABLA.csv' # Triggers when the CSV in the layers folder changes
-
+      - 'layers/PPI_TABLA.csv'
 jobs:
   build:
     runs-on: ubuntu-latest
