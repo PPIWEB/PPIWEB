@@ -4,7 +4,7 @@ import re
 import os
 
 def update_data():
-    # Paths adjusted to look inside the 'layers' folder as seen in your screenshot
+    # Correct paths for the PPIWEBAPP branch
     csv_file = 'layers/PPI_TABLA.csv' 
     js_file = 'layers/COMBINADO_3.js' 
     
@@ -26,7 +26,11 @@ def update_data():
     with open(js_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Extract JSON object from the JS variable
+    # Identify the variable name used in the original file (e.g., var json_COMBINADO_3)
+    var_match = re.match(r'^(var\s+[a-zA-Z0-9_]+\s*=\s*)', content)
+    var_header = var_match.group(1) if var_match else "var json_COMBINADO_3 = "
+
+    # Extract JSON object
     start = content.find('{')
     end = content.rfind('}')
     json_str = content[start:end+1]
@@ -38,18 +42,19 @@ def update_data():
     data = json.loads(json_str)
 
     # Update properties based on ID match
+    count = 0
     for feature in data.get('features', []):
         fid = str(feature['properties'].get('ID', '')).strip()
         if fid in csv_lookup:
             new_vals = {k: (str(v) if pd.notnull(v) else "") for k, v in csv_lookup[fid].items()}
             feature['properties'].update(new_vals)
+            count += 1
 
-    # Save changes back to the layers folder
+    # Save changes back using the SAME variable name found at the start
     with open(js_file, 'w', encoding='utf-8') as f:
-        # Note: Ensure 'json_COMBINADO_3' matches the variable name in your JS file
-        f.write("var json_COMBINADO_3 = " + json.dumps(data, indent=2, ensure_ascii=False) + ";")
+        f.write(var_header + json.dumps(data, indent=2, ensure_ascii=False) + ";")
     
-    print("¡Archivo en la carpeta 'layers' actualizado con éxito!")
+    print(f"¡Éxito! Se actualizaron {count} registros en {js_file}")
 
 if __name__ == "__main__":
     update_data()
