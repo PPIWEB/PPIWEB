@@ -7,7 +7,7 @@ def update_data():
     # --- CONFIGURATION ---
     csv_file = 'layers/PPI_TABLA.csv' 
     # MISTAKE FIX: Use the exact name from your screenshot image_787caf.png
-    js_file = 'layers/COMBINADO_3 (2).js'
+    js_file = 'layers/COMBINADO_3.js'
     js_variable_name = "var json_COMBINADO_3 =" 
     
     # MISTAKE FIX: "Entrega" removed from this list to force its deletion
