@@ -8,6 +8,12 @@ def update_data():
     csv_file = 'layers/PPI_TABLA.csv' 
     js_file = 'layers/COMBINADO_3.js'
     js_variable_name = "var json_COMBINADO_3 =" 
+    
+    # Define EXACTLY which columns should remain in your map
+    ALLOWED_COLUMNS = [
+        "ID", "Manzana", "Lote", "Superficie", "Estado", 
+        "Cuota", "Total", "Descuento", "Contado", "Entrega"
+    ]
     # ---------------------
 
     print("--- STARTING UPDATE ---")
@@ -19,23 +25,17 @@ def update_data():
         print(f"ERROR: Could not find {js_file}")
         return
 
-    # 1. Load the CSV as PURE TEXT (dtype=str)
-    # This prevents "1" from becoming "1.0"
-    print(f"Reading {csv_file}...")
+    # 1. Load the CSV
     try:
+        # Load only the columns we want to avoid bringing in junk from the CSV
         df = pd.read_csv(csv_file, dtype=str)
         
-        # Clean ID: strip whitespace
-        df['ID'] = df['ID'].str.strip()
-        
-        # Remove duplicate IDs
-        df = df.drop_duplicates('ID', keep='first')
-        
-        # Filter out junk columns (like "Unnamed: 10")
-        cols_to_keep = [c for c in df.columns if not c.startswith("Unnamed")]
+        # Keep only the allowed columns that actually exist in the CSV
+        cols_to_keep = [c for c in df.columns if c in ALLOWED_COLUMNS]
         df = df[cols_to_keep]
-
-        # Convert to dictionary (filling NaNs with empty strings)
+        
+        df['ID'] = df['ID'].str.strip()
+        df = df.drop_duplicates('ID', keep='first')
         df = df.fillna("")
         csv_lookup = df.set_index('ID').to_dict(orient='index')
         
@@ -45,21 +45,20 @@ def update_data():
         return
 
     # 2. Read the existing JS file
-    print(f"Reading {js_file}...")
     with open(js_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # 3. Extract JSON safely
+    # 3. Extract JSON
     start_index = content.find('{')
     end_index = content.rfind('}')
     
     if start_index == -1 or end_index == -1:
-        print("ERROR: Could not find valid JSON object in JS file.")
+        print("ERROR: Could not find valid JSON object.")
         return
 
     json_str = content[start_index:end_index+1]
-
-    # Fix unquoted keys if necessary
+    
+    # Basic cleanup for common JS-formatted JSON issues
     json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', json_str)
     json_str = re.sub(r',\s*([}\]])', r'\1', json_str)
 
@@ -69,20 +68,24 @@ def update_data():
         print(f"ERROR decoding JSON: {e}")
         return
 
-    # 4. Update the data preserving format
+    # 4. Update and PURGE unwanted properties
     matches = 0
     for feature in data.get('features', []):
         props = feature.get('properties', {})
         fid = str(props.get('ID', '')).strip()
         
+        # A. UPDATE values from CSV if ID matches
         if fid in csv_lookup:
-            # Update properties with exact text from CSV
-            # This overwrites existing values with the "clean" versions
-            new_vals = csv_lookup[fid]
-            props.update(new_vals)
+            props.update(csv_lookup[fid])
             matches += 1
+            
+        # B. PURGE: Remove any key NOT in our ALLOWED_COLUMNS list
+        # This removes "field_11", "UPDATING...", "TRUE", etc.
+        keys_to_delete = [k for k in props.keys() if k not in ALLOWED_COLUMNS]
+        for k in keys_to_delete:
+            del props[k]
 
-    print(f"Updated {matches} features.")
+    print(f"Updated {matches} features and cleaned property lists.")
 
     # 5. Save the file back
     new_content = f"{js_variable_name} {json.dumps(data, indent=2, ensure_ascii=False)};"
@@ -90,7 +93,7 @@ def update_data():
     with open(js_file, 'w', encoding='utf-8') as f:
         f.write(new_content)
     
-    print("--- SUCCESS: File saved correctly. ---")
+    print("--- SUCCESS: File cleaned and saved. ---")
 
 if __name__ == "__main__":
     update_data()
