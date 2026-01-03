@@ -19,8 +19,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63,8 +62,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107,8 +105,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -151,8 +148,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -195,8 +191,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -239,8 +234,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -283,8 +277,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -327,8 +320,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -371,8 +363,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -415,8 +406,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -459,8 +449,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -503,8 +492,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -547,8 +535,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -591,8 +578,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -635,8 +621,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -679,8 +664,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -723,8 +707,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -767,8 +750,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -811,8 +793,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -859,8 +840,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -903,8 +883,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -947,8 +926,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -991,8 +969,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1035,8 +1012,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1079,8 +1055,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1123,8 +1098,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1171,8 +1145,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1215,8 +1188,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1259,8 +1231,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1303,8 +1274,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1347,8 +1317,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1395,8 +1364,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1439,8 +1407,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1487,8 +1454,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1531,8 +1497,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1575,8 +1540,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1619,8 +1583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1663,8 +1626,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1707,8 +1669,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1751,8 +1712,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1795,8 +1755,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1839,8 +1798,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1887,8 +1845,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1931,8 +1888,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1975,8 +1931,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2023,8 +1978,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2067,8 +2021,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2111,8 +2064,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2155,8 +2107,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2199,8 +2150,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2243,8 +2193,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2287,8 +2236,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2335,8 +2283,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2379,8 +2326,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2423,8 +2369,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2467,8 +2412,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2515,8 +2459,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2563,8 +2506,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2607,8 +2549,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2651,8 +2592,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2695,8 +2635,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2739,8 +2678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2783,8 +2721,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2827,8 +2764,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2871,8 +2807,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2915,8 +2850,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2959,8 +2893,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3003,8 +2936,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3047,8 +2979,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3091,8 +3022,7 @@ var json_COMBINADO_3 = {
         "Cuota": "630.000",
         "Total": "81.900.000",
         "Descuento": "50%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3135,8 +3065,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3183,8 +3112,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3227,8 +3155,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3271,8 +3198,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3315,8 +3241,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3359,8 +3284,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3403,8 +3327,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3447,8 +3370,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3491,8 +3413,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3535,8 +3456,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3579,8 +3499,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3623,8 +3542,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3671,8 +3589,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3715,8 +3632,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3763,8 +3679,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3811,8 +3726,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3859,8 +3773,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3907,8 +3820,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3955,8 +3867,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4003,8 +3914,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4051,8 +3961,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4099,8 +4008,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4147,8 +4055,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4195,8 +4102,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4239,8 +4145,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4283,8 +4188,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4327,8 +4231,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4371,8 +4274,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4415,8 +4317,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4459,8 +4360,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4503,8 +4403,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4547,8 +4446,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4591,8 +4489,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4635,8 +4532,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4679,8 +4575,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4723,8 +4618,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4767,8 +4661,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4811,8 +4704,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4855,8 +4747,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4899,8 +4790,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4943,8 +4833,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4987,8 +4876,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5035,8 +4923,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5083,8 +4970,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5131,8 +5017,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5179,8 +5064,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5227,8 +5111,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5275,8 +5158,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5323,8 +5205,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5371,8 +5252,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5419,8 +5299,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5467,8 +5346,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5515,8 +5393,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5559,8 +5436,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5603,8 +5479,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5647,8 +5522,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5691,8 +5565,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5735,8 +5608,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5779,8 +5651,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5823,8 +5694,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5867,8 +5737,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5911,8 +5780,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5955,8 +5823,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5999,8 +5866,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6043,8 +5909,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6087,8 +5952,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6131,8 +5995,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6175,8 +6038,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6219,8 +6081,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6263,8 +6124,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6307,8 +6167,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6351,8 +6210,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6395,8 +6253,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6439,8 +6296,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6483,8 +6339,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6527,8 +6382,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6579,8 +6433,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6623,8 +6476,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6667,8 +6519,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6715,8 +6566,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6763,8 +6613,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6807,8 +6656,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6851,8 +6699,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6895,8 +6742,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6939,8 +6785,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6983,8 +6828,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7031,8 +6875,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7075,8 +6918,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7119,8 +6961,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7163,8 +7004,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7207,8 +7047,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7251,8 +7090,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7295,8 +7133,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7339,8 +7176,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7383,8 +7219,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7427,8 +7262,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7471,8 +7305,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7515,8 +7348,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7559,8 +7391,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7603,8 +7434,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7647,8 +7477,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7691,8 +7520,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7739,8 +7567,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7783,8 +7610,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7827,8 +7653,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7871,8 +7696,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7915,8 +7739,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7959,8 +7782,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8003,8 +7825,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8047,8 +7868,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8091,8 +7911,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8135,8 +7954,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8179,8 +7997,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8223,8 +8040,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8267,8 +8083,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8311,8 +8126,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8355,8 +8169,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8399,8 +8212,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8443,8 +8255,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8487,8 +8298,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8531,8 +8341,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8575,8 +8384,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8619,8 +8427,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8663,8 +8470,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8707,8 +8513,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8751,8 +8556,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8795,8 +8599,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8839,8 +8642,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8883,8 +8685,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8927,8 +8728,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8971,8 +8771,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9015,8 +8814,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9059,8 +8857,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9103,8 +8900,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9151,8 +8947,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9199,8 +8994,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9243,8 +9037,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9287,8 +9080,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9331,8 +9123,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9375,8 +9166,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9419,8 +9209,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9463,8 +9252,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9507,8 +9295,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9551,8 +9338,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9595,8 +9381,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9639,8 +9424,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9683,8 +9467,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9727,8 +9510,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9771,8 +9553,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9815,8 +9596,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9859,8 +9639,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9903,8 +9682,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9947,8 +9725,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9991,8 +9768,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10035,8 +9811,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10079,8 +9854,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10123,8 +9897,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10167,8 +9940,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10211,8 +9983,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10255,8 +10026,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10299,8 +10069,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10343,8 +10112,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10387,8 +10155,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10431,8 +10198,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10479,8 +10245,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10523,8 +10288,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10567,8 +10331,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10615,8 +10378,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10659,8 +10421,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10703,8 +10464,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10747,8 +10507,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10791,8 +10550,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10835,8 +10593,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10879,8 +10636,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10923,8 +10679,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10967,8 +10722,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11011,8 +10765,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11055,8 +10808,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11099,8 +10851,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11143,8 +10894,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11187,8 +10937,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11231,8 +10980,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11275,8 +11023,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11319,8 +11066,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11363,8 +11109,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11407,8 +11152,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11451,8 +11195,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11495,8 +11238,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11539,8 +11281,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11583,8 +11324,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11627,8 +11367,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11671,8 +11410,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11715,8 +11453,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11759,8 +11496,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11807,8 +11543,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11851,8 +11586,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11895,8 +11629,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11943,8 +11676,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11987,8 +11719,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12031,8 +11762,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12075,8 +11805,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12119,8 +11848,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12163,8 +11891,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12207,8 +11934,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12251,8 +11977,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12295,8 +12020,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12339,8 +12063,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12383,8 +12106,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12427,8 +12149,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12471,8 +12192,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12515,8 +12235,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12559,8 +12278,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12603,8 +12321,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12647,8 +12364,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12691,8 +12407,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12735,8 +12450,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12779,8 +12493,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12827,8 +12540,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12875,8 +12587,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12919,8 +12630,7 @@ var json_COMBINADO_3 = {
         "Cuota": "580.000",
         "Total": "75.400.000",
         "Descuento": "50%",
-        "Contado": "37.700.000Gs.",
-        "Entrega": "37.700.000Gs."
+        "Contado": "37.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12963,8 +12673,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13007,8 +12716,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13051,8 +12759,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13095,8 +12802,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13143,8 +12849,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13191,8 +12896,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13239,8 +12943,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13283,8 +12986,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13327,8 +13029,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13371,8 +13072,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13415,8 +13115,7 @@ var json_COMBINADO_3 = {
         "Cuota": "630.000",
         "Total": "81.900.000",
         "Descuento": "50%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13459,8 +13158,7 @@ var json_COMBINADO_3 = {
         "Cuota": "630.000",
         "Total": "81.900.000",
         "Descuento": "50%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13507,8 +13205,7 @@ var json_COMBINADO_3 = {
         "Cuota": "630.000",
         "Total": "81.900.000",
         "Descuento": "50%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13551,8 +13248,7 @@ var json_COMBINADO_3 = {
         "Cuota": "630.000",
         "Total": "81.900.000",
         "Descuento": "50%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13595,8 +13291,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13639,8 +13334,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13683,8 +13377,7 @@ var json_COMBINADO_3 = {
         "Cuota": "580.000",
         "Total": "75.400.000",
         "Descuento": "50%",
-        "Contado": "37.700.000Gs.",
-        "Entrega": "37.700.000Gs."
+        "Contado": "37.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13731,8 +13424,7 @@ var json_COMBINADO_3 = {
         "Cuota": "580.000",
         "Total": "75.400.000",
         "Descuento": "50%",
-        "Contado": "37.700.000Gs.",
-        "Entrega": "37.700.000Gs."
+        "Contado": "37.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13779,8 +13471,7 @@ var json_COMBINADO_3 = {
         "Cuota": "580.000",
         "Total": "75.400.000",
         "Descuento": "50%",
-        "Contado": "37.700.000Gs.",
-        "Entrega": "37.700.000Gs."
+        "Contado": "37.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13823,8 +13514,7 @@ var json_COMBINADO_3 = {
         "Cuota": "580.000",
         "Total": "75.400.000",
         "Descuento": "50%",
-        "Contado": "37.700.000Gs.",
-        "Entrega": "37.700.000Gs."
+        "Contado": "37.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13867,8 +13557,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13911,8 +13600,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13955,8 +13643,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13999,8 +13686,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14043,8 +13729,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14087,8 +13772,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14131,8 +13815,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14175,8 +13858,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14219,8 +13901,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14263,8 +13944,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14307,8 +13987,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14355,8 +14034,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14403,8 +14081,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14447,8 +14124,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14491,8 +14167,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14535,8 +14210,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14579,8 +14253,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14623,8 +14296,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14667,8 +14339,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14711,8 +14382,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14755,8 +14425,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14799,8 +14468,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14843,8 +14511,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14887,8 +14554,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14931,8 +14597,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14979,8 +14644,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15023,8 +14687,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15071,8 +14734,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15119,8 +14781,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15167,8 +14828,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15211,8 +14871,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15259,8 +14918,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15303,8 +14961,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15347,8 +15004,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15391,8 +15047,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15435,8 +15090,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15479,8 +15133,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15527,8 +15180,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15571,8 +15223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15619,8 +15270,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15667,8 +15317,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15715,8 +15364,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15759,8 +15407,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15807,8 +15454,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15851,8 +15497,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15895,8 +15540,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15939,8 +15583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15983,8 +15626,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16027,8 +15669,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16075,8 +15716,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16119,8 +15759,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16167,8 +15806,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16215,8 +15853,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16263,8 +15900,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16307,8 +15943,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16355,8 +15990,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16399,8 +16033,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16443,8 +16076,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16487,8 +16119,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16531,8 +16162,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16575,8 +16205,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16623,8 +16252,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16667,8 +16295,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16715,8 +16342,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16763,8 +16389,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16811,8 +16436,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16855,8 +16479,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16903,8 +16526,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16947,8 +16569,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16991,8 +16612,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17035,8 +16655,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17079,8 +16698,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17123,8 +16741,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17171,8 +16788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17215,8 +16831,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17263,8 +16878,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17311,8 +16925,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17359,8 +16972,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17403,8 +17015,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17451,8 +17062,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17495,8 +17105,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17539,8 +17148,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17583,8 +17191,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17627,8 +17234,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17671,8 +17277,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17719,8 +17324,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17763,8 +17367,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17811,8 +17414,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17859,8 +17461,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17907,8 +17508,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17951,8 +17551,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17999,8 +17598,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18043,8 +17641,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18087,8 +17684,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18131,8 +17727,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18175,8 +17770,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18219,8 +17813,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18267,8 +17860,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18311,8 +17903,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18359,8 +17950,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18407,8 +17997,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18455,8 +18044,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18499,8 +18087,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18547,8 +18134,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18591,8 +18177,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18635,8 +18220,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18679,8 +18263,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18723,8 +18306,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18767,8 +18349,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18815,8 +18396,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18859,8 +18439,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18907,8 +18486,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18955,8 +18533,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19003,8 +18580,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19047,8 +18623,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19095,8 +18670,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19139,8 +18713,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19183,8 +18756,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19227,8 +18799,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19271,8 +18842,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19315,8 +18885,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19359,8 +18928,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19403,8 +18971,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19447,8 +19014,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19491,8 +19057,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19535,8 +19100,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19579,8 +19143,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19623,8 +19186,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19667,8 +19229,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19711,8 +19272,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19755,8 +19315,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19799,8 +19358,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19843,8 +19401,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19887,8 +19444,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19931,8 +19487,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19975,8 +19530,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20019,8 +19573,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20063,8 +19616,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20107,8 +19659,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20151,8 +19702,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20195,8 +19745,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20239,8 +19788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20283,8 +19831,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20327,8 +19874,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20371,8 +19917,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20415,8 +19960,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20459,8 +20003,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20503,8 +20046,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20547,8 +20089,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20591,8 +20132,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20635,8 +20175,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20679,8 +20218,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20723,8 +20261,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20767,8 +20304,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20811,8 +20347,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20855,8 +20390,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20899,8 +20433,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20943,8 +20476,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20987,8 +20519,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21031,8 +20562,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21075,8 +20605,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21119,8 +20648,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21163,8 +20691,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21207,8 +20734,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21251,8 +20777,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21295,8 +20820,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21339,8 +20863,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21383,8 +20906,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21427,8 +20949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21471,8 +20992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21515,8 +21035,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21559,8 +21078,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21607,8 +21125,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21651,8 +21168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21695,8 +21211,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21739,8 +21254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21783,8 +21297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21827,8 +21340,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21871,8 +21383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21915,8 +21426,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21959,8 +21469,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22003,8 +21512,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22047,8 +21555,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22091,8 +21598,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22135,8 +21641,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22179,8 +21684,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22223,8 +21727,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22267,8 +21770,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22311,8 +21813,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22355,8 +21856,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22399,8 +21899,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22443,8 +21942,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22487,8 +21985,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22531,8 +22028,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22575,8 +22071,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22619,8 +22114,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22663,8 +22157,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22707,8 +22200,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22751,8 +22243,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22795,8 +22286,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22839,8 +22329,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22883,8 +22372,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22927,8 +22415,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22971,8 +22458,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23015,8 +22501,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23059,8 +22544,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23103,8 +22587,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23147,8 +22630,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23191,8 +22673,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23235,8 +22716,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23279,8 +22759,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23323,8 +22802,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23367,8 +22845,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23411,8 +22888,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23455,8 +22931,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23499,8 +22974,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23543,8 +23017,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23587,8 +23060,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23631,8 +23103,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23675,8 +23146,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23719,8 +23189,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23763,8 +23232,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23807,8 +23275,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23851,8 +23318,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23895,8 +23361,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23939,8 +23404,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23983,8 +23447,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24027,8 +23490,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24071,8 +23533,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24115,8 +23576,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24159,8 +23619,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24203,8 +23662,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24247,8 +23705,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24291,8 +23748,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24335,8 +23791,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24379,8 +23834,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24423,8 +23877,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24467,8 +23920,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24511,8 +23963,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24555,8 +24006,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24599,8 +24049,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24643,8 +24092,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24687,8 +24135,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24731,8 +24178,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24775,8 +24221,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24819,8 +24264,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24863,8 +24307,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24907,8 +24350,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24951,8 +24393,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24995,8 +24436,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25039,8 +24479,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25083,8 +24522,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25127,8 +24565,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25171,8 +24608,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "50%",
-        "Contado": "33.800.000Gs.",
-        "Entrega": "33.800.000Gs."
+        "Contado": "33.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25215,8 +24651,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "50%",
-        "Contado": "33.800.000Gs.",
-        "Entrega": "33.800.000Gs."
+        "Contado": "33.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25263,8 +24698,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25311,8 +24745,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25355,8 +24788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "50%",
-        "Contado": "33.800.000Gs.",
-        "Entrega": "33.800.000Gs."
+        "Contado": "33.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25399,8 +24831,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25443,8 +24874,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25487,8 +24917,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25531,8 +24960,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25575,8 +25003,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25619,8 +25046,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25663,8 +25089,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "50%",
-        "Contado": "33.800.000Gs.",
-        "Entrega": "33.800.000Gs."
+        "Contado": "33.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25707,8 +25132,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25751,8 +25175,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "50%",
-        "Contado": "30.550.000Gs.",
-        "Entrega": "30.550.000Gs."
+        "Contado": "30.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25795,8 +25218,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "50%",
-        "Contado": "30.550.000Gs.",
-        "Entrega": "30.550.000Gs."
+        "Contado": "30.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25839,8 +25261,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "50%",
-        "Contado": "30.550.000Gs.",
-        "Entrega": "30.550.000Gs."
+        "Contado": "30.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25883,8 +25304,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25927,8 +25347,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25971,8 +25390,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26015,8 +25433,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26059,8 +25476,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "50%",
-        "Contado": "30.550.000Gs.",
-        "Entrega": "30.550.000Gs."
+        "Contado": "30.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26103,8 +25519,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26147,8 +25562,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26191,8 +25605,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26235,8 +25648,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26279,8 +25691,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26323,8 +25734,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "50%",
-        "Contado": "30.550.000Gs.",
-        "Entrega": "30.550.000Gs."
+        "Contado": "30.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26367,8 +25777,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "50%",
-        "Contado": "30.550.000Gs.",
-        "Entrega": "30.550.000Gs."
+        "Contado": "30.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26411,8 +25820,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26455,8 +25863,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26499,8 +25906,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26543,8 +25949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26587,8 +25992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26631,8 +26035,7 @@ var json_COMBINADO_3 = {
         "Cuota": "490.000",
         "Total": "63.700.000",
         "Descuento": "50%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26675,8 +26078,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26719,8 +26121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26763,8 +26164,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "27.950.000Gs.",
-        "Entrega": "27.950.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26807,8 +26207,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26851,8 +26250,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26895,8 +26293,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26939,8 +26336,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26983,8 +26379,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27027,8 +26422,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "27.950.000Gs.",
-        "Entrega": "27.950.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27071,8 +26465,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "27.950.000Gs.",
-        "Entrega": "27.950.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27115,8 +26508,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "50%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27159,8 +26551,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27203,8 +26594,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27247,8 +26637,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27291,8 +26680,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27335,8 +26723,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27379,8 +26766,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "50%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27423,8 +26809,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "50%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27467,8 +26852,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27511,8 +26895,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "50%",
-        "Contado": "24.050.000Gs.",
-        "Entrega": "24.050.000Gs."
+        "Contado": "24.050.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27555,8 +26938,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "50%",
-        "Contado": "24.050.000Gs.",
-        "Entrega": "24.050.000Gs."
+        "Contado": "24.050.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27599,8 +26981,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "50%",
-        "Contado": "24.050.000Gs.",
-        "Entrega": "24.050.000Gs."
+        "Contado": "24.050.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27643,8 +27024,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "50%",
-        "Contado": "24.050.000Gs.",
-        "Entrega": "24.050.000Gs."
+        "Contado": "24.050.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27687,8 +27067,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27731,8 +27110,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27775,8 +27153,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27819,8 +27196,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27863,8 +27239,7 @@ var json_COMBINADO_3 = {
         "Cuota": "390.000",
         "Total": "50.700.000",
         "Descuento": "50%",
-        "Contado": "25.350.000Gs.",
-        "Entrega": "25.350.000Gs."
+        "Contado": "25.350.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27907,8 +27282,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27951,8 +27325,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27995,8 +27368,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28039,8 +27411,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28083,8 +27454,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.000",
         "Total": "46.800.000",
         "Descuento": "50%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28127,8 +27497,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28171,8 +27540,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "50%",
-        "Contado": "22.100.000Gs.",
-        "Entrega": "22.100.000Gs."
+        "Contado": "22.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28215,8 +27583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28259,8 +27626,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "50%",
-        "Contado": "20.800.000Gs.",
-        "Entrega": "20.800.000Gs."
+        "Contado": "20.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28303,8 +27669,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "50%",
-        "Contado": "20.800.000Gs.",
-        "Entrega": "20.800.000Gs."
+        "Contado": "20.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28347,8 +27712,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28391,8 +27755,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28435,8 +27798,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28479,8 +27841,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28523,8 +27884,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28567,8 +27927,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28611,8 +27970,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28655,8 +28013,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28699,8 +28056,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28743,8 +28099,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28787,8 +28142,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28831,8 +28185,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28875,8 +28228,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28919,8 +28271,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28963,8 +28314,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29007,8 +28357,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29051,8 +28400,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29095,8 +28443,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29139,8 +28486,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29183,8 +28529,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29227,8 +28572,7 @@ var json_COMBINADO_3 = {
         "Cuota": "290.000",
         "Total": "37.700.000",
         "Descuento": "50%",
-        "Contado": "18.850.000Gs.",
-        "Entrega": "18.850.000Gs."
+        "Contado": "18.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29271,8 +28615,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29319,8 +28662,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29367,8 +28709,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29411,8 +28752,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29455,8 +28795,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29499,8 +28838,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29543,8 +28881,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29587,8 +28924,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29631,8 +28967,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29675,8 +29010,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29719,8 +29053,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29763,8 +29096,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29807,8 +29139,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29851,8 +29182,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29895,8 +29225,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29939,8 +29268,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29983,8 +29311,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30027,8 +29354,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30071,8 +29397,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30115,8 +29440,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30159,8 +29483,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30203,8 +29526,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30247,8 +29569,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30291,8 +29612,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30335,8 +29655,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30379,8 +29698,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30423,8 +29741,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30467,8 +29784,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30511,8 +29827,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30555,8 +29870,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30599,8 +29913,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30643,8 +29956,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30687,8 +29999,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30731,8 +30042,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30775,8 +30085,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30819,8 +30128,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30863,8 +30171,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30907,8 +30214,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30951,8 +30257,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30995,8 +30300,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31039,8 +30343,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31083,8 +30386,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "50%",
-        "Contado": "33.800.000Gs.",
-        "Entrega": "33.800.000Gs."
+        "Contado": "33.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31127,8 +30429,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31171,8 +30472,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31215,8 +30515,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31259,8 +30558,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31303,8 +30601,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31347,8 +30644,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31391,8 +30687,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31435,8 +30730,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31479,8 +30773,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31523,8 +30816,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31571,8 +30863,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31615,8 +30906,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31659,8 +30949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31703,8 +30992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31751,8 +31039,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31795,8 +31082,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31839,8 +31125,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31883,8 +31168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31927,8 +31211,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31971,8 +31254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32015,8 +31297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32059,8 +31340,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32103,8 +31383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32147,8 +31426,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32191,8 +31469,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32235,8 +31512,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32279,8 +31555,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32323,8 +31598,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32367,8 +31641,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32411,8 +31684,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32455,8 +31727,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32499,8 +31770,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32543,8 +31813,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32587,8 +31856,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32631,8 +31899,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32679,8 +31946,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32727,8 +31993,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32775,8 +32040,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32823,8 +32087,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "50%",
-        "Contado": "29.900.000Gs.",
-        "Entrega": "29.900.000Gs."
+        "Contado": "29.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32867,8 +32130,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32911,8 +32173,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32955,8 +32216,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32999,8 +32259,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "27.950.000Gs.",
-        "Entrega": "27.950.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33043,8 +32302,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "27.950.000Gs.",
-        "Entrega": "27.950.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33087,8 +32345,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33131,8 +32388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33175,8 +32431,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33219,8 +32474,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33263,8 +32517,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33307,8 +32560,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33351,8 +32603,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33395,8 +32646,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33439,8 +32689,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33483,8 +32732,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33527,8 +32775,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33571,8 +32818,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33619,8 +32865,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33659,8 +32904,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33703,8 +32947,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33747,8 +32990,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33791,8 +33033,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33835,8 +33076,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33883,8 +33123,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33927,8 +33166,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33971,8 +33209,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34015,8 +33252,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34059,8 +33295,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34103,8 +33338,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34147,8 +33381,7 @@ var json_COMBINADO_3 = {
         "Cuota": "630.000",
         "Total": "81.900.000",
         "Descuento": "50%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34191,8 +33424,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34235,8 +33467,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34279,8 +33510,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34323,8 +33553,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34367,8 +33596,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34411,8 +33639,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34455,8 +33682,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34499,8 +33725,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34543,8 +33768,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34587,8 +33811,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34631,8 +33854,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "30%",
-        "Contado": "34.580.000Gs.",
-        "Entrega": "34.580.000Gs."
+        "Contado": "34.580.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34675,8 +33897,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34719,8 +33940,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34763,8 +33983,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34807,8 +34026,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34851,8 +34069,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34895,8 +34112,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34939,8 +34155,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34983,8 +34198,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35027,8 +34241,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35071,8 +34284,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35115,8 +34327,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35159,8 +34370,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35203,8 +34413,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35247,8 +34456,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35291,8 +34499,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35335,8 +34542,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35379,8 +34585,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35423,8 +34628,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35467,8 +34671,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35511,8 +34714,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35555,8 +34757,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35599,8 +34800,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35643,8 +34843,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35687,8 +34886,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35731,8 +34929,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35775,8 +34972,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35819,8 +35015,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35863,8 +35058,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35907,8 +35101,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35951,8 +35144,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "30%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35995,8 +35187,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36039,8 +35230,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36083,8 +35273,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36127,8 +35316,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36171,8 +35359,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36215,8 +35402,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36259,8 +35445,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36303,8 +35488,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36347,8 +35531,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36391,8 +35574,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36435,8 +35617,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36479,8 +35660,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36523,8 +35703,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "30%",
-        "Contado": "29.120.000Gs.",
-        "Entrega": "29.120.000Gs."
+        "Contado": "29.120.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36567,8 +35746,7 @@ var json_COMBINADO_3 = {
         "Cuota": "410.000",
         "Total": "53.300.000",
         "Descuento": "30%",
-        "Contado": "37.310.000Gs.",
-        "Entrega": "37.310.000Gs."
+        "Contado": "37.310.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36611,8 +35789,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36655,8 +35832,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36699,8 +35875,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36743,8 +35918,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36787,8 +35961,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36831,8 +36004,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36875,8 +36047,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "30%",
-        "Contado": "40.950.000Gs.",
-        "Entrega": "40.950.000Gs."
+        "Contado": "40.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36919,8 +36090,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36963,8 +36133,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37007,8 +36176,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37051,8 +36219,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37095,8 +36262,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37139,8 +36305,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37183,8 +36348,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37227,8 +36391,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37271,8 +36434,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37315,8 +36477,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37359,8 +36520,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37403,8 +36563,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37447,8 +36606,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37491,8 +36649,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37535,8 +36692,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37579,8 +36735,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37623,8 +36778,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37667,8 +36821,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37711,8 +36864,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37755,8 +36907,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37799,8 +36950,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "30%",
-        "Contado": "33.670.000Gs.",
-        "Entrega": "33.670.000Gs."
+        "Contado": "33.670.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37843,8 +36993,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "30%",
-        "Contado": "34.580.000Gs.",
-        "Entrega": "34.580.000Gs."
+        "Contado": "34.580.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37887,8 +37036,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37931,8 +37079,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37975,8 +37122,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.000",
         "Total": "46.800.000",
         "Descuento": "30%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38019,8 +37165,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38063,8 +37208,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38107,8 +37251,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38151,8 +37294,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38195,8 +37337,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38239,8 +37380,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38283,8 +37423,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38327,8 +37466,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38371,8 +37509,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38415,8 +37552,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38459,8 +37595,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38503,8 +37638,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38547,8 +37681,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38591,8 +37724,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38635,8 +37767,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38679,8 +37810,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38723,8 +37853,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38767,8 +37896,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38811,8 +37939,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "30%",
-        "Contado": "30.030.000Gs.",
-        "Entrega": "30.030.000Gs."
+        "Contado": "30.030.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38855,8 +37982,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38899,8 +38025,7 @@ var json_COMBINADO_3 = {
         "Cuota": "340.000",
         "Total": "44.200.000",
         "Descuento": "30%",
-        "Contado": "30.940.000Gs.",
-        "Entrega": "30.940.000Gs."
+        "Contado": "30.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38943,8 +38068,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38987,8 +38111,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39031,8 +38154,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39075,8 +38197,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "33.540.000Gs.",
-        "Entrega": "33.540.000Gs."
+        "Contado": "33.540.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39119,8 +38240,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39163,8 +38283,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39207,8 +38326,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39251,8 +38369,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39295,8 +38412,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39339,8 +38455,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39383,8 +38498,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39427,8 +38541,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39471,8 +38584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39515,8 +38627,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39559,8 +38670,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39603,8 +38713,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39647,8 +38756,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39691,8 +38799,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "40%",
-        "Contado": "28.860.000Gs.",
-        "Entrega": "28.860.000Gs."
+        "Contado": "28.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39735,8 +38842,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39779,8 +38885,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39823,8 +38928,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39867,8 +38971,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39911,8 +39014,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "33.540.000Gs.",
-        "Entrega": "33.540.000Gs."
+        "Contado": "33.540.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39955,8 +39057,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39999,8 +39100,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40043,8 +39143,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40087,8 +39186,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40131,8 +39229,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40175,8 +39272,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40219,8 +39315,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40263,8 +39358,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40307,8 +39401,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40351,8 +39444,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40395,8 +39487,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40439,8 +39530,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40483,8 +39573,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40527,8 +39616,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40571,8 +39659,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40615,8 +39702,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40659,8 +39745,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40703,8 +39788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.945.000",
         "Total": "252.850.000",
         "Descuento": "40%",
-        "Contado": "151.710.000Gs.",
-        "Entrega": "151.710.000Gs."
+        "Contado": "151.710.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40747,8 +39831,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.335.000",
         "Total": "303.550.000",
         "Descuento": "40%",
-        "Contado": "182.130.000Gs.",
-        "Entrega": "182.130.000Gs."
+        "Contado": "182.130.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40791,8 +39874,7 @@ var json_COMBINADO_3 = {
         "Cuota": "4.280.000",
         "Total": "556.400.000",
         "Descuento": "40%",
-        "Contado": "333.840.000Gs.",
-        "Entrega": "333.840.000Gs."
+        "Contado": "333.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40839,8 +39921,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.560.000",
         "Total": "202.800.000",
         "Descuento": "40%",
-        "Contado": "121.680.000Gs.",
-        "Entrega": "121.680.000Gs."
+        "Contado": "121.680.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40883,8 +39964,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.560.000",
         "Total": "202.800.000",
         "Descuento": "40%",
-        "Contado": "121.680.000Gs.",
-        "Entrega": "121.680.000Gs."
+        "Contado": "121.680.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40927,8 +40007,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.560.000",
         "Total": "202.800.000",
         "Descuento": "40%",
-        "Contado": "121.680.000Gs.",
-        "Entrega": "121.680.000Gs."
+        "Contado": "121.680.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40971,8 +40050,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41015,8 +40093,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "40%",
-        "Contado": "40.560.000Gs.",
-        "Entrega": "40.560.000Gs."
+        "Contado": "40.560.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41059,8 +40136,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41103,8 +40179,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41147,8 +40222,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41191,8 +40265,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41235,8 +40308,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41279,8 +40351,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41323,8 +40394,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41367,8 +40437,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41411,8 +40480,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41455,8 +40523,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41499,8 +40566,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41543,8 +40609,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41591,8 +40656,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41635,8 +40699,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41679,8 +40742,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41723,8 +40785,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41767,8 +40828,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41811,8 +40871,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41855,8 +40914,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41899,8 +40957,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41943,8 +41000,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41987,8 +41043,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42031,8 +41086,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42075,8 +41129,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42119,8 +41172,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42163,8 +41215,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42207,8 +41258,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42251,8 +41301,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42295,8 +41344,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42339,8 +41387,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42383,8 +41430,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42427,8 +41473,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "50%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42471,8 +41516,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42515,8 +41559,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42559,8 +41602,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42603,8 +41645,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42647,8 +41688,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42691,8 +41731,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42735,8 +41774,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42779,8 +41817,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42823,8 +41860,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42867,8 +41903,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42911,8 +41946,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42955,8 +41989,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42999,8 +42032,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43051,8 +42083,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43099,8 +42130,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43143,8 +42173,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43187,8 +42216,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43231,8 +42259,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43275,8 +42302,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43319,8 +42345,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43363,8 +42388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43407,8 +42431,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43451,8 +42474,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43495,8 +42517,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43539,8 +42560,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43583,8 +42603,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43627,8 +42646,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43671,8 +42689,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43715,8 +42732,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43759,8 +42775,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43803,8 +42818,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43847,8 +42861,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43891,8 +42904,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43935,8 +42947,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43979,8 +42990,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44023,8 +43033,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44067,8 +43076,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44111,8 +43119,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44155,8 +43162,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44199,8 +43205,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44243,8 +43248,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44287,8 +43291,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44331,8 +43334,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44375,8 +43377,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44419,8 +43420,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44463,8 +43463,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44507,8 +43506,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44551,8 +43549,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44595,8 +43592,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44639,8 +43635,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44683,8 +43678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44727,8 +43721,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44771,8 +43764,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44815,8 +43807,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44859,8 +43850,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44903,8 +43893,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44947,8 +43936,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44991,8 +43979,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45035,8 +44022,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45079,8 +44065,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45123,8 +44108,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45167,8 +44151,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45211,8 +44194,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45255,8 +44237,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45299,8 +44280,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45343,8 +44323,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45387,8 +44366,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45431,8 +44409,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45475,8 +44452,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45519,8 +44495,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45563,8 +44538,7 @@ var json_COMBINADO_3 = {
         "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "50%",
-        "Contado": "61.750.000Gs.",
-        "Entrega": "61.750.000Gs."
+        "Contado": "61.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45611,8 +44585,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45655,8 +44628,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.000.000",
         "Total": "130.000.000",
         "Descuento": "50%",
-        "Contado": "65.000.000Gs.",
-        "Entrega": "65.000.000Gs."
+        "Contado": "65.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45699,8 +44671,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45747,8 +44718,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45791,8 +44761,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45835,8 +44804,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45879,8 +44847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45923,8 +44890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45967,8 +44933,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46015,8 +44980,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46063,8 +45027,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46107,8 +45070,7 @@ var json_COMBINADO_3 = {
         "Cuota": "230.000",
         "Total": "29.900.000",
         "Descuento": "40%",
-        "Contado": "17.940.000Gs.",
-        "Entrega": "17.940.000Gs."
+        "Contado": "17.940.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46155,8 +45117,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46203,8 +45164,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46247,8 +45207,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46291,8 +45250,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46335,8 +45293,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46379,8 +45336,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46427,8 +45383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46475,8 +45430,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46519,8 +45473,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46567,8 +45520,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46611,8 +45563,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46655,8 +45606,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46699,8 +45649,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46743,8 +45692,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46787,8 +45735,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46831,8 +45778,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46875,8 +45821,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46923,8 +45868,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46967,8 +45911,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47011,8 +45954,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47055,8 +45997,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47099,8 +46040,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47143,8 +46083,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47187,8 +46126,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47231,8 +46169,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47275,8 +46212,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47319,8 +46255,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47367,8 +46302,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47411,8 +46345,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47455,8 +46388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47499,8 +46431,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47543,8 +46474,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47587,8 +46517,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47631,8 +46560,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47675,8 +46603,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47723,8 +46650,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47771,8 +46697,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47815,8 +46740,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47859,8 +46783,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47903,8 +46826,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47947,8 +46869,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47991,8 +46912,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48035,8 +46955,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48083,8 +47002,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48127,8 +47045,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48171,8 +47088,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48219,8 +47135,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48263,8 +47178,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "40%",
-        "Contado": "36.660.000Gs.",
-        "Entrega": "36.660.000Gs."
+        "Contado": "36.660.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48311,8 +47225,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48355,8 +47268,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "40%",
-        "Contado": "28.860.000Gs.",
-        "Entrega": "28.860.000Gs."
+        "Contado": "28.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48399,8 +47311,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48443,8 +47354,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48487,8 +47397,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48531,8 +47440,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48575,8 +47483,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48619,8 +47526,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48663,8 +47569,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48707,8 +47612,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48751,8 +47655,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48799,8 +47702,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48843,8 +47745,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48887,8 +47788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48931,8 +47831,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48975,8 +47874,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49019,8 +47917,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49063,8 +47960,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49107,8 +48003,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49151,8 +48046,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49195,8 +48089,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49243,8 +48136,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49287,8 +48179,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49331,8 +48222,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "25.740.000Gs.",
-        "Entrega": "25.740.000Gs."
+        "Contado": "25.740.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49375,8 +48265,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49419,8 +48308,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.000",
         "Total": "46.800.000",
         "Descuento": "40%",
-        "Contado": "28.080.000Gs.",
-        "Entrega": "28.080.000Gs."
+        "Contado": "28.080.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49463,8 +48351,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.000",
         "Total": "46.800.000",
         "Descuento": "40%",
-        "Contado": "28.080.000Gs.",
-        "Entrega": "28.080.000Gs."
+        "Contado": "28.080.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49507,8 +48394,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49551,8 +48437,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49595,8 +48480,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49639,8 +48523,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49683,8 +48566,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49727,8 +48609,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49771,8 +48652,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49815,8 +48695,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49863,8 +48742,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49911,8 +48789,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49959,8 +48836,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50007,8 +48883,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50055,8 +48930,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50103,8 +48977,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50151,8 +49024,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50199,8 +49071,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50247,8 +49118,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50295,8 +49165,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50343,8 +49212,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50391,8 +49259,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50439,8 +49306,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50487,8 +49353,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50535,8 +49400,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50579,8 +49443,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50623,8 +49486,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50667,8 +49529,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50711,8 +49572,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50755,8 +49615,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50799,8 +49658,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50843,8 +49701,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50887,8 +49744,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50931,8 +49787,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50975,8 +49830,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51019,8 +49873,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51063,8 +49916,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51107,8 +49959,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51151,8 +50002,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51195,8 +50045,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51239,8 +50088,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51283,8 +50131,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51327,8 +50174,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51371,8 +50217,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51415,8 +50260,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51463,8 +50307,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51511,8 +50354,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51559,8 +50401,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51607,8 +50448,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51655,8 +50495,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51699,8 +50538,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51743,8 +50581,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51787,8 +50624,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51831,8 +50667,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51875,8 +50710,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51919,8 +50753,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51963,8 +50796,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52011,8 +50843,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52059,8 +50890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52107,8 +50937,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52151,8 +50980,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52199,8 +51027,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52247,8 +51074,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52295,8 +51121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52343,8 +51168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.550.000",
         "Total": "201.500.000",
         "Descuento": "50%",
-        "Contado": "100.750.000Gs.",
-        "Entrega": "100.750.000Gs."
+        "Contado": "100.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52387,8 +51211,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.550.000",
         "Total": "201.500.000",
         "Descuento": "50%",
-        "Contado": "100.750.000Gs.",
-        "Entrega": "100.750.000Gs."
+        "Contado": "100.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52431,8 +51254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.550.000",
         "Total": "201.500.000",
         "Descuento": "50%",
-        "Contado": "100.750.000Gs.",
-        "Entrega": "100.750.000Gs."
+        "Contado": "100.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52475,8 +51297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.550.000",
         "Total": "201.500.000",
         "Descuento": "50%",
-        "Contado": "100.750.000Gs.",
-        "Entrega": "100.750.000Gs."
+        "Contado": "100.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52519,8 +51340,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.550.000",
         "Total": "201.500.000",
         "Descuento": "50%",
-        "Contado": "100.750.000Gs.",
-        "Entrega": "100.750.000Gs."
+        "Contado": "100.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52563,8 +51383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52607,8 +51426,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52651,8 +51469,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52695,8 +51512,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52739,8 +51555,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52783,8 +51598,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52827,8 +51641,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52871,8 +51684,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.000.000",
         "Total": "260.000.000",
         "Descuento": "50%",
-        "Contado": "130.000.000Gs.",
-        "Entrega": "130.000.000Gs."
+        "Contado": "130.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52915,8 +51727,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52959,8 +51770,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.000.000",
         "Total": "260.000.000",
         "Descuento": "50%",
-        "Contado": "130.000.000Gs.",
-        "Entrega": "130.000.000Gs."
+        "Contado": "130.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53003,8 +51813,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.000.000",
         "Total": "260.000.000",
         "Descuento": "50%",
-        "Contado": "130.000.000Gs.",
-        "Entrega": "130.000.000Gs."
+        "Contado": "130.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53047,8 +51856,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.000.000",
         "Total": "260.000.000",
         "Descuento": "50%",
-        "Contado": "130.000.000Gs.",
-        "Entrega": "130.000.000Gs."
+        "Contado": "130.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53091,8 +51899,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53135,8 +51942,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53179,8 +51985,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.700.000",
         "Total": "221.000.000",
         "Descuento": "50%",
-        "Contado": "110.500.000Gs.",
-        "Entrega": "110.500.000Gs."
+        "Contado": "110.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53223,8 +52028,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.700.000",
         "Total": "221.000.000",
         "Descuento": "50%",
-        "Contado": "110.500.000Gs.",
-        "Entrega": "110.500.000Gs."
+        "Contado": "110.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53267,8 +52071,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.700.000",
         "Total": "221.000.000",
         "Descuento": "50%",
-        "Contado": "110.500.000Gs.",
-        "Entrega": "110.500.000Gs."
+        "Contado": "110.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53311,8 +52114,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53355,8 +52157,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.700.000",
         "Total": "221.000.000",
         "Descuento": "50%",
-        "Contado": "110.500.000Gs.",
-        "Entrega": "110.500.000Gs."
+        "Contado": "110.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53399,8 +52200,7 @@ var json_COMBINADO_3 = {
         "Cuota": "2.000.000",
         "Total": "260.000.000",
         "Descuento": "50%",
-        "Contado": "130.000.000Gs.",
-        "Entrega": "130.000.000Gs."
+        "Contado": "130.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53443,8 +52243,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53487,8 +52286,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53531,8 +52329,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53579,8 +52376,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53627,8 +52423,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53675,8 +52470,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53723,8 +52517,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53771,8 +52564,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53815,8 +52607,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53859,8 +52650,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53903,8 +52693,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53947,8 +52736,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53995,8 +52783,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54043,8 +52830,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54091,8 +52877,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54139,8 +52924,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54187,8 +52971,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54231,8 +53014,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54275,8 +53057,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54319,8 +53100,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54363,8 +53143,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54411,8 +53190,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54459,8 +53237,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54507,8 +53284,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54555,8 +53331,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54603,8 +53378,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54647,8 +53421,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54691,8 +53464,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54735,8 +53507,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "50%",
-        "Contado": "33.800.000Gs.",
-        "Entrega": "33.800.000Gs."
+        "Contado": "33.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54779,8 +53550,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54827,8 +53597,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54875,8 +53644,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54923,8 +53691,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54971,8 +53738,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55019,8 +53785,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55063,8 +53828,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55107,8 +53871,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55151,8 +53914,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55195,8 +53957,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55243,8 +54004,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55291,8 +54051,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55339,8 +54098,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55387,8 +54145,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55435,8 +54192,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55479,8 +54235,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55523,8 +54278,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "27.950.000Gs.",
-        "Entrega": "27.950.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55567,8 +54321,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55611,8 +54364,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55659,8 +54411,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55707,8 +54458,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55755,8 +54505,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55803,8 +54552,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55851,8 +54599,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55895,8 +54642,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55939,8 +54685,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55983,8 +54728,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56027,8 +54771,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56075,8 +54818,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56123,8 +54865,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56171,8 +54912,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56219,8 +54959,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56267,8 +55006,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56311,8 +55049,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56355,8 +55092,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56399,8 +55135,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56443,8 +55178,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56491,8 +55225,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56539,8 +55272,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56587,8 +55319,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56635,8 +55366,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56683,8 +55413,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56727,8 +55456,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56771,8 +55499,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56815,8 +55542,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56859,8 +55585,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56907,8 +55632,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -56955,8 +55679,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57003,8 +55726,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57051,8 +55773,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57099,8 +55820,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57143,8 +55863,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57187,8 +55906,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57231,8 +55949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57275,8 +55992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57323,8 +56039,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57371,8 +56086,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57419,8 +56133,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57467,8 +56180,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57515,8 +56227,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57559,8 +56270,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57603,8 +56313,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57647,8 +56356,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57691,8 +56399,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57735,8 +56442,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57779,8 +56485,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57827,8 +56532,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57875,8 +56579,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57923,8 +56626,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -57971,8 +56673,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.000",
         "Total": "35.100.000",
         "Descuento": "50%",
-        "Contado": "17.550.000Gs.",
-        "Entrega": "17.550.000Gs."
+        "Contado": "17.550.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58019,8 +56720,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "50%",
-        "Contado": "18.200.000Gs.",
-        "Entrega": "18.200.000Gs."
+        "Contado": "18.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58067,8 +56767,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58115,8 +56814,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58163,8 +56861,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58211,8 +56908,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58259,8 +56955,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58307,8 +57002,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58355,8 +57049,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58403,8 +57096,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58451,8 +57143,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58499,8 +57190,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58547,8 +57237,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58591,8 +57280,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58635,8 +57323,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58683,8 +57370,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58731,8 +57417,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58779,8 +57464,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58827,8 +57511,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58875,8 +57558,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58923,8 +57605,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58967,8 +57648,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59015,8 +57695,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59063,8 +57742,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59111,8 +57789,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59159,8 +57836,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59207,8 +57883,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59255,8 +57930,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59303,8 +57977,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59347,8 +58020,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59391,8 +58063,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59435,8 +58106,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59479,8 +58149,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59527,8 +58196,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59575,8 +58243,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59623,8 +58290,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59671,8 +58337,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59719,8 +58384,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59767,8 +58431,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59811,8 +58474,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59859,8 +58521,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59907,8 +58568,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59955,8 +58615,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60003,8 +58662,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60051,8 +58709,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60099,8 +58756,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60147,8 +58803,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60191,8 +58846,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60235,8 +58889,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60279,8 +58932,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60323,8 +58975,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60371,8 +59022,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60419,8 +59069,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60467,8 +59116,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60515,8 +59163,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60563,8 +59210,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60611,8 +59257,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60655,8 +59300,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60703,8 +59347,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60751,8 +59394,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60799,8 +59441,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60847,8 +59488,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60895,8 +59535,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60943,8 +59582,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -60991,8 +59629,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61035,8 +59672,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61079,8 +59715,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61123,8 +59758,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61167,8 +59801,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61215,8 +59848,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61263,8 +59895,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61311,8 +59942,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61359,8 +59989,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61407,8 +60036,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61455,8 +60083,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61503,8 +60130,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61551,8 +60177,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61599,8 +60224,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61647,8 +60271,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61695,8 +60318,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61743,8 +60365,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61791,8 +60412,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61835,8 +60455,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61879,8 +60498,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61923,8 +60541,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61967,8 +60584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62015,8 +60631,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62063,8 +60678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62111,8 +60725,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62159,8 +60772,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62207,8 +60819,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
-        "Contado": "21.450.000Gs.",
-        "Entrega": "21.450.000Gs."
+        "Contado": "21.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62255,8 +60866,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62303,8 +60913,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "50%",
-        "Contado": "22.750.000Gs.",
-        "Entrega": "22.750.000Gs."
+        "Contado": "22.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62351,8 +60960,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62399,8 +61007,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62447,8 +61054,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62495,8 +61101,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62543,8 +61148,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62591,8 +61195,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62635,8 +61238,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62679,8 +61281,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62723,8 +61324,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62767,8 +61367,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62811,8 +61410,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62855,8 +61453,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62899,8 +61496,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62943,8 +61539,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62987,8 +61582,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63031,8 +61625,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "50%",
-        "Contado": "18.200.000Gs.",
-        "Entrega": "18.200.000Gs."
+        "Contado": "18.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63075,8 +61668,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "50%",
-        "Contado": "18.200.000Gs.",
-        "Entrega": "18.200.000Gs."
+        "Contado": "18.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63119,8 +61711,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63163,8 +61754,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63207,8 +61797,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63251,8 +61840,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63295,8 +61883,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63339,8 +61926,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63383,8 +61969,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "50%",
-        "Contado": "18.200.000Gs.",
-        "Entrega": "18.200.000Gs."
+        "Contado": "18.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63427,8 +62012,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "50%",
-        "Contado": "18.200.000Gs.",
-        "Entrega": "18.200.000Gs."
+        "Contado": "18.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63471,8 +62055,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "50%",
-        "Contado": "18.200.000Gs.",
-        "Entrega": "18.200.000Gs."
+        "Contado": "18.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63515,8 +62098,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63559,8 +62141,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63603,8 +62184,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63647,8 +62227,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63691,8 +62270,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63735,8 +62313,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63779,8 +62356,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63823,8 +62399,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63867,8 +62442,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63911,8 +62485,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63955,8 +62528,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63999,8 +62571,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64043,8 +62614,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64087,8 +62657,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64131,8 +62700,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64175,8 +62743,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64219,8 +62786,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64263,8 +62829,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64307,8 +62872,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64351,8 +62915,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64395,8 +62958,7 @@ var json_COMBINADO_3 = {
         "Cuota": "930.000",
         "Total": "120.900.000",
         "Descuento": "40%",
-        "Contado": "72.540.000Gs.",
-        "Entrega": "72.540.000Gs."
+        "Contado": "72.540.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64443,8 +63005,7 @@ var json_COMBINADO_3 = {
         "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "40%",
-        "Contado": "74.100.000Gs.",
-        "Entrega": "74.100.000Gs."
+        "Contado": "74.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64491,8 +63052,7 @@ var json_COMBINADO_3 = {
         "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "40%",
-        "Contado": "70.200.000Gs.",
-        "Entrega": "70.200.000Gs."
+        "Contado": "70.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64539,8 +63099,7 @@ var json_COMBINADO_3 = {
         "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "40%",
-        "Contado": "70.200.000Gs.",
-        "Entrega": "70.200.000Gs."
+        "Contado": "70.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64587,8 +63146,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64635,8 +63193,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64683,8 +63240,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64731,8 +63287,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64779,8 +63334,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64827,8 +63381,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64871,8 +63424,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64919,8 +63471,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64967,8 +63518,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65015,8 +63565,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65063,8 +63612,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65111,8 +63659,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65159,8 +63706,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65207,8 +63753,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65255,8 +63800,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65303,8 +63847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65347,8 +63890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65391,8 +63933,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65439,8 +63980,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65487,8 +64027,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65535,8 +64074,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65583,8 +64121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65631,8 +64168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65679,8 +64215,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65727,8 +64262,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65775,8 +64309,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65823,8 +64356,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65871,8 +64403,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65915,8 +64446,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65959,8 +64489,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66003,8 +64532,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66047,8 +64575,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66091,8 +64618,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66135,8 +64661,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "33.540.000Gs.",
-        "Entrega": "33.540.000Gs."
+        "Contado": "33.540.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66179,8 +64704,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66223,8 +64747,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66267,8 +64790,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66311,8 +64833,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66359,8 +64880,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66407,8 +64927,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66455,8 +64974,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66503,8 +65021,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66551,8 +65068,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66599,8 +65115,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66647,8 +65162,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66695,8 +65209,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "40%",
-        "Contado": "36.660.000Gs.",
-        "Entrega": "36.660.000Gs."
+        "Contado": "36.660.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66743,8 +65256,7 @@ var json_COMBINADO_3 = {
         "Cuota": "430.000",
         "Total": "55.900.000",
         "Descuento": "40%",
-        "Contado": "33.540.000Gs.",
-        "Entrega": "33.540.000Gs."
+        "Contado": "33.540.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66791,8 +65303,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66835,8 +65346,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66879,8 +65389,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66923,8 +65432,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66967,8 +65475,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67011,8 +65518,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67055,8 +65561,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67099,8 +65604,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67143,8 +65647,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67187,8 +65690,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67231,8 +65733,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67279,8 +65780,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67327,8 +65827,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67375,8 +65874,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67423,8 +65921,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67471,8 +65968,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67519,8 +66015,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67567,8 +66062,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67615,8 +66109,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67663,8 +66156,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67711,8 +66203,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67755,8 +66246,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67799,8 +66289,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67843,8 +66332,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67887,8 +66375,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67931,8 +66418,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67975,8 +66461,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68019,8 +66504,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68063,8 +66547,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68107,8 +66590,7 @@ var json_COMBINADO_3 = {
         "Cuota": "370.000",
         "Total": "48.100.000",
         "Descuento": "40%",
-        "Contado": "28.860.000Gs.",
-        "Entrega": "28.860.000Gs."
+        "Contado": "28.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68151,8 +66633,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68199,8 +66680,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68247,8 +66727,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68295,8 +66774,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68343,8 +66821,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68391,8 +66868,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68439,8 +66915,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68487,8 +66962,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68535,8 +67009,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68583,8 +67056,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68631,8 +67103,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68675,8 +67146,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68719,8 +67189,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68763,8 +67232,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68807,8 +67275,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68851,8 +67318,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68895,8 +67361,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68939,8 +67404,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68983,8 +67447,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69027,8 +67490,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69075,8 +67537,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69123,8 +67584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69171,8 +67631,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69219,8 +67678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69267,8 +67725,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69315,8 +67772,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69363,8 +67819,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69411,8 +67866,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69459,8 +67913,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69503,8 +67956,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69547,8 +67999,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69591,8 +68042,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69635,8 +68085,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69679,8 +68128,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69727,8 +68175,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69775,8 +68222,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69823,8 +68269,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69871,8 +68316,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69919,8 +68363,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -69967,8 +68410,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70015,8 +68457,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70063,8 +68504,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70111,8 +68551,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70155,8 +68594,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70199,8 +68637,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70247,8 +68684,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70295,8 +68731,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70343,8 +68778,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70391,8 +68825,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70439,8 +68872,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70487,8 +68919,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70535,8 +68966,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70583,8 +69013,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70631,8 +69060,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70679,8 +69107,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70727,8 +69154,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70775,8 +69201,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70823,8 +69248,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70867,8 +69291,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70911,8 +69334,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70955,8 +69377,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -70999,8 +69420,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71043,8 +69463,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71087,8 +69506,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71131,8 +69549,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71175,8 +69592,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71219,8 +69635,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71263,8 +69678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71307,8 +69721,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71351,8 +69764,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71395,8 +69807,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71443,8 +69854,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71487,8 +69897,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71531,8 +69940,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71575,8 +69983,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71619,8 +70026,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71663,8 +70069,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71707,8 +70112,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71755,8 +70159,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71803,8 +70206,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71847,8 +70249,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71891,8 +70292,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71935,8 +70335,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71979,8 +70378,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72023,8 +70421,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72067,8 +70464,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72111,8 +70507,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72155,8 +70550,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72199,8 +70593,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72243,8 +70636,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72287,8 +70679,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72335,8 +70726,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72379,8 +70769,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72427,8 +70816,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72471,8 +70859,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72515,8 +70902,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72559,8 +70945,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72603,8 +70988,7 @@ var json_COMBINADO_3 = {
         "Cuota": "780.000",
         "Total": "101.400.000",
         "Descuento": "50%",
-        "Contado": "50.700.000Gs.",
-        "Entrega": "50.700.000Gs."
+        "Contado": "50.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72647,8 +71031,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72691,8 +71074,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72735,8 +71117,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72779,8 +71160,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72827,8 +71207,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72875,8 +71254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72919,8 +71297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72963,8 +71340,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73007,8 +71383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73051,8 +71426,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73095,8 +71469,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73139,8 +71512,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73187,8 +71559,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73235,8 +71606,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73279,8 +71649,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73327,8 +71696,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73371,8 +71739,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73415,8 +71782,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73459,8 +71825,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73507,8 +71872,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73555,8 +71919,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73599,8 +71962,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73643,8 +72005,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73687,8 +72048,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73731,8 +72091,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73775,8 +72134,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73819,8 +72177,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73863,8 +72220,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73907,8 +72263,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73951,8 +72306,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73995,8 +72349,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74039,8 +72392,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74083,8 +72435,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74131,8 +72482,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74179,8 +72529,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74223,8 +72572,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74267,8 +72615,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74311,8 +72658,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74355,8 +72701,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74399,8 +72744,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74443,8 +72787,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74491,8 +72834,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74539,8 +72881,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74587,8 +72928,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74635,8 +72975,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74683,8 +73022,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74731,8 +73069,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74775,8 +73112,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74823,8 +73159,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74867,8 +73202,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74911,8 +73245,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74955,8 +73288,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74999,8 +73331,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75043,8 +73374,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75087,8 +73417,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75131,8 +73460,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75175,8 +73503,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75219,8 +73546,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75263,8 +73589,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75307,8 +73632,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75351,8 +73675,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75395,8 +73718,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75443,8 +73765,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75491,8 +73812,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75539,8 +73859,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75583,8 +73902,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75631,8 +73949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75675,8 +73992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75719,8 +74035,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75763,8 +74078,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75807,8 +74121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75855,8 +74168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75899,8 +74211,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75943,8 +74254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.500.000",
         "Total": "195.000.000",
         "Descuento": "50%",
-        "Contado": "97.500.000Gs.",
-        "Entrega": "97.500.000Gs."
+        "Contado": "97.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75987,8 +74297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.450.000",
         "Total": "188.500.000",
         "Descuento": "50%",
-        "Contado": "94.250.000Gs.",
-        "Entrega": "94.250.000Gs."
+        "Contado": "94.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76031,8 +74340,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.450.000",
         "Total": "188.500.000",
         "Descuento": "50%",
-        "Contado": "94.250.000Gs.",
-        "Entrega": "94.250.000Gs."
+        "Contado": "94.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76075,8 +74383,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.400.000",
         "Total": "182.000.000",
         "Descuento": "50%",
-        "Contado": "91.000.000Gs.",
-        "Entrega": "91.000.000Gs."
+        "Contado": "91.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76119,8 +74426,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.400.000",
         "Total": "182.000.000",
         "Descuento": "50%",
-        "Contado": "91.000.000Gs.",
-        "Entrega": "91.000.000Gs."
+        "Contado": "91.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76163,8 +74469,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.400.000",
         "Total": "182.000.000",
         "Descuento": "50%",
-        "Contado": "91.000.000Gs.",
-        "Entrega": "91.000.000Gs."
+        "Contado": "91.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76207,8 +74512,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.400.000",
         "Total": "182.000.000",
         "Descuento": "50%",
-        "Contado": "91.000.000Gs.",
-        "Entrega": "91.000.000Gs."
+        "Contado": "91.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76251,8 +74555,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.350.000",
         "Total": "175.500.000",
         "Descuento": "50%",
-        "Contado": "87.750.000Gs.",
-        "Entrega": "87.750.000Gs."
+        "Contado": "87.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76295,8 +74598,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.400.000",
         "Total": "182.000.000",
         "Descuento": "50%",
-        "Contado": "91.000.000Gs.",
-        "Entrega": "91.000.000Gs."
+        "Contado": "91.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76339,8 +74641,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76383,8 +74684,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76427,8 +74727,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76475,8 +74774,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76519,8 +74817,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76563,8 +74860,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76607,8 +74903,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76651,8 +74946,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76695,8 +74989,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76743,8 +75036,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76787,8 +75079,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76835,8 +75126,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76883,8 +75173,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76927,8 +75216,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76971,8 +75259,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77015,8 +75302,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77059,8 +75345,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77103,8 +75388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77147,8 +75431,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77191,8 +75474,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77235,8 +75517,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77279,8 +75560,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77323,8 +75603,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77371,8 +75650,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77415,8 +75693,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77459,8 +75736,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77503,8 +75779,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77547,8 +75822,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77591,8 +75865,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77643,8 +75916,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77687,8 +75959,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77731,8 +76002,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77775,8 +76045,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77819,8 +76088,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77863,8 +76131,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77907,8 +76174,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77951,8 +76217,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -77995,8 +76260,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78039,8 +76303,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78083,8 +76346,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78127,8 +76389,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78171,8 +76432,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78215,8 +76475,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78259,8 +76518,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78303,8 +76561,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78347,8 +76604,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78391,8 +76647,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78443,8 +76698,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78487,8 +76741,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78531,8 +76784,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78575,8 +76827,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78619,8 +76870,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78663,8 +76913,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78707,8 +76956,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78751,8 +76999,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78795,8 +77042,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78839,8 +77085,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -78883,8 +77128,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79007,8 +77251,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79087,8 +77330,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79131,8 +77373,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79175,8 +77416,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79219,8 +77459,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79263,8 +77502,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79311,8 +77549,7 @@ var json_COMBINADO_3 = {
         "Cuota": "730.000",
         "Total": "94.900.000",
         "Descuento": "50%",
-        "Contado": "47.450.000Gs.",
-        "Entrega": "47.450.000Gs."
+        "Contado": "47.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79359,8 +77596,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79407,8 +77643,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79459,8 +77694,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79503,8 +77737,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79547,8 +77780,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79591,8 +77823,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79635,8 +77866,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79679,8 +77909,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79723,8 +77952,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79767,8 +77995,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79811,8 +78038,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79855,8 +78081,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79899,8 +78124,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79943,8 +78167,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79991,8 +78214,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80035,8 +78257,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80079,8 +78300,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.500.000",
         "Total": "195.000.000",
         "Descuento": "50%",
-        "Contado": "97.500.000Gs.",
-        "Entrega": "97.500.000Gs."
+        "Contado": "97.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80131,8 +78351,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80183,8 +78402,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80235,8 +78453,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80283,8 +78500,7 @@ var json_COMBINADO_3 = {
         "Cuota": "680.000",
         "Total": "88.400.000",
         "Descuento": "50%",
-        "Contado": "44.200.000Gs.",
-        "Entrega": "44.200.000Gs."
+        "Contado": "44.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80327,8 +78543,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80371,8 +78586,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80415,8 +78629,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80459,8 +78672,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80503,8 +78715,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80547,8 +78758,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80591,8 +78801,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80639,8 +78848,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80683,8 +78891,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80727,8 +78934,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80771,8 +78977,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80815,8 +79020,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.500.000",
         "Total": "195.000.000",
         "Descuento": "50%",
-        "Contado": "97.500.000Gs.",
-        "Entrega": "97.500.000Gs."
+        "Contado": "97.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80867,8 +79071,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.450.000",
         "Total": "188.500.000",
         "Descuento": "50%",
-        "Contado": "94.250.000Gs.",
-        "Entrega": "94.250.000Gs."
+        "Contado": "94.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80911,8 +79114,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.100.000",
         "Total": "143.000.000",
         "Descuento": "50%",
-        "Contado": "71.500.000Gs.",
-        "Entrega": "71.500.000Gs."
+        "Contado": "71.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -80959,8 +79161,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.100.000",
         "Total": "143.000.000",
         "Descuento": "50%",
-        "Contado": "71.500.000Gs.",
-        "Entrega": "71.500.000Gs."
+        "Contado": "71.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81007,8 +79208,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81055,8 +79255,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81099,8 +79298,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81143,8 +79341,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81187,8 +79384,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81231,8 +79427,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81275,8 +79470,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81319,8 +79513,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81363,8 +79556,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81407,8 +79599,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81451,8 +79642,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81499,8 +79689,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81543,8 +79732,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81595,8 +79783,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81643,8 +79830,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81691,8 +79877,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81739,8 +79924,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.250.000",
         "Total": "162.500.000",
         "Descuento": "50%",
-        "Contado": "81.250.000Gs.",
-        "Entrega": "81.250.000Gs."
+        "Contado": "81.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81791,8 +79975,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81835,8 +80018,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81879,8 +80061,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81923,8 +80104,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81967,8 +80147,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82011,8 +80190,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82055,8 +80233,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82103,8 +80280,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82151,8 +80327,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82195,8 +80370,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82243,8 +80417,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82291,8 +80464,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82335,8 +80507,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82379,8 +80550,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82427,8 +80597,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82475,8 +80644,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.300.000",
         "Total": "169.000.000",
         "Descuento": "50%",
-        "Contado": "84.500.000Gs.",
-        "Entrega": "84.500.000Gs."
+        "Contado": "84.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82527,8 +80695,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82571,8 +80738,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82619,8 +80785,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82667,8 +80832,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82715,8 +80879,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82763,8 +80926,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82807,8 +80969,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82855,8 +81016,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82903,8 +81063,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82951,8 +81110,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -82995,8 +81153,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83039,8 +81196,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83083,8 +81239,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83131,8 +81286,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83175,8 +81329,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs.",
-        "Entrega": "48.750.000Gs."
+        "Contado": "48.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83219,8 +81372,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83263,8 +81415,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83311,8 +81462,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83355,8 +81505,7 @@ var json_COMBINADO_3 = {
         "Cuota": "740.000",
         "Total": "96.200.000",
         "Descuento": "50%",
-        "Contado": "48.100.000Gs.",
-        "Entrega": "48.100.000Gs."
+        "Contado": "48.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83399,8 +81548,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83443,8 +81591,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83487,8 +81634,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83535,8 +81681,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83579,8 +81724,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83623,8 +81767,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83667,8 +81810,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83711,8 +81853,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83755,8 +81896,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83799,8 +81939,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83843,8 +81982,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83887,8 +82025,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83935,8 +82072,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -83983,8 +82119,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84031,8 +82166,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84079,8 +82213,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84127,8 +82260,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84175,8 +82307,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84223,8 +82354,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84271,8 +82401,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "25.740.000Gs.",
-        "Entrega": "25.740.000Gs."
+        "Contado": "25.740.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84315,8 +82444,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84359,8 +82487,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84403,8 +82530,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84447,8 +82573,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84491,8 +82616,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84535,8 +82659,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84583,8 +82706,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84631,8 +82753,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84679,8 +82800,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84727,8 +82847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84775,8 +82894,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84823,8 +82941,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84871,8 +82988,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84919,8 +83035,7 @@ var json_COMBINADO_3 = {
         "Cuota": "260.000",
         "Total": "33.800.000",
         "Descuento": "40%",
-        "Contado": "20.280.000Gs.",
-        "Entrega": "20.280.000Gs."
+        "Contado": "20.280.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -84967,8 +83082,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85011,8 +83125,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "25.740.000Gs.",
-        "Entrega": "25.740.000Gs."
+        "Contado": "25.740.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85055,8 +83168,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85099,8 +83211,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85143,8 +83254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.000",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "21.060.000Gs.",
-        "Entrega": "21.060.000Gs."
+        "Contado": "21.060.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85187,8 +83297,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85231,8 +83340,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85279,8 +83387,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85327,8 +83434,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85375,8 +83481,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85423,8 +83528,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85471,8 +83575,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85519,8 +83622,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85567,8 +83669,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.000",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "21.060.000Gs.",
-        "Entrega": "21.060.000Gs."
+        "Contado": "21.060.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85615,8 +83716,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85659,8 +83759,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85703,8 +83802,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.000",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "21.060.000Gs.",
-        "Entrega": "21.060.000Gs."
+        "Contado": "21.060.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85747,8 +83845,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85791,8 +83888,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85835,8 +83931,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85883,8 +83978,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85931,8 +84025,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -85979,8 +84072,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86027,8 +84119,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86075,8 +84166,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86123,8 +84213,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86171,8 +84260,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86219,8 +84307,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86267,8 +84354,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86311,8 +84397,7 @@ var json_COMBINADO_3 = {
         "Cuota": "270.000",
         "Total": "35.100.000",
         "Descuento": "40%",
-        "Contado": "21.060.000Gs.",
-        "Entrega": "21.060.000Gs."
+        "Contado": "21.060.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86355,8 +84440,7 @@ var json_COMBINADO_3 = {
         "Cuota": "150.000",
         "Total": "19.500.000",
         "Descuento": "40%",
-        "Contado": "11.700.000Gs.",
-        "Entrega": "11.700.000Gs."
+        "Contado": "11.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86399,8 +84483,7 @@ var json_COMBINADO_3 = {
         "Cuota": "150.000",
         "Total": "19.500.000",
         "Descuento": "40%",
-        "Contado": "11.700.000Gs.",
-        "Entrega": "11.700.000Gs."
+        "Contado": "11.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86443,8 +84526,7 @@ var json_COMBINADO_3 = {
         "Cuota": "180.000",
         "Total": "23.400.000",
         "Descuento": "40%",
-        "Contado": "14.040.000Gs.",
-        "Entrega": "14.040.000Gs."
+        "Contado": "14.040.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86487,8 +84569,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86535,8 +84616,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86583,8 +84663,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86631,8 +84710,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86679,8 +84757,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86727,8 +84804,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86775,8 +84851,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86823,8 +84898,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.000",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
-        "Entrega": "17.160.000Gs."
+        "Contado": "17.160.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86871,8 +84945,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86919,8 +84992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "150.000",
         "Total": "19.500.000",
         "Descuento": "40%",
-        "Contado": "11.700.000Gs.",
-        "Entrega": "11.700.000Gs."
+        "Contado": "11.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -86963,8 +85035,7 @@ var json_COMBINADO_3 = {
         "Cuota": "150.000",
         "Total": "19.500.000",
         "Descuento": "40%",
-        "Contado": "11.700.000Gs.",
-        "Entrega": "11.700.000Gs."
+        "Contado": "11.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87007,8 +85078,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87051,8 +85121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87095,8 +85164,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87139,8 +85207,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87187,8 +85254,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.000",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
-        "Entrega": "17.160.000Gs."
+        "Contado": "17.160.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87235,8 +85301,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.000",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
-        "Entrega": "17.160.000Gs."
+        "Contado": "17.160.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87283,8 +85348,7 @@ var json_COMBINADO_3 = {
         "Cuota": "220.000",
         "Total": "28.600.000",
         "Descuento": "40%",
-        "Contado": "17.160.000Gs.",
-        "Entrega": "17.160.000Gs."
+        "Contado": "17.160.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87331,8 +85395,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87379,8 +85442,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87427,8 +85489,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87475,8 +85536,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87523,8 +85583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87571,8 +85630,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87615,8 +85673,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87659,8 +85716,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87703,8 +85759,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87751,8 +85806,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87799,8 +85853,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87847,8 +85900,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87895,8 +85947,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87943,8 +85994,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -87991,8 +86041,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88039,8 +86088,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88083,8 +86131,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88127,8 +86174,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88171,8 +86217,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88219,8 +86264,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88267,8 +86311,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88315,8 +86358,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88363,8 +86405,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88411,8 +86452,7 @@ var json_COMBINADO_3 = {
         "Cuota": "250.000",
         "Total": "32.500.000",
         "Descuento": "40%",
-        "Contado": "19.500.000Gs.",
-        "Entrega": "19.500.000Gs."
+        "Contado": "19.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88459,8 +86499,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88507,8 +86546,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.500.000",
         "Total": "195.000.000",
         "Descuento": "40%",
-        "Contado": "117.000.000Gs.",
-        "Entrega": "117.000.000Gs."
+        "Contado": "117.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88551,8 +86589,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88595,8 +86632,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88639,8 +86675,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88683,8 +86718,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "40%",
-        "Contado": "58.500.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "58.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88727,8 +86761,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "40%",
-        "Contado": "54.600.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "54.600.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88771,8 +86804,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "40%",
-        "Contado": "54.600.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "54.600.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88815,8 +86847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88859,8 +86890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88903,8 +86933,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88947,8 +86976,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -88991,8 +87019,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89035,8 +87062,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89079,8 +87105,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "40%",
-        "Contado": "58.500.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "58.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89123,8 +87148,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89167,8 +87191,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89211,8 +87234,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89255,8 +87277,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89299,8 +87320,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89343,8 +87363,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89387,8 +87406,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89431,8 +87449,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "40%",
-        "Contado": "58.500.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "58.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89475,8 +87492,7 @@ var json_COMBINADO_3 = {
         "Cuota": "750.000",
         "Total": "97.500.000",
         "Descuento": "40%",
-        "Contado": "58.500.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "58.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89519,8 +87535,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": ""
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89563,8 +87578,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89607,8 +87621,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89651,8 +87664,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89695,8 +87707,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89739,8 +87750,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89783,8 +87793,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89827,8 +87836,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89871,8 +87879,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89915,8 +87922,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89959,8 +87965,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90003,8 +88008,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90047,8 +88051,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90091,8 +88094,7 @@ var json_COMBINADO_3 = {
         "Cuota": "990.000",
         "Total": "128.700.000",
         "Descuento": "40%",
-        "Contado": "77.220.000Gs.",
-        "Entrega": "51.480.000Gs."
+        "Contado": "77.220.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90135,8 +88137,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90179,8 +88180,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90223,8 +88223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90267,8 +88266,7 @@ var json_COMBINADO_3 = {
         "Cuota": "990.000",
         "Total": "128.700.000",
         "Descuento": "40%",
-        "Contado": "77.220.000Gs.",
-        "Entrega": "51.480.000Gs."
+        "Contado": "77.220.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90311,8 +88309,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90355,8 +88352,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90399,8 +88395,7 @@ var json_COMBINADO_3 = {
         "Cuota": "990.000",
         "Total": "128.700.000",
         "Descuento": "40%",
-        "Contado": "77.220.000Gs.",
-        "Entrega": "51.480.000Gs."
+        "Contado": "77.220.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90443,8 +88438,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90487,8 +88481,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90531,8 +88524,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90575,8 +88567,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "40%",
-        "Contado": "50.700.000Gs.",
-        "Entrega": "50.700.000Gs."
+        "Contado": "50.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90615,8 +88606,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90667,8 +88657,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90715,8 +88704,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90763,8 +88751,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90811,8 +88798,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90859,8 +88845,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90907,8 +88892,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -90955,8 +88939,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91003,8 +88986,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "40%",
-        "Contado": "50.700.000Gs.",
-        "Entrega": "50.700.000Gs."
+        "Contado": "50.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91043,8 +89025,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91087,8 +89068,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91135,8 +89115,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91183,8 +89162,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91231,8 +89209,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91279,8 +89256,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91323,8 +89299,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91367,8 +89342,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91415,8 +89389,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91463,8 +89436,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91511,8 +89483,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91555,8 +89526,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91599,8 +89569,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91643,8 +89612,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91687,8 +89655,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91735,8 +89702,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91783,8 +89749,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91831,8 +89796,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91879,8 +89843,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91927,8 +89890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91975,8 +89937,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92023,8 +89984,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92071,8 +90031,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92115,8 +90074,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92159,8 +90117,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92203,8 +90160,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92247,8 +90203,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92291,8 +90246,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92335,8 +90289,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92383,8 +90336,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92427,8 +90379,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92475,8 +90426,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92523,8 +90473,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92571,8 +90520,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92619,8 +90567,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92667,8 +90614,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92715,8 +90661,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92759,8 +90704,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92803,8 +90747,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92847,8 +90790,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92891,8 +90833,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92935,8 +90876,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -92979,8 +90919,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93023,8 +90962,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93071,8 +91009,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93115,8 +91052,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93159,8 +91095,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93203,8 +91138,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93251,8 +91185,7 @@ var json_COMBINADO_3 = {
         "Cuota": "420.000",
         "Total": "54.600.000",
         "Descuento": "40%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93299,8 +91232,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93347,8 +91279,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93395,8 +91326,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93439,8 +91369,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93483,8 +91412,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93527,8 +91455,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93571,8 +91498,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93615,8 +91541,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93659,8 +91584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93707,8 +91631,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93755,8 +91678,7 @@ var json_COMBINADO_3 = {
         "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "40%",
-        "Contado": "25.740.000Gs.",
-        "Entrega": "25.740.000Gs."
+        "Contado": "25.740.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93803,8 +91725,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93851,8 +91772,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93895,8 +91815,7 @@ var json_COMBINADO_3 = {
         "Cuota": "320.000",
         "Total": "41.600.000",
         "Descuento": "40%",
-        "Contado": "24.960.000Gs.",
-        "Entrega": "24.960.000Gs."
+        "Contado": "24.960.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93939,8 +91858,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -93983,8 +91901,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94031,8 +91948,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94075,8 +91991,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94119,8 +92034,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94163,8 +92077,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94211,8 +92124,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94255,8 +92167,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94299,8 +92210,7 @@ var json_COMBINADO_3 = {
         "Cuota": "380.000",
         "Total": "49.400.000",
         "Descuento": "40%",
-        "Contado": "29.640.000Gs.",
-        "Entrega": "29.640.000Gs."
+        "Contado": "29.640.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94347,8 +92257,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94391,8 +92300,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94435,8 +92343,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94479,8 +92386,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94523,8 +92429,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94567,8 +92472,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94611,8 +92515,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94651,8 +92554,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94699,8 +92601,7 @@ var json_COMBINADO_3 = {
         "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "40%",
-        "Contado": "70.200.000Gs.",
-        "Entrega": "70.200.000Gs."
+        "Contado": "70.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94743,8 +92644,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94787,8 +92687,7 @@ var json_COMBINADO_3 = {
         "Cuota": "980.000",
         "Total": "127.400.000",
         "Descuento": "40%",
-        "Contado": "76.440.000Gs.",
-        "Entrega": "76.440.000Gs."
+        "Contado": "76.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94831,8 +92730,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94875,8 +92773,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "40%",
-        "Contado": "27.300.000Gs.",
-        "Entrega": "27.300.000Gs."
+        "Contado": "27.300.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94919,8 +92816,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "40%",
-        "Contado": "23.400.000Gs.",
-        "Entrega": "23.400.000Gs."
+        "Contado": "23.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94963,8 +92859,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95007,8 +92902,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95051,8 +92945,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95095,8 +92988,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95139,8 +93031,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95183,8 +93074,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95227,8 +93117,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95271,8 +93160,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95315,8 +93203,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95359,8 +93246,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95403,8 +93289,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95447,8 +93332,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95491,8 +93375,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95535,8 +93418,7 @@ var json_COMBINADO_3 = {
         "Cuota": "280.000",
         "Total": "36.400.000",
         "Descuento": "40%",
-        "Contado": "21.840.000Gs.",
-        "Entrega": "21.840.000Gs."
+        "Contado": "21.840.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95579,8 +93461,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "40%",
-        "Contado": "37.440.000Gs.",
-        "Entrega": "37.440.000Gs."
+        "Contado": "37.440.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95623,8 +93504,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95667,8 +93547,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95711,8 +93590,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95755,8 +93633,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95799,8 +93676,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95843,8 +93719,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95887,8 +93762,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "40%",
-        "Contado": "35.100.000Gs.",
-        "Entrega": "35.100.000Gs."
+        "Contado": "35.100.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95931,8 +93805,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95975,8 +93848,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96019,8 +93891,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96063,8 +93934,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96107,8 +93977,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96151,8 +94020,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96195,8 +94063,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96239,8 +94106,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96283,8 +94149,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96327,8 +94192,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96371,8 +94235,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96415,8 +94278,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96459,8 +94321,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96503,8 +94364,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96547,8 +94407,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96591,8 +94450,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96635,8 +94493,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96679,8 +94536,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96723,8 +94579,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96767,8 +94622,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96811,8 +94665,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96855,8 +94708,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96899,8 +94751,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96943,8 +94794,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96987,8 +94837,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97031,8 +94880,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97075,8 +94923,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97119,8 +94966,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97163,8 +95009,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97207,8 +95052,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97251,8 +95095,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97295,8 +95138,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97339,8 +95181,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97383,8 +95224,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97427,8 +95267,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97471,8 +95310,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97515,8 +95353,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "40%",
-        "Contado": "46.800.000Gs.",
-        "Entrega": "46.800.000Gs."
+        "Contado": "46.800.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97559,8 +95396,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97603,8 +95439,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "40%",
-        "Contado": "42.900.000Gs.",
-        "Entrega": "42.900.000Gs."
+        "Contado": "42.900.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97647,8 +95482,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97691,8 +95525,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97735,8 +95568,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97779,8 +95611,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97823,8 +95654,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97867,8 +95697,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97911,8 +95740,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97955,8 +95783,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97999,8 +95826,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98043,8 +95869,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98087,8 +95912,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "40%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98131,8 +95955,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "40%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98175,8 +95998,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98219,8 +96041,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98263,8 +96084,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98307,8 +96127,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98351,8 +96170,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98395,8 +96213,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98439,8 +96256,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98483,8 +96299,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98527,8 +96342,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98571,8 +96385,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98615,8 +96428,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98659,8 +96471,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98703,8 +96514,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98747,8 +96557,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98791,8 +96600,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98835,8 +96643,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98879,8 +96686,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98923,8 +96729,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98967,8 +96772,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99011,8 +96815,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99055,8 +96858,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99099,8 +96901,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99143,8 +96944,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99187,8 +96987,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99231,8 +97030,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99275,8 +97073,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99319,8 +97116,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99363,8 +97159,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99411,8 +97206,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99459,8 +97253,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99507,8 +97300,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99555,8 +97347,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99603,8 +97394,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99651,8 +97441,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99699,8 +97488,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99747,8 +97535,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99795,8 +97582,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99843,8 +97629,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99891,8 +97676,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99935,8 +97719,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99979,8 +97762,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100027,8 +97809,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100075,8 +97856,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100123,8 +97903,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100171,8 +97950,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100219,8 +97997,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100267,8 +98044,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100315,8 +98091,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100363,8 +98138,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100411,8 +98185,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.000",
         "Total": "46.800.000",
         "Descuento": "30%",
-        "Contado": "32.760.000Gs.",
-        "Entrega": "32.760.000Gs."
+        "Contado": "32.760.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100459,8 +98232,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100507,8 +98279,7 @@ var json_COMBINADO_3 = {
         "Cuota": "760.000",
         "Total": "98.800.000",
         "Descuento": "30%",
-        "Contado": "69.160.000Gs.",
-        "Entrega": "69.160.000Gs."
+        "Contado": "69.160.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100555,8 +98326,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100599,8 +98369,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100643,8 +98412,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100687,8 +98455,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100731,8 +98498,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100775,8 +98541,7 @@ var json_COMBINADO_3 = {
         "Cuota": "435.000",
         "Total": "56.550.000",
         "Descuento": "30%",
-        "Contado": "39.585.000Gs.",
-        "Entrega": "39.585.000Gs."
+        "Contado": "39.585.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100819,8 +98584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100863,8 +98627,7 @@ var json_COMBINADO_3 = {
         "Cuota": "435.000",
         "Total": "56.550.000",
         "Descuento": "30%",
-        "Contado": "39.585.000Gs.",
-        "Entrega": "39.585.000Gs."
+        "Contado": "39.585.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100907,8 +98670,7 @@ var json_COMBINADO_3 = {
         "Cuota": "435.000",
         "Total": "56.550.000",
         "Descuento": "30%",
-        "Contado": "39.585.000Gs.",
-        "Entrega": "39.585.000Gs."
+        "Contado": "39.585.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100951,8 +98713,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100995,8 +98756,7 @@ var json_COMBINADO_3 = {
         "Cuota": "435.000",
         "Total": "56.550.000",
         "Descuento": "30%",
-        "Contado": "39.585.000Gs.",
-        "Entrega": "39.585.000Gs."
+        "Contado": "39.585.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101039,8 +98799,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101083,8 +98842,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101127,8 +98885,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101171,8 +98928,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101219,8 +98975,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101263,8 +99018,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101307,8 +99061,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101351,8 +99104,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101395,8 +99147,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101439,8 +99190,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101483,8 +99233,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101527,8 +99276,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101571,8 +99319,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "30%",
-        "Contado": "31.850.000Gs.",
-        "Entrega": "31.850.000Gs."
+        "Contado": "31.850.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101615,8 +99362,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "30%",
-        "Contado": "36.400.000Gs.",
-        "Entrega": "36.400.000Gs."
+        "Contado": "36.400.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101659,8 +99405,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101703,8 +99448,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101747,8 +99491,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101791,8 +99534,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101835,8 +99577,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101879,8 +99620,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101923,8 +99663,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101967,8 +99706,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102011,8 +99749,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102055,8 +99792,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102099,8 +99835,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102143,8 +99878,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102187,8 +99921,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102231,8 +99964,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102275,8 +100007,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102319,8 +100050,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102367,8 +100097,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102415,8 +100144,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102459,8 +100187,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102503,8 +100230,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102547,8 +100273,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102591,8 +100316,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102635,8 +100359,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102679,8 +100402,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102723,8 +100445,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102767,8 +100488,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102811,8 +100531,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102855,8 +100574,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102899,8 +100617,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102943,8 +100660,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102987,8 +100703,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103031,8 +100746,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103075,8 +100789,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103119,8 +100832,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103163,8 +100875,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103207,8 +100918,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103255,8 +100965,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103299,8 +101008,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103343,8 +101051,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103387,8 +101094,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103431,8 +101137,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103475,8 +101180,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103519,8 +101223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103563,8 +101266,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103607,8 +101309,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103651,8 +101352,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103695,8 +101395,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103739,8 +101438,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103783,8 +101481,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103827,8 +101524,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103871,8 +101567,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103915,8 +101610,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103959,8 +101653,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "30%",
-        "Contado": "43.680.000Gs.",
-        "Entrega": "43.680.000Gs."
+        "Contado": "43.680.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104003,8 +101696,7 @@ var json_COMBINADO_3 = {
         "Cuota": "470.000",
         "Total": "61.100.000",
         "Descuento": "30%",
-        "Contado": "42.770.000Gs.",
-        "Entrega": "42.770.000Gs."
+        "Contado": "42.770.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104047,8 +101739,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104091,8 +101782,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104135,8 +101825,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104179,8 +101868,7 @@ var json_COMBINADO_3 = {
         "Cuota": "460.000",
         "Total": "59.800.000",
         "Descuento": "30%",
-        "Contado": "41.860.000Gs.",
-        "Entrega": "41.860.000Gs."
+        "Contado": "41.860.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104223,8 +101911,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104267,8 +101954,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "30%",
-        "Contado": "63.700.000Gs.",
-        "Entrega": "63.700.000Gs."
+        "Contado": "63.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104311,8 +101997,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104355,8 +102040,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104399,8 +102083,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "30%",
-        "Contado": "63.700.000Gs.",
-        "Entrega": "63.700.000Gs."
+        "Contado": "63.700.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104443,8 +102126,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104487,8 +102169,7 @@ var json_COMBINADO_3 = {
         "Cuota": "640.000",
         "Total": "83.200.000",
         "Descuento": "30%",
-        "Contado": "58.240.000Gs.",
-        "Entrega": "58.240.000Gs."
+        "Contado": "58.240.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104531,8 +102212,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104575,8 +102255,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104619,8 +102298,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104663,8 +102341,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104707,8 +102384,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104751,8 +102427,7 @@ var json_COMBINADO_3 = {
         "Cuota": "580.000",
         "Total": "75.400.000",
         "Descuento": "30%",
-        "Contado": "52.780.000Gs.",
-        "Entrega": "52.780.000Gs."
+        "Contado": "52.780.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104795,8 +102470,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104839,8 +102513,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104883,8 +102556,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104927,8 +102599,7 @@ var json_COMBINADO_3 = {
         "Cuota": "520.000",
         "Total": "67.600.000",
         "Descuento": "30%",
-        "Contado": "47.320.000Gs.",
-        "Entrega": "47.320.000Gs."
+        "Contado": "47.320.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104971,8 +102642,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105015,8 +102685,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105059,8 +102728,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105103,8 +102771,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105147,8 +102814,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105191,8 +102857,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105235,8 +102900,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105279,8 +102943,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105323,8 +102986,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105367,8 +103029,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105411,8 +103072,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105455,8 +103115,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105499,8 +103158,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105543,8 +103201,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105587,8 +103244,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105631,8 +103287,7 @@ var json_COMBINADO_3 = {
         "Cuota": "615.000",
         "Total": "79.950.000",
         "Descuento": "30%",
-        "Contado": "55.965.000Gs.",
-        "Entrega": "55.965.000Gs."
+        "Contado": "55.965.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105675,8 +103330,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105719,8 +103373,7 @@ var json_COMBINADO_3 = {
         "Cuota": "610.000",
         "Total": "79.300.000",
         "Descuento": "30%",
-        "Contado": "55.510.000Gs.",
-        "Entrega": "55.510.000Gs."
+        "Contado": "55.510.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105763,8 +103416,7 @@ var json_COMBINADO_3 = {
         "Cuota": "615.000",
         "Total": "79.950.000",
         "Descuento": "30%",
-        "Contado": "55.965.000Gs.",
-        "Entrega": "55.965.000Gs."
+        "Contado": "55.965.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105807,8 +103459,7 @@ var json_COMBINADO_3 = {
         "Cuota": "620.000",
         "Total": "80.600.000",
         "Descuento": "30%",
-        "Contado": "56.420.000Gs.",
-        "Entrega": "56.420.000Gs."
+        "Contado": "56.420.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105851,8 +103502,7 @@ var json_COMBINADO_3 = {
         "Cuota": "620.000",
         "Total": "80.600.000",
         "Descuento": "30%",
-        "Contado": "56.420.000Gs.",
-        "Entrega": "56.420.000Gs."
+        "Contado": "56.420.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105895,8 +103545,7 @@ var json_COMBINADO_3 = {
         "Cuota": "615.000",
         "Total": "79.950.000",
         "Descuento": "30%",
-        "Contado": "55.965.000Gs.",
-        "Entrega": "55.965.000Gs."
+        "Contado": "55.965.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105939,8 +103588,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -105983,8 +103631,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106027,8 +103674,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "30%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106071,8 +103717,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "30%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106115,8 +103760,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106159,8 +103803,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106203,8 +103846,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106247,8 +103889,7 @@ var json_COMBINADO_3 = {
         "Cuota": "495.000",
         "Total": "64.350.000",
         "Descuento": "30%",
-        "Contado": "45.045.000Gs.",
-        "Entrega": "45.045.000Gs."
+        "Contado": "45.045.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106291,8 +103932,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106335,8 +103975,7 @@ var json_COMBINADO_3 = {
         "Cuota": "850.000",
         "Total": "110.500.000",
         "Descuento": "50%",
-        "Contado": "55.250.000Gs.",
-        "Entrega": "55.250.000Gs."
+        "Contado": "55.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106379,8 +104018,7 @@ var json_COMBINADO_3 = {
         "Cuota": "850.000",
         "Total": "110.500.000",
         "Descuento": "50%",
-        "Contado": "55.250.000Gs.",
-        "Entrega": "55.250.000Gs."
+        "Contado": "55.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106423,8 +104061,7 @@ var json_COMBINADO_3 = {
         "Cuota": "850.000",
         "Total": "110.500.000",
         "Descuento": "50%",
-        "Contado": "55.250.000Gs.",
-        "Entrega": "55.250.000Gs."
+        "Contado": "55.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106467,8 +104104,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106511,8 +104147,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106555,8 +104190,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106599,8 +104233,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106643,8 +104276,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106687,8 +104319,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106731,8 +104362,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106775,8 +104405,7 @@ var json_COMBINADO_3 = {
         "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "50%",
-        "Contado": "58.500.000Gs.",
-        "Entrega": "58.500.000Gs."
+        "Contado": "58.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106819,8 +104448,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106875,8 +104503,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106919,8 +104546,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106963,8 +104589,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107007,8 +104632,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107051,8 +104675,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107095,8 +104718,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107139,8 +104761,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107183,8 +104804,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107227,8 +104847,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107271,8 +104890,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107315,8 +104933,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107359,8 +104976,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107403,8 +105019,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107447,8 +105062,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107491,8 +105105,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107535,8 +105148,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107579,8 +105191,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107623,8 +105234,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107667,8 +105277,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107711,8 +105320,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107755,8 +105363,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107799,8 +105406,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107843,8 +105449,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107887,8 +105492,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107931,8 +105535,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107975,8 +105578,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108019,8 +105621,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0",
-        "Entrega": "0"
+        "Contado": "0"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108063,8 +105664,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108107,8 +105707,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108151,8 +105750,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108195,8 +105793,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108239,8 +105836,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108283,8 +105879,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108327,8 +105922,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108371,8 +105965,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108415,8 +106008,7 @@ var json_COMBINADO_3 = {
         "Cuota": "1.150.000",
         "Total": "149.500.000",
         "Descuento": "50%",
-        "Contado": "74.750.000",
-        "Entrega": "74.750.000"
+        "Contado": "74.750.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108459,8 +106051,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108503,8 +106094,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108547,8 +106137,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108591,8 +106180,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000",
-        "Entrega": "45.500.000"
+        "Contado": "45.500.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108635,8 +106223,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000",
-        "Entrega": "42.250.000"
+        "Contado": "42.250.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108679,8 +106266,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000",
-        "Entrega": "42.250.000"
+        "Contado": "42.250.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108723,8 +106309,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000",
-        "Entrega": "42.250.000"
+        "Contado": "42.250.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108767,8 +106352,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000",
-        "Entrega": "42.250.000"
+        "Contado": "42.250.000"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108807,12 +106391,11 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "734.25",
-        "Estado": "Libre",
+        "Estado": "Cancelado",
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108859,8 +106442,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108903,8 +106485,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108947,8 +106528,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108991,8 +106571,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109039,8 +106618,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109083,8 +106661,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109127,8 +106704,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109175,8 +106751,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109219,8 +106794,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109263,8 +106837,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109307,8 +106880,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109351,8 +106923,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109395,8 +106966,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109439,8 +107009,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109483,8 +107052,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109531,8 +107099,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109575,8 +107142,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109623,8 +107189,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109671,8 +107236,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109715,8 +107279,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109763,8 +107326,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109807,8 +107369,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109851,8 +107412,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109895,8 +107455,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109939,8 +107498,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -109983,8 +107541,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110027,8 +107584,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110071,8 +107627,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110115,8 +107670,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110159,8 +107713,7 @@ var json_COMBINADO_3 = {
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
-        "Contado": "52.000.000Gs.",
-        "Entrega": "52.000.000Gs."
+        "Contado": "52.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110203,8 +107756,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "50%",
-        "Contado": "42.250.000Gs.",
-        "Entrega": "42.250.000Gs."
+        "Contado": "42.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110247,8 +107799,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110291,8 +107842,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110335,8 +107885,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110379,8 +107928,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110423,8 +107971,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110467,8 +108014,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110511,8 +108057,7 @@ var json_COMBINADO_3 = {
         "Cuota": "700.000",
         "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "45.500.000Gs.",
-        "Entrega": "45.500.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110555,8 +108100,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110599,8 +108143,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110643,8 +108186,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110687,8 +108229,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110731,8 +108272,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110775,8 +108315,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110819,8 +108358,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110863,8 +108401,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110907,8 +108444,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110951,8 +108487,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110995,8 +108530,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111039,8 +108573,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111083,8 +108616,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111127,8 +108659,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111171,8 +108702,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111215,8 +108745,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111259,8 +108788,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111303,8 +108831,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
-        "Contado": "39.000.000Gs.",
-        "Entrega": "39.000.000Gs."
+        "Contado": "39.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111347,8 +108874,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111391,8 +108917,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111435,8 +108960,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111479,8 +109003,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111523,8 +109046,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111567,8 +109089,7 @@ var json_COMBINADO_3 = {
         "Cuota": "480.000",
         "Total": "62.400.000",
         "Descuento": "50%",
-        "Contado": "31.200.000Gs.",
-        "Entrega": "31.200.000Gs."
+        "Contado": "31.200.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111611,8 +109132,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111655,8 +109175,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111699,8 +109218,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111743,8 +109261,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111787,8 +109304,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111831,8 +109347,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111875,8 +109390,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111919,8 +109433,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111963,8 +109476,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112007,8 +109519,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
-        "Contado": "32.500.000Gs.",
-        "Entrega": "32.500.000Gs."
+        "Contado": "32.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112051,8 +109562,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112095,8 +109605,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112139,8 +109648,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112183,8 +109691,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112227,8 +109734,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112271,8 +109777,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112315,8 +109820,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112359,8 +109863,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112403,8 +109906,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
-        "Contado": "29.250.000Gs.",
-        "Entrega": "29.250.000Gs."
+        "Contado": "29.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112447,8 +109949,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112491,8 +109992,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs.",
-        "Entrega": "26.000.000Gs."
+        "Contado": "26.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112535,8 +110035,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112579,8 +110078,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112623,8 +110121,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112667,8 +110164,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112711,8 +110207,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112755,8 +110250,7 @@ var json_COMBINADO_3 = {
         "Cuota": "530.000",
         "Total": "68.900.000",
         "Descuento": "50%",
-        "Contado": "34.450.000Gs.",
-        "Entrega": "34.450.000Gs."
+        "Contado": "34.450.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112799,8 +110293,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112843,8 +110336,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112887,8 +110379,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
-        "Contado": "35.750.000Gs.",
-        "Entrega": "35.750.000Gs."
+        "Contado": "35.750.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112931,8 +110422,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112975,8 +110465,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113019,8 +110508,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113063,8 +110551,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113107,8 +110594,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113151,8 +110637,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113195,8 +110680,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113239,8 +110723,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113283,8 +110766,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113327,8 +110809,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113371,8 +110852,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113415,8 +110895,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113459,8 +110938,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113503,8 +110981,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113547,8 +111024,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113591,8 +111067,7 @@ var json_COMBINADO_3 = {
         "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "50%",
-        "Contado": "58.500.000Gs.",
-        "Entrega": "58.500.000Gs."
+        "Contado": "58.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113635,8 +111110,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113679,8 +111153,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113723,8 +111196,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113767,8 +111239,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113811,8 +111282,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113855,8 +111325,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113899,8 +111368,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113943,8 +111411,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113987,8 +111454,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114031,8 +111497,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114075,8 +111540,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114119,8 +111583,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114163,8 +111626,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
-        "Contado": "0Gs.",
-        "Entrega": "0Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114207,8 +111669,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114251,8 +111712,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114295,8 +111755,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114339,8 +111798,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114383,8 +111841,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114427,8 +111884,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114471,8 +111927,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114515,8 +111970,7 @@ var json_COMBINADO_3 = {
         "Cuota": "650.000",
         "Total": "84.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114559,8 +112013,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114603,8 +112056,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114647,8 +112099,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114691,8 +112142,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114735,8 +112185,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114779,8 +112228,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114823,8 +112271,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114867,8 +112314,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114911,8 +112357,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114955,8 +112400,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114999,8 +112443,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115043,8 +112486,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115087,8 +112529,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115131,8 +112572,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115175,8 +112615,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115219,8 +112658,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115263,8 +112701,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115307,8 +112744,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115351,8 +112787,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115395,8 +112830,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115439,8 +112873,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115483,8 +112916,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115527,8 +112959,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115571,8 +113002,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115615,8 +113045,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115659,8 +113088,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115703,8 +113131,7 @@ var json_COMBINADO_3 = {
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115747,8 +113174,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115791,8 +113217,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115835,8 +113260,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115879,8 +113303,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115923,8 +113346,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115967,8 +113389,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116011,8 +113432,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116055,8 +113475,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116099,8 +113518,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116143,8 +113561,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116187,8 +113604,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116231,8 +113647,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116275,8 +113690,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116319,8 +113733,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116363,8 +113776,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116407,8 +113819,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116451,8 +113862,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116495,8 +113905,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116539,8 +113948,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116583,8 +113991,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116627,8 +114034,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116671,8 +114077,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116715,8 +114120,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116759,8 +114163,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116803,8 +114206,7 @@ var json_COMBINADO_3 = {
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116847,8 +114249,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116891,8 +114292,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116935,8 +114335,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116979,8 +114378,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117023,8 +114421,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117067,8 +114464,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117111,8 +114507,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117155,8 +114550,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117199,8 +114593,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117243,8 +114636,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117287,8 +114679,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117331,8 +114722,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117375,8 +114765,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117419,8 +114808,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117463,8 +114851,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117507,8 +114894,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117551,8 +114937,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117595,8 +114980,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117639,8 +115023,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117683,8 +115066,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117727,8 +115109,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117771,8 +115152,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117815,8 +115195,7 @@ var json_COMBINADO_3 = {
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117859,8 +115238,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117903,8 +115281,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117947,8 +115324,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117991,8 +115367,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118035,8 +115410,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118079,8 +115453,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118123,8 +115496,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118167,8 +115539,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118211,8 +115582,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118255,8 +115625,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118299,8 +115668,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118343,8 +115711,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118387,8 +115754,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118431,8 +115797,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118475,8 +115840,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118519,8 +115883,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118563,8 +115926,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118607,8 +115969,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118651,8 +116012,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118695,8 +116055,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118739,8 +116098,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118783,8 +116141,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118827,8 +116184,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118871,8 +116227,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118915,8 +116270,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118959,8 +116313,7 @@ var json_COMBINADO_3 = {
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119003,8 +116356,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119047,8 +116399,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119091,8 +116442,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119135,8 +116485,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119179,8 +116528,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119223,8 +116571,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119267,8 +116614,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119311,8 +116657,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119355,8 +116700,7 @@ var json_COMBINADO_3 = {
         "Cuota": "360.000",
         "Total": "46.800.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119399,8 +116743,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119443,8 +116786,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119487,8 +116829,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119531,8 +116872,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119575,8 +116915,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119619,8 +116958,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119663,8 +117001,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119707,8 +117044,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119751,8 +117087,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119795,8 +117130,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119839,8 +117173,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119883,8 +117216,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119927,8 +117259,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119971,8 +117302,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120015,8 +117345,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120059,8 +117388,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120103,8 +117431,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120147,8 +117474,7 @@ var json_COMBINADO_3 = {
         "Cuota": "",
         "Total": "",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120191,8 +117517,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120235,8 +117560,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120279,8 +117603,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120323,8 +117646,7 @@ var json_COMBINADO_3 = {
         "Cuota": "400.000",
         "Total": "52.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120367,8 +117689,7 @@ var json_COMBINADO_3 = {
         "Cuota": "300.000",
         "Total": "39.000.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120411,8 +117732,7 @@ var json_COMBINADO_3 = {
         "Cuota": "350.000",
         "Total": "45.500.000",
         "Descuento": "",
-        "Contado": "",
-        "Entrega": ""
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
