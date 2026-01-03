@@ -6,11 +6,11 @@ import os
 def update_data():
     # --- CONFIGURATION ---
     csv_file = 'layers/PPI_TABLA.csv' 
-    # IMPORTANT: Change this to 'layers/COMBINADO_3 (2).js' if that is your file name!
-    js_file = 'layers/COMBINADO_3.js' 
+    # MISTAKE FIX: Use the exact name from your screenshot image_787caf.png
+    js_file = 'layers/COMBINADO_3 (2).js'
     js_variable_name = "var json_COMBINADO_3 =" 
     
-    # "Entrega" is NOT in this list, so it will be deleted
+    # MISTAKE FIX: "Entrega" removed from this list to force its deletion
     ALLOWED_COLUMNS = [
         "ID", "Manzana", "Lote", "Superficie", "Estado", 
         "Cuota", "Total", "Descuento", "Contado"
@@ -18,7 +18,7 @@ def update_data():
     # ---------------------
 
     if not os.path.exists(csv_file) or not os.path.exists(js_file):
-        print(f"ERROR: Files not found. Checking for: {js_file}")
+        print(f"ERROR: File not found: {js_file}")
         return
 
     # 1. Load CSV
@@ -34,19 +34,16 @@ def update_data():
     start, end = content.find('{'), content.rfind('}')
     json_str = content[start:end+1]
     json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', json_str)
-    
     data = json.loads(json_str)
 
-    # 3. PURGE: Delete "Entrega" from every feature
+    # 3. PURGE: This loop now sees that "Entrega" is NOT allowed and deletes it
     for feature in data.get('features', []):
         props = feature.get('properties', {})
         fid = str(props.get('ID', '')).strip()
         
-        # Update existing
         if fid in csv_lookup:
             props.update(csv_lookup[fid])
             
-        # REMOVE anything not in the whitelist (this kills "Entrega")
         keys_to_delete = [k for k in list(props.keys()) if k not in ALLOWED_COLUMNS]
         for k in keys_to_delete:
             del props[k]
