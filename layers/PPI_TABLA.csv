@@ -1585,7 +1585,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 32-2-5,2,5,,Vendido,,0,50%,0Gs.
 32-2-6,2,6,,Libre,,0,50%,0Gs.
 32-2-7,2,7,,Vendido,,0,50%,0Gs.
-32-2-8,2,8,,Cancelado,,0,50%,0Gs.
+32-2-8,2,8,,Anulado,,0,50%,0Gs.
 32-2-9,2,9,,Vendido,,0,50%,0Gs.
 32-2-10,2,10,,Libre,520.000,67.600.000,50%,33.800.000Gs.
 32-2-11,2,11,,Libre,450.000,58.500.000,50%,29.250.000Gs.
@@ -1664,7 +1664,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 32-6-12,6,12,,Vendido,,0,50%,0Gs.
 32-6-13,6,13,,Vendido,,0,50%,0Gs.
 32-6-14,6,14,,Vendido,,0,50%,0Gs.
-32-6-15,6,15,,Vendido,,0,50%,0Gs.
+32-6-15,6,15,,Cancelado,,0,50%,0Gs.
 32-6-16,6,16,,Vendido,,0,50%,0Gs.
 32-6-17,6,17,,Vendido,,0,50%,0Gs.
 32-6-18,6,18,,Vendido,,0,50%,0Gs.
