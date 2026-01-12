@@ -106393,9 +106393,9 @@ var json_COMBINADO_3 = {
         "Superficie": "734.25",
         "Estado": "Cancelado",
         "Cuota": "",
-        "Total": "0",
+        "Total": "1",
         "Descuento": "50%",
-        "Contado": "0Gs."
+        "Contado": "1Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
