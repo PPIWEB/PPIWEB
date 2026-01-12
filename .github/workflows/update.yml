@@ -1,19 +1,51 @@
-- name: Commit and Push Changes
+name: Update Map Data
+
+on:
+  push:
+    branches:
+      - PPIWEBAPP   # ONLY run on this branch
+    paths:
+      - 'layers/PPI_TABLA.csv'  # ONLY run when this specific file changes
+
+jobs:
+  update-map:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grants permission to push changes
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          ref: PPIWEBAPP  # CRITICAL: Checkout your specific branch
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: pip install pandas
+
+      - name: Run Update Script
+        run: python update_map.py
+
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage the specific file updated by your python script
+          # Stage the file updated by the Python script
           git add layers/COMBINADO_3.js
           
-          # Check if there are changes before committing to avoid empty commit errors
+          # Check if there are changes before committing to avoid errors
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Auto-update map layer from CSV"
             
-            # THE FIX: Pull remote changes and rebase your new commit on top of them
-            # This prevents the [rejected] error by syncing with the remote first
+            # THE FIX: Pull remote changes and rebase your local commit on top.
+            # This prevents the [rejected] (fetch first) error seen in your logs.
             git pull --rebase origin PPIWEBAPP
             
             git push origin PPIWEBAPP
