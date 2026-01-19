@@ -4,11 +4,18 @@ import os
 import ast
 
 def update_data():
-    csv_file = 'PPI_TABLA.csv'
-    js_file = 'COMBINADO_3.js'
+    # Corrected paths to point to the 'layers' folder
+    csv_file = 'layers/PPI_TABLA.csv'
+    js_file = 'layers/COMBINADO_3.js'
 
     # 1. Read the CSV updates
     updates = {}
+    
+    # Check if CSV exists before opening
+    if not os.path.exists(csv_file):
+        print(f"Error: {csv_file} not found.")
+        return
+
     with open(csv_file, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -21,7 +28,6 @@ def update_data():
             content = f.read().strip()
             
             # Extract the data between 'var data = ' and the trailing ';'
-            # This handles whitespace more safely than a simple split
             try:
                 # Find the first '=' and take everything after it
                 json_str = content.split('=', 1)[1].strip()
@@ -30,7 +36,6 @@ def update_data():
                     json_str = json_str[:-1].strip()
                 
                 # Use ast.literal_eval because JS files often use single quotes
-                # which standard json.loads() cannot handle.
                 data = ast.literal_eval(json_str)
             except (IndexError, SyntaxError, ValueError) as e:
                 print(f"Error parsing JS file: {e}")
@@ -47,9 +52,9 @@ def update_data():
         print(f"Updated {updated_count} records.")
 
         # 4. Write the updated data back to the JS file
-        # Note: json.dumps will convert everything to standard double quotes
         with open(js_file, 'w', encoding='utf-8') as f:
             f.write(f"var data = {json.dumps(data, ensure_ascii=False, indent=2)};")
+        print(f"Successfully saved changes to {js_file}")
     else:
         print(f"Error: {js_file} not found.")
 
