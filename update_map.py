@@ -1,59 +1,57 @@
-import pandas as pd
+import csv
 import json
-import re
 import os
+import ast
 
 def update_data():
-    # --- CONFIGURATION ---
-    csv_file = 'layers/PPI_TABLA.csv' 
-    # MISTAKE FIX: Use the exact name from your screenshot image_787caf.png
-    js_file = 'layers/COMBINADO_3.js'
-    js_variable_name = "var json_COMBINADO_3 =" 
-    
-    # MISTAKE FIX: "Entrega" removed from this list to force its deletion
-    ALLOWED_COLUMNS = [
-        "ID", "Manzana", "Lote", "Superficie", "Estado", 
-        "Cuota", "Total", "Descuento", "Contado"
-    ]
-    # ---------------------
+    csv_file = 'PPI_TABLA.csv'
+    js_file = 'COMBINADO_3.js'
 
-    if not os.path.exists(csv_file) or not os.path.exists(js_file):
-        print(f"ERROR: File not found: {js_file}")
-        return
+    # 1. Read the CSV updates
+    updates = {}
+    with open(csv_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            # Using 'ID' as the unique key to match records
+            updates[row['ID']] = row
 
-    # 1. Load CSV
-    df = pd.read_csv(csv_file, dtype=str)
-    cols_to_keep = [c for c in df.columns if c in ALLOWED_COLUMNS]
-    df = df[cols_to_keep].fillna("")
-    csv_lookup = df.set_index('ID').to_dict(orient='index')
-
-    # 2. Read JS
-    with open(js_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-
-    start, end = content.find('{'), content.rfind('}')
-    json_str = content[start:end+1]
-    json_str = re.sub(r'([{,])\s*([a-zA-Z0-9_]+)\s*:', r'\1"\2":', json_str)
-    data = json.loads(json_str)
-
-    # 3. PURGE: This loop now sees that "Entrega" is NOT allowed and deletes it
-    for feature in data.get('features', []):
-        props = feature.get('properties', {})
-        fid = str(props.get('ID', '')).strip()
-        
-        if fid in csv_lookup:
-            props.update(csv_lookup[fid])
+    # 2. Read the existing JavaScript file
+    if os.path.exists(js_file):
+        with open(js_file, 'r', encoding='utf-8') as f:
+            content = f.read().strip()
             
-        keys_to_delete = [k for k in list(props.keys()) if k not in ALLOWED_COLUMNS]
-        for k in keys_to_delete:
-            del props[k]
+            # Extract the data between 'var data = ' and the trailing ';'
+            # This handles whitespace more safely than a simple split
+            try:
+                # Find the first '=' and take everything after it
+                json_str = content.split('=', 1)[1].strip()
+                # Remove the trailing semicolon if it exists
+                if json_str.endswith(';'):
+                    json_str = json_str[:-1].strip()
+                
+                # Use ast.literal_eval because JS files often use single quotes
+                # which standard json.loads() cannot handle.
+                data = ast.literal_eval(json_str)
+            except (IndexError, SyntaxError, ValueError) as e:
+                print(f"Error parsing JS file: {e}")
+                return
 
-    # 4. Save
-    new_content = f"{js_variable_name} {json.dumps(data, indent=2, ensure_ascii=False)};"
-    with open(js_file, 'w', encoding='utf-8') as f:
-        f.write(new_content)
-    
-    print("--- SUCCESS: 'Entrega' purged from JS file. ---")
+        # 3. Update the data
+        updated_count = 0
+        for item in data:
+            item_id = str(item.get('ID'))
+            if item_id in updates:
+                item.update(updates[item_id])
+                updated_count += 1
+        
+        print(f"Updated {updated_count} records.")
+
+        # 4. Write the updated data back to the JS file
+        # Note: json.dumps will convert everything to standard double quotes
+        with open(js_file, 'w', encoding='utf-8') as f:
+            f.write(f"var data = {json.dumps(data, ensure_ascii=False, indent=2)};")
+    else:
+        print(f"Error: {js_file} not found.")
 
 if __name__ == "__main__":
     update_data()
