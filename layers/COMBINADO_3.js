@@ -92504,7 +92504,6 @@ var json_COMBINADO_3 = {
         ]
       }
     },
-    
     {
       "type": "Feature",
       "properties": {
@@ -106306,7 +106305,7 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "1",
         "Superficie": "734.25",
-        "Estado": "Cancelado",
+        "Estado": "Vendido",
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
@@ -106354,10 +106353,10 @@ var json_COMBINADO_3 = {
         "Lote": "2",
         "Superficie": "525.66",
         "Estado": "Vendido",
-        "Cuota": "100.000",
-        "Total": "13.000.000",
+        "Cuota": "0",
+        "Total": "0",
         "Descuento": "50%",
-        "Contado": "6.500.000Gs."
+        "Contado": "0Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
