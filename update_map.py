@@ -48,7 +48,7 @@ def update_data():
         print(f"Error al procesar JSON: {e}")
         return
 
-    # --- Data Update ---
+    # Update data
     updated_count = 0
     for feature in data.get('features', []):
         fid = str(feature['properties'].get('ID', '')).strip()
@@ -60,9 +60,19 @@ def update_data():
             for col in allowed_columns:
                 if col in raw_row:
                     val = raw_row[col]
-                    clean_properties[col] = str(val) if pd.notnull(val) else ""
+                    
+                    # --- NEW FIX: Remove .0 from numeric values ---
+                    if pd.notnull(val):
+                        # Convert to string and strip .0 if it exists
+                        str_val = str(val)
+                        if str_val.endswith('.0'):
+                            clean_properties[col] = str_val[:-2]
+                        else:
+                            clean_properties[col] = str_val
+                    else:
+                        clean_properties[col] = ""
             
-            # Ensure ID stays preserved
+            # Final check: if ID is still missing for some reason, force it back in
             if "ID" not in clean_properties or not clean_properties["ID"]:
                 clean_properties["ID"] = fid
                 
