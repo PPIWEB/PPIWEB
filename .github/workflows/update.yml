@@ -3,29 +3,29 @@ name: Update Map Data
 on:
   push:
     branches:
-      - PPIWEBAPP   # ONLY run on this branch
+      - PPIWEBAPP   # Runs only on this branch
     paths:
-      - 'layers/PPI_TABLA.csv'  # ONLY run when this specific file changes
+      - 'layers/PPI_TABLA.csv'  # Runs only when the CSV is updated
 
 jobs:
   update-map:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Grants permission to push changes
+      contents: write  # Required to push the updated JS file back to the repo
 
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
         with:
-          ref: PPIWEBAPP  # CRITICAL: Checkout your specific branch
+          ref: PPIWEBAPP
+          fetch-depth: 0 # Fetches all history so rebase/push works correctly
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install Dependencies
-        run: pip install pandas
+      # Removed 'Install Dependencies' because the script uses standard Python libraries
 
       - name: Run Update Script
         run: python update_map.py
@@ -35,18 +35,16 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage the file updated by the Python script
+          # Stage the specific file
           git add layers/COMBINADO_3.js
           
-          # Check if there are changes before committing to avoid errors
+          # Check for changes
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "No changes detected in the JS file. Skipping commit."
           else
             git commit -m "Auto-update map layer from CSV"
             
-            # THE FIX: Pull remote changes and rebase your local commit on top.
-            # This prevents the [rejected] (fetch first) error seen in your logs.
+            # Rebase ensures your push doesn't fail if the remote changed during the run
             git pull --rebase origin PPIWEBAPP
-            
             git push origin PPIWEBAPP
           fi
