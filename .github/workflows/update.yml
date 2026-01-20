@@ -25,7 +25,9 @@ jobs:
         with:
           python-version: '3.9'
 
-      # Removed 'Install Dependencies' because the script uses standard Python libraries
+      - name: Install Dependencies
+        run: |
+          pip install pandas
 
       - name: Run Update Script
         run: python update_map.py
@@ -35,10 +37,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage the specific file
+          # Stage the specific file updated by the script
           git add layers/COMBINADO_3.js
           
-          # Check for changes
+          # Check for changes to avoid empty commit errors
           if git diff --staged --quiet; then
             echo "No changes detected in the JS file. Skipping commit."
           else
