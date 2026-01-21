@@ -544,67 +544,86 @@ var bottomRightContainerDiv = document.getElementById('bottom-right-container')
 
 //geolocate
 
-	let isTracking = false;
+	//geolocate
+(function() {
+    // Variables local to this function scope to avoid "redeclare" errors
+    var trackingActive = false;
+    var watchId = null;
 
-	const geolocateButton = document.createElement('button');
-	geolocateButton.className = 'geolocate-button fa fa-map-marker';
-	geolocateButton.title = 'Geolocalizza';
+    // 1. Create the position layer and source
+    var positionSource = new ol.source.Vector();
+    var positionLayer = new ol.layer.Vector({
+        source: positionSource,
+        zIndex: 1000
+    });
+    map.addLayer(positionLayer);
 
-	const geolocateControl = document.createElement('div');
-	geolocateControl.className = 'ol-unselectable ol-control geolocate';
-	geolocateControl.appendChild(geolocateButton);
-	map.getTargetElement().appendChild(geolocateControl);
+    // 2. Create the UI Button
+    var geolocateButton = document.createElement('button');
+    geolocateButton.className = 'geolocate-button fa fa-map-marker';
+    geolocateButton.title = 'Track Location';
 
-	const accuracyFeature = new ol.Feature();
-	const positionFeature = new ol.Feature({
-	  style: new ol.style.Style({
-		image: new ol.style.Circle({
-		  radius: 6,
-		  fill: new ol.style.Fill({ color: '#3399CC' }),
-		  stroke: new ol.style.Stroke({ color: '#fff', width: 2 }),
-		}),
-	  }),
-	});
+    var geolocateControl = document.createElement('div');
+    geolocateControl.className = 'ol-unselectable ol-control geolocate';
+    geolocateControl.appendChild(geolocateButton);
+    map.getTargetElement().appendChild(geolocateControl);
 
-  const geolocateOverlay = new ol.layer.Vector({
-	  source: new ol.source.Vector({
-		features: [accuracyFeature, positionFeature],
-	  }),
-	});
-	
-	const geolocation = new ol.Geolocation({
-	  projection: map.getView().getProjection(),
-	});
+    // 3. Tracking Logic
+    function toggleTracking() {
+        if (trackingActive) {
+            // STOP TRACKING
+            if (watchId !== null) {
+                navigator.geolocation.clearWatch(watchId);
+                watchId = null;
+            }
+            positionSource.clear();
+            geolocateButton.style.backgroundColor = ''; 
+            trackingActive = false;
+        } else {
+            // START TRACKING
+            geolocateButton.style.backgroundColor = 'rgba(0, 60, 136, 0.7)';
+            trackingActive = true;
 
-	geolocation.on('change:accuracyGeometry', function () {
-	  accuracyFeature.setGeometry(geolocation.getAccuracyGeometry());
-	});
+           var firstPositionSet = false; // Flag to track the initial lock
 
-	geolocation.on('change:position', function () {
-	  const coords = geolocation.getPosition();
-	  positionFeature.setGeometry(coords ? new ol.geom.Point(coords) : null);
-	});
+watchId = navigator.geolocation.watchPosition(function(pos) {
+    var coords = [pos.coords.longitude, pos.coords.latitude];
+    var accuracy = ol.geom.Polygon.circular(coords, pos.coords.accuracy);
+    var mapCoords = ol.proj.fromLonLat(coords);
 
-	geolocation.setTracking(true);
+    positionSource.clear();
+    positionSource.addFeatures([
+        // Accuracy Circle
+        new ol.Feature(accuracy.transform('EPSG:4326', map.getView().getProjection())),
+        // User Dot
+        new ol.Feature(new ol.geom.Point(mapCoords))
+    ]);
 
-	function handleGeolocate() {
-	  if (isTracking) {
-		map.removeLayer(geolocateOverlay);
-		isTracking = false;
-	  } else if (geolocation.getTracking()) {
-		map.addLayer(geolocateOverlay);
-		const pos = geolocation.getPosition();
-		if (pos) {
-		  map.getView().setCenter(pos);
-		}
-		isTracking = true;
-	  }
-	}
+    // Only force the view the FIRST time a position is found
+    if (!firstPositionSet) {
+        map.getView().animate({
+            center: mapCoords, 
+            zoom: 18, 
+            duration: 1000
+        });
+        firstPositionSet = true;
+    }
 
-	geolocateButton.addEventListener('click', handleGeolocate);
-	geolocateButton.addEventListener('touchstart', handleGeolocate);
+}, function(err) {
+    console.warn('ERROR(' + err.code + '): ' + err.message);
+}, {
+    enableHighAccuracy: true
+});
+        }
+    }
 
-
+    geolocateButton.addEventListener('click', toggleTracking);
+    
+    // Ensure the button is placed in your top-left container if you have one
+    var topLeft = document.getElementById('top-left-container');
+    if (topLeft) { topLeft.appendChild(geolocateControl); }
+})();
+//measurement
 //measurement
 let measuring = false;
 
