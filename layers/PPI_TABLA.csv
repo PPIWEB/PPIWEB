@@ -1583,7 +1583,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 32-2-3,2,3,,Libre,400.000,52.000.000,50%,26.000.000Gs.
 32-2-4,2,4,,Libre,400.000,52.000.000,50%,26.000.000Gs.
 32-2-5,2,5,,Vendido,,0,50%,0Gs.
-32-2-6,2,6,,Libre,,0,50%,0Gs.
+32-2-6,2,6,,Vendido,,0,50%,0Gs.
 32-2-7,2,7,,Vendido,,0,50%,0Gs.
 32-2-8,2,8,,Anulado,,0,50%,0Gs.
 32-2-9,2,9,,Vendido,,0,50%,0Gs.
