@@ -103890,7 +103890,7 @@ var json_COMBINADO_3 = {
         "ID": "1-1-1",
         "Lote": "1",
         "Superficie": "734.25",
-        "Estado": "Cancelado",
+        "Estado": "Anulado",
         "Cuota": "",
         "Total": "0",
         "Descuento": "50%",
