@@ -62340,7 +62340,7 @@ var json_COMBINADO_3 = {
         "ID": "35-2-10",
         "Lote": "10",
         "Superficie": "363.56",
-        "Estado": "Anulado",
+        "Estado": "Cancelado",
         "Cuota": "",
         "Total": "0",
         "Descuento": "40%",
