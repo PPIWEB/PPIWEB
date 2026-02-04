@@ -70060,7 +70060,7 @@ var json_COMBINADO_3 = {
         "ID": "37-5-10",
         "Lote": "10",
         "Superficie": "360.24",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "550.000",
         "Total": "71.500.000",
         "Descuento": "50%",
