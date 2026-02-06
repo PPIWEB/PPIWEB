@@ -105052,7 +105052,7 @@ var json_COMBINADO_3 = {
         "ID": "5-2-4",
         "Lote": "4",
         "Superficie": "",
-        "Estado": "Libre",
+        "Estado": "Vendido",
         "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "50%",
