@@ -943,7 +943,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 16-8-7,8,7,,Vendido,,0,50%,0Gs.
 16-8-8,8,8,,Vendido,,0,50%,0Gs.
 16-8-9,8,9,,Vendido,,0,50%,0Gs.
-16-8-10,8,10,,Vendido,,0,50%,0Gs.
+16-8-10,8,10,,Libre,600.000,78.000.000,50%,39.000.000Gs.
 16-8-11,8,11,,Vendido,,0,50%,0Gs.
 16-8-12,8,12,,Vendido,,0,50%,0Gs.
 16-9-1,9,1,,Libre,700.000,91.000.000,50%,45.500.000Gs.
@@ -1827,7 +1827,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 35-3-4,3,4,,Vendido,,0,40%,0Gs.
 35-3-5,3,5,,Vendido,,0,40%,0Gs.
 35-3-6,3,6,,Vendido,,0,40%,0Gs.
-35-3-7,3,7,,Libre,450.000,58.500.000,40%,35.100.000Gs.
+35-3-7,3,7,,Vendido,450.000,58.500.000,40%,35.100.000Gs.
 35-3-8,3,8,,Vendido,,0,40%,0Gs.
 35-3-9,3,9,,Vendido,,0,40%,0Gs.
 35-3-10,3,10,,Vendido,,0,40%,0Gs.
@@ -1844,8 +1844,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 35-4-1,4,1,,Vendido,,0,40%,0Gs.
 35-4-2,4,2,,Vendido,,0,40%,0Gs.
 35-4-3,4,3,,Vendido,,0,40%,0Gs.
-35-4-4,4,4,,Vendido,,0,40%,0Gs.
-35-4-5,4,5,,Vendido,,0,40%,0Gs.
+35-4-4,4,4,,Libre,430.000,55.900.000,40%,33.540.000Gs.
+35-4-5,4,5,,Libre,400.000,52.000.000,40%,31.200.000Gs.
 35-4-6,4,6,363.56,Libre,400.000,52.000.000,40%,31.200.000Gs.
 35-4-7,4,7,363.56,Libre,400.000,52.000.000,40%,31.200.000Gs.
 35-4-8,4,8,,Vendido,,0,40%,0Gs.
