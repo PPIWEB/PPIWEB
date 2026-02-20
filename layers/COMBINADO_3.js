@@ -69459,11 +69459,11 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "6",
         "Superficie": "",
-        "Estado": "Vendido",
-        "Cuota": "",
-        "Total": "0",
+        "Estado": "Libre",
+        "Cuota": "850.000",
+        "Total": "110.500.000",
         "Descuento": "50%",
-        "Contado": "0Gs."
+        "Contado": "55.250.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
