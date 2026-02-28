@@ -4269,16 +4269,14 @@ var json_COMBINADO_3 = {
       "type": "Feature",
       "properties": {
         "ID": "49-6-PLAZA",
-        "Manzana": null,
-        "Lote": null,
-        "Superficie": null,
-        "Estado": null,
-        "Cuota": null,
-        "Total": null,
-        "Descuento": null,
-        "Contado": null,
-        "Entrega": null,
-        "field_11": null
+        "Manzana": "",
+        "Lote": "",
+        "Superficie": "",
+        "Estado": "Plaza",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "",
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6468,16 +6466,14 @@ var json_COMBINADO_3 = {
       "type": "Feature",
       "properties": {
         "ID": "49-10-PLAZA",
-        "Manzana": null,
-        "Lote": null,
-        "Superficie": null,
-        "Estado": null,
-        "Cuota": null,
-        "Total": null,
-        "Descuento": null,
-        "Contado": null,
-        "Entrega": null,
-        "field_11": null
+        "Manzana": "",
+        "Lote": "",
+        "Superficie": "",
+        "Estado": "Plaza",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "",
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6771,16 +6767,14 @@ var json_COMBINADO_3 = {
       "type": "Feature",
       "properties": {
         "ID": "49-11-PLAZA",
-        "Manzana": null,
-        "Lote": null,
-        "Superficie": null,
-        "Estado": null,
-        "Cuota": null,
-        "Total": null,
-        "Descuento": null,
-        "Contado": null,
-        "Entrega": null,
-        "field_11": null
+        "Manzana": "",
+        "Lote": "",
+        "Superficie": "",
+        "Estado": "Plaza",
+        "Cuota": "",
+        "Total": "",
+        "Descuento": "",
+        "Contado": ""
       },
       "geometry": {
         "type": "MultiPolygon",
