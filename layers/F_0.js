@@ -844,6 +844,16 @@ var json_F_0 = {
         ],
       },
     },
+    {
+      type: "Feature",
+      properties: { NAME: "49- ECOBARRIOS SENDEROS DEL BOSQUE" },
+      geometry: {
+        type: "Point",
+        coordinates: [-56.936406616939621, -25.436740774612133],
+      },
+    },
   ],
 };
 
+
+    
