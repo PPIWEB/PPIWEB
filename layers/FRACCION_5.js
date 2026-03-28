@@ -380,5 +380,14 @@ var json_FRACCION_5 = {
         coordinates: [-56.936406616939621, -25.436740774612133],
       },
     },
+    {
+      type: "Feature",
+      properties: { FRACCION: "50" },
+      geometry: {
+        type: "Point",
+        coordinates: [-56.440017616536068, -24.062591461606697],
+      },
+    },
   ],
 };
+
