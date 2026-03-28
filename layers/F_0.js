@@ -41,6 +41,24 @@ var json_F_0 = {
     },
     {
       type: "Feature",
+      properties: { F: "50- RES. DANTA LUCIA- RESQUIN" },
+      geometry: {
+        type: "MultiPolygon",
+        coordinates: [
+          [
+            [
+              [-56.447335743235129, -24.066289379976329],
+              [-56.445765073888481, -24.068860911563714],
+              [-56.437045150963961, -24.063495253570427],
+              [-56.439346993971974, -24.061912712508278],
+              [-56.447335743235129, -24.066289379976329],
+            ],
+          ],
+        ],
+      },
+    },
+    {
+      type: "Feature",
       properties: { F: "15-BRISAS DEL SUR- CORONEL BOGADO" },
       geometry: {
         type: "MultiPolygon",
