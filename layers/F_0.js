@@ -41,7 +41,7 @@ var json_F_0 = {
     },
     {
       type: "Feature",
-      properties: { F: "50- RES. DANTA LUCIA- RESQUIN" },
+      properties: { F: "50- RES. SANTA LUCIA- RESQUIN" },
       geometry: {
         type: "MultiPolygon",
         coordinates: [
