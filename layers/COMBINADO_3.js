@@ -80186,7 +80186,7 @@ var json_COMBINADO_3 = {
         "Manzana": "9",
         "Lote": "14",
         "Superficie": "425.21",
-        "Estado": "Vendido",
+        "Estado": "Libre",
         "Cuota": "600.000",
         "Total": "78.000.000",
         "Descuento": "50%",
