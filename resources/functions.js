@@ -23,6 +23,7 @@ var createTextStyle = function(feature, resolution, labelText, labelFont,
         offsetX: 8,
         offsetY: 3,
         placement: placement,
+        overflow: true,
         maxAngle: 0,
         fill: new ol.style.Fill({
           color: labelFill
