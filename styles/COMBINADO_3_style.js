@@ -85,15 +85,15 @@ var style_COMBINADO_3 = function(feature, resolution){
     
     var labelText = ""; 
     var value = feature.get("Estado");
-    var labelFont = "13.0px \'Rockwell Extra Bold\', sans-serif";
+    var labelFont = "6px \'Rockwell Extra Bold\', sans-serif";
     var labelFill = "#ffffff";
     var bufferColor = "#000000";
-    var bufferWidth = 3.0;
-    var textAlign = "left";
+    var bufferWidth = 2.0;
+    var textAlign = "center";
     var offsetX = 0;
     var offsetY = 0;
     var placement = 'point';
-    if (feature.get("Lote") !== null && resolution > 0 && resolution < 1) {
+    if (feature.get("Lote") !== null) {
         labelText = String(feature.get("Lote"));
     }
     
