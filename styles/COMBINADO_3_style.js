@@ -93,7 +93,7 @@ var style_COMBINADO_3 = function(feature, resolution){
     var offsetX = 0;
     var offsetY = 0;
     var placement = 'point';
-    if (feature.get("Lote") !== null && resolution > 0 && resolution < 1) {
+    if (feature.get("Lote") !== null && resolution > 0 && resolution < 2) {
         labelText = String(feature.get("Lote"));
     }
     
