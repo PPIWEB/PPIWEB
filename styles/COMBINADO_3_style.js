@@ -93,8 +93,8 @@ var style_COMBINADO_3 = function(feature, resolution){
     var offsetX = 0;
     var offsetY = 0;
     var placement = 'point';
-    if (feature.get("Lote") !== null) {
-        labelText = String(feature.get("Lote"));
+    if (feature.get("id") !== null && resolution < 10.0) { 
+        labelText = String(feature.get("id"));
     }
     
     var style = categories_COMBINADO_3(feature, value, size, resolution, labelText,
