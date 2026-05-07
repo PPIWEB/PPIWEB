@@ -50,7 +50,7 @@ var lyr_COMBINADO_3 = new ol.layer.Vector({
                 declutter: false,
                 source:jsonSource_COMBINADO_3, 
                 style: style_COMBINADO_3,
-               maxResolution: 20, // Prueba con 2, 5 o 10 hasta hallar el punto ideal
+               maxResolution: 5, // Prueba con 2, 5 o 10 hasta hallar el punto ideal
                 minResolution: 0,
                 popuplayertitle: 'COMBINADO',
                 interactive: true,
