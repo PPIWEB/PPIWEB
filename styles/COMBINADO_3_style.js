@@ -85,7 +85,7 @@ var style_COMBINADO_3 = function(feature, resolution){
     
     var labelText = ""; 
     var value = feature.get("Estado");
-    var labelFont = "13.0px \'Rockwell Extra Bold\', sans-serif";
+    var labelFont = "6.0px \'Rockwell Extra Bold\', sans-serif";
     var labelFill = "#ffffff";
     var bufferColor = "#000000";
     var bufferWidth = 3.0;
