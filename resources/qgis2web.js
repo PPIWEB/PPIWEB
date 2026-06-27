@@ -383,8 +383,7 @@ function onSingleClickFeatures(evt) {
                 var length = ol.sphere.getDistance(p1_latlon, p2_latlon);
 
                 if (length < 1) { continue; } // Skip tiny lines
-                var lengthLabel = length.toFixed(2) + ' m.';
-
+                var lengthLabel = Math.round(length) + ' m.';
                 // 2. Calculate Midpoint using the *projected* coordinates
                 var midpoint_proj = [(p1_proj[0] + p2_proj[0]) / 2, (p1_proj[1] + p2_proj[1]) / 2];
 
