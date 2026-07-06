@@ -85,18 +85,24 @@ class SearchLayer extends ol.control.Control {
     input.setAttribute('placeholder', 'Search ...');
     input.setAttribute('type', 'text');
     form.appendChild(input);
-// --- INICIO DEL PARCHE DEFINITIVO ---
+// --- INICIO DEL PARCHE PARA TECLADOS PREDICTIVOS ---
     input.addEventListener('input', function() {
-        // Usamos el método clásico de creación de eventos (100% compatible en WebViews)
-        var eventoFalso = document.createEvent('Event');
-        eventoFalso.initEvent('keyup', true, true);
-        
-        // Simulamos exactamente la tecla de borrar (Retroceso = 8)
-        // Ya que comprobamos que esa es la llave para destrabar la lista
-        eventoFalso.keyCode = 8;
-        eventoFalso.which = 8;
-        
-        input.dispatchEvent(eventoFalso);
+        // Esperamos 150 milisegundos para que el texto predictivo se asiente
+        setTimeout(function() {
+            // Simulamos que se PRESIONA la tecla de borrar
+            var evtDown = document.createEvent('Event');
+            evtDown.initEvent('keydown', true, true);
+            evtDown.keyCode = 8;
+            
+            // Simulamos que se SUELTA la tecla de borrar
+            var evtUp = document.createEvent('Event');
+            evtUp.initEvent('keyup', true, true);
+            evtUp.keyCode = 8; 
+
+            // Despachamos ambos eventos para engañar a la librería
+            input.dispatchEvent(evtDown);
+            input.dispatchEvent(evtUp);
+        }, 150); 
     });
     // --- FIN DEL PARCHE ---
     // Build control element
