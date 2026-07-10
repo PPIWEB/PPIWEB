@@ -281,8 +281,8 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 5-5-1,5,1,,Vendido,600.000,78.000.000,50%,39.000.000Gs.
 5-5-2,5,2,,Vendido,600.000,78.000.000,50%,39.000.000Gs.
 5-5-3,5,3,,Libre,600.000,78.000.000,50%,39.000.000Gs.
-5-5-4,5,4,,Vendido,,0,50%,0Gs.
-5-5-5,5,5,,Vendido,,0,50%,0Gs.
+5-5-4,5,4,,Libre,650.000,84.500.000,50%,42.250.000Gs.
+5-5-5,5,5,,Libre,600.000,78.000.000,50%,39.000.000Gs.
 5-5-6,5,6,,Libre,600.000,78.000.000,50%,39.000.000Gs.
 5-5-7,5,7,,Libre,600.000,78.000.000,50%,39.000.000Gs.
 5-5-8,5,8,,Libre,600.000,78.000.000,50%,39.000.000Gs.
@@ -299,7 +299,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 5-7-1,7,1,,Vendido,,0,50%,0Gs.
 5-7-2,7,2,,Libre,450.000,58.500.000,50%,29.250.000Gs.
 5-7-3,7,3,,Vendido,,0,50%,0Gs.
-5-7-4,7,4,,Vendido,500.000,65.000.000,50%,32.500.000Gs.
+5-7-4,7,4,,Libre,500.000,65.000.000,50%,32.500.000Gs.
 5-7-5,7,5,,Vendido,400.000,52.000.000,50%,26.000.000Gs.
 5-7-6,7,6,,Vendido,500.000,65.000.000,50%,32.500.000Gs.
 5-7-7,7,7,,Vendido,450.000,58.500.000,50%,29.250.000Gs.
@@ -561,7 +561,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 9-2-14,2,14,,Reserva de propietario,,0,50%,0Gs.
 "010-RESIDENCIAL ALTOS DEL MONTE I
 ",,,,,,,,
-10-1-1,1,1,,Vendido,,0,50%,0Gs.
+10-1-1,1,1,,Libre,750.000,97.500.000,50%,48.750.000Gs.
 10-1-2,1,2,,Vendido,,0,50%,0Gs.
 10-1-3,1,3,,Vendido,,0,50%,0Gs.
 10-1-4,1,4,,Vendido,,0,50%,0Gs.
@@ -569,22 +569,22 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 10-1-6,1,6,,Vendido,,0,50%,0Gs.
 10-1-7,1,7,,Vendido,,0,50%,0Gs.
 10-2-1,2,1,,Vendido,,0,50%,0Gs.
-10-2-2,2,2,,Vendido,,0,50%,0Gs.
+10-2-2,2,2,,Libre,650.000,84.500.000,50%,42.250.000Gs.
 10-2-3,2,3,,Vendido,,0,50%,0Gs.
 10-2-4,2,4,,Vendido,,0,50%,0Gs.
 10-2-5,2,5,,Vendido,,0,50%,0Gs.
 10-2-6,2,6,,Vendido,,0,50%,0Gs.
 10-2-7,2,7,,Vendido,,0,50%,0Gs.
 10-2-8,2,8,,Vendido,,0,50%,0Gs.
-10-2-9,2,9,,Vendido,,0,50%,0Gs.
+10-2-9,2,9,,Libre,700.000,91.000.000,50%,45.500.000Gs.
 10-2-10,2,10,,Vendido,,0,50%,0Gs.
 "011-RESIDENCIAL ALTOS DEL MONTE II
 ",,,,,,,,
 11-1-1,1,1,,Vendido,,0,50%,0Gs.
 11-1-2,1,2,,Vendido,,0,50%,0Gs.
-11-1-3,1,3,,Vendido,,0,50%,0Gs.
+11-1-,1,3,,Vendido,,0,50%,0Gs.
 11-1-4,1,4,,Vendido,,0,50%,0Gs.
-11-1-5,1,5,,Vendido,,0,50%,0Gs.
+11-1-,1,5,,Vendido,,0,50%,0Gs.
 11-1-6,1,6,,Vendido,,0,50%,0Gs.
 11-2-1,2,1,,Vendido,,0,50%,0Gs.
 11-2-2,2,2,,Vendido,,0,50%,0Gs.
