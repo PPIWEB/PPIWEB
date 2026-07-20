@@ -50041,11 +50041,11 @@ var json_COMBINADO_3 = {
         "Manzana": "C",
         "Lote": "3",
         "Superficie": "",
-        "Estado": "Libre",
-        "Cuota": "750.000",
-        "Total": "97.500.000",
+        "Estado": "Vendido",
+        "Cuota": "700.000",
+        "Total": "91.000.000",
         "Descuento": "50%",
-        "Contado": "48.750.000Gs."
+        "Contado": "45.500.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
