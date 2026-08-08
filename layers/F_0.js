@@ -882,7 +882,7 @@ var json_F_0 = {
     },
     {
       type: "Feature",
-      properties: { F: "53- LOMAS DE ITAGUA II- ITAGUA" },
+      properties: { F: "53- RES. LOMAS DE ITAGUA II- ITAGUA" },
       geometry: {
         type: "MultiPolygon",
         coordinates: [
@@ -900,7 +900,7 @@ var json_F_0 = {
     },
     {
       type: "Feature",
-      properties: { F: "52- LOMAS DE ITAGUA I" },
+      properties: { F: "52- RES. LOMAS DE ITAGUA I" },
       geometry: {
         type: "MultiPolygon",
         coordinates: [
