@@ -365,7 +365,7 @@ var json_NOMBREFRACCION_6 = {
     },
     {
       type: "Feature",
-      properties: { NAME: "52- LOMAS DE ITAGUA I" },
+      properties: { NAME: "52- RES. LOMAS DE ITAGUA I" },
       geometry: {
         type: "Point",
         coordinates: [-57.33489710705804, -25.433606174188672],
@@ -373,7 +373,7 @@ var json_NOMBREFRACCION_6 = {
     },
     {
       type: "Feature",
-      properties: { NAME: "53- LOMAS DE ITAGUA II" },
+      properties: { NAME: "53- RES. LOMAS DE ITAGUA II" },
       geometry: {
         type: "Point",
         coordinates: [-57.334958963950228, -25.434870678781412],
