@@ -138180,7 +138180,7 @@ var json_COMBINADO_3 = {
         "Lote": "1",
         "Superficie": "394.23",
         "Estado": "Libre",
-        "Cuota": "1.500.000,00",
+        "Cuota": "1.500.000",
         "Total": "195.000.000",
         "Descuento": "35%",
         "Contado": "126.750.000Gs."
@@ -138223,7 +138223,7 @@ var json_COMBINADO_3 = {
         "Lote": "2",
         "Superficie": "438.26",
         "Estado": "Libre",
-        "Cuota": "1.500.000,00",
+        "Cuota": "1.500.000",
         "Total": "195.000.000",
         "Descuento": "35%",
         "Contado": "126.750.000Gs."
@@ -138266,7 +138266,7 @@ var json_COMBINADO_3 = {
         "Lote": "3",
         "Superficie": "361.61",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138313,7 +138313,7 @@ var json_COMBINADO_3 = {
         "Lote": "4",
         "Superficie": "362.65",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138356,7 +138356,7 @@ var json_COMBINADO_3 = {
         "Lote": "5",
         "Superficie": "363.69",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138399,7 +138399,7 @@ var json_COMBINADO_3 = {
         "Lote": "6",
         "Superficie": "364.73",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138442,7 +138442,7 @@ var json_COMBINADO_3 = {
         "Lote": "7",
         "Superficie": "365.76",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138485,7 +138485,7 @@ var json_COMBINADO_3 = {
         "Lote": "8",
         "Superficie": "366.80",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138528,7 +138528,7 @@ var json_COMBINADO_3 = {
         "Lote": "9",
         "Superficie": "382.20",
         "Estado": "Libre",
-        "Cuota": "950.000,00",
+        "Cuota": "950.000",
         "Total": "123.500.000",
         "Descuento": "35%",
         "Contado": "80.275.000Gs."
@@ -138571,7 +138571,7 @@ var json_COMBINADO_3 = {
         "Lote": "10",
         "Superficie": "380.00",
         "Estado": "Vendido",
-        "Cuota": "900.000,00",
+        "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "35%",
         "Contado": "76.050.000Gs."
@@ -138618,7 +138618,7 @@ var json_COMBINADO_3 = {
         "Lote": "1",
         "Superficie": "382.20",
         "Estado": "Libre",
-        "Cuota": "900.000,00",
+        "Cuota": "900.000",
         "Total": "117.000.000",
         "Descuento": "35%",
         "Contado": "76.050.000Gs."
@@ -138661,7 +138661,7 @@ var json_COMBINADO_3 = {
         "Lote": "2",
         "Superficie": "386.81",
         "Estado": "Libre",
-        "Cuota": "850.000,00",
+        "Cuota": "850.000",
         "Total": "110.500.000",
         "Descuento": "35%",
         "Contado": "71.825.000Gs."
@@ -138708,7 +138708,7 @@ var json_COMBINADO_3 = {
         "Lote": "3",
         "Superficie": "360.40",
         "Estado": "Libre",
-        "Cuota": "800.000,00",
+        "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "35%",
         "Contado": "67.600.000Gs."
@@ -138751,7 +138751,7 @@ var json_COMBINADO_3 = {
         "Lote": "4",
         "Superficie": "361.36",
         "Estado": "Libre",
-        "Cuota": "800.000,00",
+        "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "35%",
         "Contado": "67.600.000Gs."
@@ -138794,7 +138794,7 @@ var json_COMBINADO_3 = {
         "Lote": "5",
         "Superficie": "362.33",
         "Estado": "Libre",
-        "Cuota": "800.000,00",
+        "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "35%",
         "Contado": "67.600.000Gs."
@@ -138837,7 +138837,7 @@ var json_COMBINADO_3 = {
         "Lote": "6",
         "Superficie": "363.30",
         "Estado": "Libre",
-        "Cuota": "800.000,00",
+        "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "35%",
         "Contado": "67.600.000Gs."
@@ -138880,7 +138880,7 @@ var json_COMBINADO_3 = {
         "Lote": "7",
         "Superficie": "364.27",
         "Estado": "Libre",
-        "Cuota": "800.000,00",
+        "Cuota": "800.000",
         "Total": "104.000.000",
         "Descuento": "35%",
         "Contado": "67.600.000Gs."
@@ -138923,7 +138923,7 @@ var json_COMBINADO_3 = {
         "Lote": "8",
         "Superficie": "418.81",
         "Estado": "Libre",
-        "Cuota": "850.000,00",
+        "Cuota": "850.000",
         "Total": "110.500.000",
         "Descuento": "35%",
         "Contado": "71.825.000Gs."
