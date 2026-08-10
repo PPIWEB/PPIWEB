@@ -51250,11 +51250,11 @@ var json_COMBINADO_3 = {
         "Manzana": "2",
         "Lote": "66",
         "Superficie": "419.97",
-        "Estado": "Vendido",
-        "Cuota": "1.550.000",
-        "Total": "201.500.000",
+        "Estado": "Libre",
+        "Cuota": "1.600.000",
+        "Total": "208.000.000",
         "Descuento": "50%",
-        "Contado": "100.750.000Gs."
+        "Contado": "104.000.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54360,11 +54360,11 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "11",
         "Superficie": "",
-        "Estado": "Vendido",
-        "Cuota": "400.000",
-        "Total": "52.000.000",
+        "Estado": "Libre",
+        "Cuota": "430.000",
+        "Total": "55.900.000",
         "Descuento": "50%",
-        "Contado": "26.000.000Gs."
+        "Contado": "27.950.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99530,11 +99530,11 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "2",
         "Superficie": "",
-        "Estado": "Vendido",
-        "Cuota": "",
-        "Total": "0",
+        "Estado": "Libre",
+        "Cuota": "410.000",
+        "Total": "53.300.000",
         "Descuento": "30%",
-        "Contado": "0Gs."
+        "Contado": "37.310.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100097,11 +100097,11 @@ var json_COMBINADO_3 = {
         "Manzana": "3",
         "Lote": "15",
         "Superficie": "",
-        "Estado": "Vendido",
-        "Cuota": "",
-        "Total": "0",
+        "Estado": "Libre",
+        "Cuota": "380.000",
+        "Total": "49.400.000",
         "Descuento": "30%",
-        "Contado": "0Gs."
+        "Contado": "34.580.000Gs."
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111192,8 +111192,8 @@ var json_COMBINADO_3 = {
         "Manzana": "1",
         "Lote": "3",
         "Superficie": "367.63",
-        "Estado": "Vendido",
-        "Cuota": "600.000",
+        "Estado": "Libre",
+        "Cuota": "650.000",
         "Total": "78.000.000",
         "Descuento": "",
         "Contado": ""
@@ -136724,7 +136724,7 @@ var json_COMBINADO_3 = {
         "Manzana": "6",
         "Lote": "12",
         "Superficie": "360",
-        "Estado": "Vendido",
+        "Estado": "Libre",
         "Cuota": "450.000",
         "Total": "58.500.000",
         "Descuento": "50%",
@@ -136767,7 +136767,7 @@ var json_COMBINADO_3 = {
         "Manzana": "6",
         "Lote": "13",
         "Superficie": "360",
-        "Estado": "Vendido",
+        "Estado": "Libre",
         "Cuota": "500.000",
         "Total": "65.000.000",
         "Descuento": "50%",
