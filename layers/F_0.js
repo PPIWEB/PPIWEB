@@ -882,7 +882,7 @@ var json_F_0 = {
     },
     {
       type: "Feature",
-      properties: { F: "53- RES. LOMAS DE ITAUGUA II- ITAGUA" },
+      properties: { F: "53- RES. LOMAS DE ITAUGUA II" },
       geometry: {
         type: "MultiPolygon",
         coordinates: [
