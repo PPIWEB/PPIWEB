@@ -151394,7 +151394,7 @@ var json_COMBINADO_3 = {
         "Lote": "14",
         "Superficie": "",
         "Estado": "Libre",
-        "Cuota": "450.000",
+        "Cuota": "330.000",
         "Total": "42.900.000",
         "Descuento": "50%",
         "Contado": "21.450.000Gs."
