@@ -389,7 +389,7 @@ var json_NOMBREFRACCION_6 = {
     },
     {
       type: "Feature",
-      properties: { NAME: "55- VISTA VERDE II- EUSEBIO AYALA" },
+      properties: { NAME: "55-ECOBARRIO VISTA VERDE II" },
       geometry: {
         type: "Point",
         coordinates: [-56.927040478759039, -25.36275097569392],
