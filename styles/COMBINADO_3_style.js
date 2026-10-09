@@ -76,6 +76,14 @@ default:
                               bufferWidth)
     })];
                     break;}};
+case 'Reserva':
+                    return [ new ol.style.Style({
+        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,0.575)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0.988}),fill: new ol.style.Fill({color: 'rgba(128,0,128,0.575)'}),
+        text: createTextStyle(feature, resolution, labelText, labelFont,
+                              labelFill, placement, bufferColor,
+                              bufferWidth)
+    })];
+                    break;
 
 var style_COMBINADO_3 = function(feature, resolution){
     var context = {
