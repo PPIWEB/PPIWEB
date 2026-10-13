@@ -943,7 +943,7 @@ ID,Manzana,Lote,Superficie,Estado,Cuota,Total,Descuento,Contado
 16-8-7,8,7,,Vendido,,0,50%,0Gs.
 16-8-8,8,8,,Vendido,,0,50%,0Gs.
 16-8-9,8,9,,Vendido,,0,50%,0Gs.
-16-8-10,8,10,,Libre,600.000,78.000.000,50%,39.000.000Gs.
+16-8-10,8,10,,Reserva,600.000,78.000.000,50%,39.000.000Gs.
 16-8-11,8,11,,Vendido,,0,50%,0Gs.
 16-8-12,8,12,,Vendido,,0,50%,0Gs.
 16-9-1,9,1,,Libre,700.000,91.000.000,50%,45.500.000Gs.
